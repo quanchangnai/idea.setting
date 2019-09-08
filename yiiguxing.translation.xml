@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comment" />
       <item value="prohibited" />
       <item value="Message Tips Config" />
       <item value="Common Constants" />
@@ -50,12 +51,11 @@
       <item value="knowledge" />
       <item value="relies" />
       <item value="coordinated" />
-      <item value="capability" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1147" />
-        <entry key="ENGLISH" value="1147" />
+        <entry key="ENGLISH" value="1148" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
