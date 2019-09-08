@@ -1,0 +1,95 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Message Tips Config" />
+      <item value="Common Constants" />
+      <item value="Common Constant" />
+      <item value="conmon" />
+      <item value="fields" />
+      <item value="Constant Definition" />
+      <item value="on Update Prop" />
+      <item value="tips" />
+      <item value="convertible" />
+      <item value="plain" />
+      <item value="normal" />
+      <item value="positive" />
+      <item value="should not have parameters" />
+      <item value="process Class Dependency" />
+      <item value="generic" />
+      <item value="self" />
+      <item value="params" />
+      <item value="reserved Field Names" />
+      <item value="check New Args" />
+      <item value="args" />
+      <item value="param" />
+      <item value="sure Write" />
+      <item value="available" />
+      <item value="integer" />
+      <item value="validate Bits" />
+      <item value="shift" />
+      <item value="assumptions" />
+      <item value="representation" />
+      <item value="strip" />
+      <item value="persistent" />
+      <item value="is Builtin Type" />
+      <item value="is Built In Type" />
+      <item value="DATA TYPES" />
+      <item value="TIME TYPES" />
+      <item value="definition" />
+      <item value="defintion" />
+      <item value="load Factor" />
+      <item value="coroutines" />
+      <item value="specified" />
+      <item value="UNINITIALIZED" />
+      <item value="load" />
+      <item value="development" />
+      <item value="internal" />
+      <item value="designed" />
+      <item value="reentrant" />
+      <item value="knowledge" />
+      <item value="relies" />
+      <item value="coordinated" />
+      <item value="capability" />
+      <item value="influence" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1146" />
+        <entry key="ENGLISH" value="1147" />
+        <entry key="CHINESE_TRADITIONAL" value="6" />
+        <entry key="ARABIC" value="1" />
+        <entry key="ESTONIAN" value="2" />
+        <entry key="BELARUSIAN" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="2" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="FRENCH" value="6" />
+        <entry key="HAITIAN_CREOLE" value="2" />
+        <entry key="GALICIAN" value="3" />
+        <entry key="CZECH" value="3" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="TELUGU" value="1" />
+        <entry key="UKRAINIAN" value="1" />
+        <entry key="GREEK" value="4" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180810000193114" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Monospaced" />
+    <option name="primaryFontFamily" value="Monospaced" />
+  </component>
+</application>

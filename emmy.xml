@@ -1,0 +1,6 @@
+<application>
+  <component name="LuaCheckSettings">
+    <option name="luaCheck" value="D:\lua\luacheck.exe" />
+    <option name="luaCheckArgs" value="" />
+  </component>
+</application>
