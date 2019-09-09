@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Define Package Name" />
       <item value="language Exclude" />
       <item value="lang Exclude" />
       <item value="is Reserved Word" />
@@ -50,12 +51,11 @@
       <item value="coroutines" />
       <item value="specified" />
       <item value="UNINITIALIZED" />
-      <item value="load" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1152" />
-        <entry key="ENGLISH" value="1153" />
+        <entry key="CHINESE" value="1153" />
+        <entry key="ENGLISH" value="1154" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
