@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Reserved Word" />
       <item value="extern" />
       <item value="stackalloc" />
       <item value="rows" />
@@ -50,12 +51,11 @@
       <item value="load" />
       <item value="development" />
       <item value="internal" />
-      <item value="designed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1150" />
-        <entry key="ENGLISH" value="1150" />
+        <entry key="ENGLISH" value="1151" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
