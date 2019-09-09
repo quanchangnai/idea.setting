@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="member Current" />
       <item value="ALV LEADER" />
       <item value="C Apply Decision" />
       <item value="WAIT PERMISSION" />
@@ -50,12 +51,11 @@
       <item value="DATA TYPES" />
       <item value="TIME TYPES" />
       <item value="definition" />
-      <item value="defintion" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1157" />
+        <entry key="ENGLISH" value="1158" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
