@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="C Agree Invite" />
+      <item value="invitee Id" />
+      <item value="combat Power" />
       <item value="member Current" />
       <item value="ALV LEADER" />
       <item value="C Apply Decision" />
@@ -48,14 +51,11 @@
       <item value="persistent" />
       <item value="is Builtin Type" />
       <item value="is Built In Type" />
-      <item value="DATA TYPES" />
-      <item value="TIME TYPES" />
-      <item value="definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1158" />
+        <entry key="CHINESE" value="1160" />
+        <entry key="ENGLISH" value="1161" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
