@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Collect" />
+      <item value="Common" />
       <item value="C Dismiss Alliance" />
       <item value="right Invitation" />
       <item value="supported Languages" />
@@ -49,13 +51,11 @@
       <item value="normal" />
       <item value="positive" />
       <item value="should not have parameters" />
-      <item value="process Class Dependency" />
-      <item value="generic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1180" />
-        <entry key="ENGLISH" value="1181" />
+        <entry key="CHINESE" value="1182" />
+        <entry key="ENGLISH" value="1183" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
