@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alliance Invite Mail Info" />
+      <item value="inviter" />
       <item value="PROMOTION RANK" />
       <item value="Collect" />
       <item value="Common" />
@@ -49,13 +51,11 @@
       <item value="tips" />
       <item value="convertible" />
       <item value="plain" />
-      <item value="normal" />
-      <item value="positive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1183" />
-        <entry key="ENGLISH" value="1184" />
+        <entry key="CHINESE" value="1184" />
+        <entry key="ENGLISH" value="1185" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="6" />
+        <entry key="FRENCH" value="7" />
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="GALICIAN" value="3" />
