@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Headed Message" />
+      <item value="head" />
+      <item value="message" />
       <item value="Head Definition" />
       <item value="Mutable Long" />
       <item value="agree" />
@@ -48,14 +51,11 @@
       <item value="prohibited" />
       <item value="Message Tips Config" />
       <item value="Common Constants" />
-      <item value="Common Constant" />
-      <item value="conmon" />
-      <item value="fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1189" />
-        <entry key="ENGLISH" value="1190" />
+        <entry key="CHINESE" value="1192" />
+        <entry key="ENGLISH" value="1193" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
