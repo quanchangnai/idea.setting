@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutable Long" />
       <item value="agree" />
       <item value="separator" />
       <item value="Alliance Invite" />
@@ -50,12 +51,11 @@
       <item value="conmon" />
       <item value="fields" />
       <item value="Constant Definition" />
-      <item value="on Update Prop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1187" />
-        <entry key="ENGLISH" value="1188" />
+        <entry key="CHINESE" value="1188" />
+        <entry key="ENGLISH" value="1189" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
