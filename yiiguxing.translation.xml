@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="C Change Alliance Welcome Text" />
       <item value="Entity NAME PATTERN" />
       <item value="is Reserved Word" />
       <item value="access" />
@@ -50,12 +51,11 @@
       <item value="lang Exclude" />
       <item value="extern" />
       <item value="stackalloc" />
-      <item value="rows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1203" />
-        <entry key="ENGLISH" value="1204" />
+        <entry key="CHINESE" value="1204" />
+        <entry key="ENGLISH" value="1205" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
