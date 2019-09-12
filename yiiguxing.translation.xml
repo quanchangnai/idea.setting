@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="persistent Row Locks" />
+      <item value="memory Row Locks" />
+      <item value="nonpersistent Row Locks" />
+      <item value="persistent" />
+      <item value="Cache Table" />
+      <item value="no Cache Row Locks" />
       <item value="set Original Package Name" />
       <item value="original Package Name" />
       <item value="originalpackage Name" />
@@ -45,17 +51,11 @@
       <item value="invitee Id" />
       <item value="combat Power" />
       <item value="member Current" />
-      <item value="ALV LEADER" />
-      <item value="C Apply Decision" />
-      <item value="WAIT PERMISSION" />
-      <item value="announcement" />
-      <item value="get Define Package Name" />
-      <item value="language Exclude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1207" />
-        <entry key="ENGLISH" value="1208" />
+        <entry key="CHINESE" value="1212" />
+        <entry key="ENGLISH" value="1213" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="7" />
+        <entry key="FRENCH" value="11" />
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="GALICIAN" value="3" />
