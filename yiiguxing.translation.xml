@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entity NAME PATTERN" />
+      <item value="is Reserved Word" />
       <item value="access" />
       <item value="hero Adventure City Entity" />
       <item value="EXPLORING" />
@@ -46,16 +48,14 @@
       <item value="get Define Package Name" />
       <item value="language Exclude" />
       <item value="lang Exclude" />
-      <item value="is Reserved Word" />
       <item value="extern" />
       <item value="stackalloc" />
       <item value="rows" />
-      <item value="Item Constant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1201" />
-        <entry key="ENGLISH" value="1202" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="1204" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
