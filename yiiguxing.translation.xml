@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dialogue" />
       <item value="all Hero Favors" />
       <item value="hero favor" />
       <item value="row" />
@@ -50,12 +51,11 @@
       <item value="C Dismiss Member" />
       <item value="DISMISS" />
       <item value="APPROVAL" />
-      <item value="INVITE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
-        <entry key="ENGLISH" value="1220" />
+        <entry key="CHINESE" value="1220" />
+        <entry key="ENGLISH" value="1221" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
