@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compute If Absent" />
       <item value="localhost" />
       <item value="updater" />
       <item value="favorite" />
@@ -50,12 +51,11 @@
       <item value="origin Type" />
       <item value="node Count" />
       <item value="parse Class Nodes" />
-      <item value="parse Class Children Nodes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1224" />
-        <entry key="ENGLISH" value="1225" />
+        <entry key="CHINESE" value="1225" />
+        <entry key="ENGLISH" value="1226" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
