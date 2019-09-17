@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stronghold Level" />
+      <item value="combat Power" />
       <item value="compute If Absent" />
       <item value="localhost" />
       <item value="updater" />
@@ -49,13 +51,11 @@
       <item value="lang" />
       <item value="parse Class Children" />
       <item value="origin Type" />
-      <item value="node Count" />
-      <item value="parse Class Nodes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1225" />
-        <entry key="ENGLISH" value="1226" />
+        <entry key="CHINESE" value="1227" />
+        <entry key="ENGLISH" value="1228" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
