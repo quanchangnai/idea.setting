@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="localhost" />
       <item value="updater" />
       <item value="favorite" />
       <item value="RESPECT" />
@@ -50,12 +51,11 @@
       <item value="node Count" />
       <item value="parse Class Nodes" />
       <item value="parse Class Children Nodes" />
-      <item value="S Dismiss Member" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1223" />
-        <entry key="ENGLISH" value="1224" />
+        <entry key="CHINESE" value="1224" />
+        <entry key="ENGLISH" value="1225" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
