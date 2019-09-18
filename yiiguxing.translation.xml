@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="influence" />
+      <item value="good trait" />
       <item value="specific" />
       <item value="corresponding" />
       <item value="prefix Map" />
@@ -50,12 +51,11 @@
       <item value="agree" />
       <item value="separator" />
       <item value="Alliance Invite" />
-      <item value="Alliance Invite Mail Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1235" />
-        <entry key="ENGLISH" value="1236" />
+        <entry key="CHINESE" value="1237" />
+        <entry key="ENGLISH" value="1238" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="11" />
+        <entry key="FRENCH" value="12" />
         <entry key="FINNISH" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="GALICIAN" value="3" />
