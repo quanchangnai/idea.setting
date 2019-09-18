@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prefix Map" />
+      <item value="Abstract Bitwise Trie" />
       <item value="Radix" />
       <item value="collate" />
       <item value="9_" />
@@ -49,13 +51,11 @@
       <item value="inviter" />
       <item value="PROMOTION RANK" />
       <item value="Collect" />
-      <item value="Common" />
-      <item value="C Dismiss Alliance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1231" />
-        <entry key="ENGLISH" value="1231" />
+        <entry key="CHINESE" value="1232" />
+        <entry key="ENGLISH" value="1233" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
