@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="directly" />
+      <item value="garbage" />
+      <item value="park" />
+      <item value="expunge Stale Entries" />
+      <item value="cause" />
+      <item value="finalize Referent" />
+      <item value="finalization" />
       <item value="influence" />
       <item value="good trait" />
       <item value="specific" />
@@ -44,18 +51,11 @@
       <item value="EXPLORING" />
       <item value="QUEST NOT NEAR NPC" />
       <item value="Headed Message" />
-      <item value="head" />
-      <item value="message" />
-      <item value="Head Definition" />
-      <item value="Mutable Long" />
-      <item value="agree" />
-      <item value="separator" />
-      <item value="Alliance Invite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1237" />
-        <entry key="ENGLISH" value="1238" />
+        <entry key="CHINESE" value="1244" />
+        <entry key="ENGLISH" value="1245" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
