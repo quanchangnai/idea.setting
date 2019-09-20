@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="linearizable" />
+      <item value="snapshot" />
+      <item value="Read Concern" />
+      <item value="Read Concern Level" />
+      <item value="multiple" />
       <item value="level" />
       <item value="loadable" />
       <item value="present" />
@@ -46,16 +51,11 @@
       <item value="no Cache Row Locks" />
       <item value="set Original Package Name" />
       <item value="original Package Name" />
-      <item value="originalpackage Name" />
-      <item value="C Change Alliance Welcome Text" />
-      <item value="Entity NAME PATTERN" />
-      <item value="is Reserved Word" />
-      <item value="access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1248" />
-        <entry key="ENGLISH" value="1249" />
+        <entry key="CHINESE" value="1254" />
+        <entry key="ENGLISH" value="1255" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
