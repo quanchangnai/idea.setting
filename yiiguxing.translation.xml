@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="appears" />
+      <item value="counts" />
       <item value="scalable" />
       <item value="linearizable" />
       <item value="snapshot" />
@@ -49,13 +51,11 @@
       <item value="nonpersistent Row Locks" />
       <item value="persistent" />
       <item value="Cache Table" />
-      <item value="no Cache Row Locks" />
-      <item value="set Original Package Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1255" />
-        <entry key="ENGLISH" value="1256" />
+        <entry key="CHINESE" value="1257" />
+        <entry key="ENGLISH" value="1258" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
