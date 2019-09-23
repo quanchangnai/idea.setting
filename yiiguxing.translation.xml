@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="failed" />
       <item value="salt" />
       <item value="decoded Sign" />
       <item value="origin" />
@@ -50,12 +51,11 @@
       <item value="dialogue" />
       <item value="all Hero Favors" />
       <item value="hero favor" />
-      <item value="row" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1264" />
-        <entry key="ENGLISH" value="1265" />
+        <entry key="CHINESE" value="1265" />
+        <entry key="ENGLISH" value="1266" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
