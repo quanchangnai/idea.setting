@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="have Got" />
       <item value="role Id Strings" />
       <item value="handle Cmd" />
       <item value="get Combat Power" />
@@ -50,12 +51,11 @@
       <item value="combat Power" />
       <item value="compute If Absent" />
       <item value="localhost" />
-      <item value="updater" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1271" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
