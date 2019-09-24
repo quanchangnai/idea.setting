@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle Cmd" />
       <item value="get Combat Power" />
       <item value="separator" />
       <item value="apply" />
@@ -50,12 +51,11 @@
       <item value="localhost" />
       <item value="updater" />
       <item value="favorite" />
-      <item value="RESPECT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
-        <entry key="ENGLISH" value="1269" />
+        <entry key="CHINESE" value="1269" />
+        <entry key="ENGLISH" value="1270" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
