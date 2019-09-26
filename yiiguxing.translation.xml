@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Have Arms Accumulate" />
       <item value="Hero Upgrade" />
       <item value="SIEGE" />
       <item value="CAVALRY" />
@@ -50,12 +51,11 @@
       <item value="corresponding" />
       <item value="prefix Map" />
       <item value="Abstract Bitwise Trie" />
-      <item value="Radix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1284" />
+        <entry key="CHINESE" value="1284" />
+        <entry key="ENGLISH" value="1285" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
