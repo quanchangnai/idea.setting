@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="C 2 S Instruction" />
+      <item value="set Instruction Step" />
       <item value="get Owner Id" />
       <item value="get Player Id" />
       <item value="collect Per" />
@@ -49,13 +51,11 @@
       <item value="Read Concern" />
       <item value="Read Concern Level" />
       <item value="multiple" />
-      <item value="level" />
-      <item value="loadable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1301" />
-        <entry key="ENGLISH" value="1302" />
+        <entry key="CHINESE" value="1303" />
+        <entry key="ENGLISH" value="1304" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
