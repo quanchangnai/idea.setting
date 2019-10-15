@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="occupy" />
       <item value="Accumulate Tutorial Step" />
       <item value="set Forced Remaining Capacity" />
       <item value="max Queue Size" />
@@ -50,12 +51,11 @@
       <item value="appears" />
       <item value="counts" />
       <item value="scalable" />
-      <item value="linearizable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1307" />
-        <entry key="ENGLISH" value="1308" />
+        <entry key="CHINESE" value="1308" />
+        <entry key="ENGLISH" value="1309" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
