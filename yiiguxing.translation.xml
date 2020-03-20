@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check Params" />
       <item value="TERRITORY NORMAL SPEEDUP" />
       <item value="QUEUE HAS RELATE" />
       <item value="plat Path" />
@@ -50,12 +51,11 @@
       <item value="CIVILIZATION" />
       <item value="DESERTED" />
       <item value="merge" />
-      <item value="share Orfalse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1383" />
-        <entry key="ENGLISH" value="1384" />
+        <entry key="CHINESE" value="1385" />
+        <entry key="ENGLISH" value="1386" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
