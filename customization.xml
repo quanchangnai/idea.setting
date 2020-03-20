@@ -1,0 +1,28 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="$ShowInstantTranslationDialogAction" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Translation Toolbar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$ShowTranslationDialogAction" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Translation Toolbar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$ShowInstantTranslationDialogAction" is_action="true" action_type="1" position="30">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$ShowTranslationDialogAction" is_action="true" action_type="1" position="31">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
