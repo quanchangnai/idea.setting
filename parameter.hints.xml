@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="tgame.generator.utils.CsvUtils.readCsv(filePath)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
