@@ -48,6 +48,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
