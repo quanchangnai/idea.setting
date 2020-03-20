@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="QUEUE HAS RELATE" />
       <item value="plat Path" />
       <item value="parse Definitions" />
       <item value="HEAL" />
@@ -50,12 +51,11 @@
       <item value="merge" />
       <item value="share Orfalse" />
       <item value="on Tower Disappear" />
-      <item value="Tower Episode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1381" />
-        <entry key="ENGLISH" value="1382" />
+        <entry key="CHINESE" value="1382" />
+        <entry key="ENGLISH" value="1383" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
