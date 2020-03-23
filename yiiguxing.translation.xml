@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="C Change Avatar" />
+      <item value="avatars" />
+      <item value="avatar" />
       <item value="default Encoding Explicitly Set" />
       <item value="check Params" />
       <item value="TERRITORY NORMAL SPEEDUP" />
@@ -48,14 +51,11 @@
       <item value="ancestors" />
       <item value="validate Config" />
       <item value="Config Validator" />
-      <item value="compute If Absent" />
-      <item value="CIVILIZATION" />
-      <item value="DESERTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1386" />
-        <entry key="ENGLISH" value="1387" />
+        <entry key="CHINESE" value="1388" />
+        <entry key="ENGLISH" value="1388" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="7" />
+        <entry key="FRENCH" value="8" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="GALICIAN" value="3" />
         <entry key="CZECH" value="3" />
@@ -81,7 +81,7 @@
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="1" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="6" />
       </map>
     </option>
   </component>
