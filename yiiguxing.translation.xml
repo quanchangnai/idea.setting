@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unlocked Avatars" />
       <item value="C Change Avatar" />
       <item value="avatars" />
       <item value="avatar" />
@@ -50,12 +51,11 @@
       <item value="children" />
       <item value="ancestors" />
       <item value="validate Config" />
-      <item value="Config Validator" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1388" />
-        <entry key="ENGLISH" value="1388" />
+        <entry key="ENGLISH" value="1389" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
