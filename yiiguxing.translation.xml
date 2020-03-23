@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escaped Delimiter" />
+      <item value="get Delimiter" />
+      <item value="get Escaped Delimiter" />
       <item value="localized" />
       <item value="unlocked Avatars" />
       <item value="C Change Avatar" />
@@ -48,14 +51,11 @@
       <item value="constant 1" />
       <item value="reward List" />
       <item value="get By Key" />
-      <item value="click Collect" />
-      <item value="children" />
-      <item value="ancestors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1390" />
-        <entry key="ENGLISH" value="1391" />
+        <entry key="CHINESE" value="1393" />
+        <entry key="ENGLISH" value="1394" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
