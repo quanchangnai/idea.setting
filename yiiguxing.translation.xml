@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="head icon" />
+      <item value="Animation Mark" />
+      <item value="Area" />
+      <item value="Achievement" />
+      <item value="Piece" />
+      <item value="cfg Id" />
+      <item value="Unlock Type" />
+      <item value="validated Classes" />
       <item value="get Imported By Other" />
       <item value="get Import By Other" />
       <item value="dependency" />
@@ -43,19 +51,11 @@
       <item value="MELLEBASE" />
       <item value="BUFF PERCENT BASE" />
       <item value="energy Max Add Ratio" />
-      <item value="BUILDING TIME DECREASE RATIO" />
-      <item value="shield Add Duration" />
-      <item value="current Plat Path" />
-      <item value="Collector" />
-      <item value="can Fin" />
-      <item value="SUBMITTED" />
-      <item value="WAIT REWARD" />
-      <item value="noon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1402" />
-        <entry key="ENGLISH" value="1403" />
+        <entry key="CHINESE" value="1413" />
+        <entry key="ENGLISH" value="1414" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
