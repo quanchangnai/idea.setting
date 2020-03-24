@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Validations" />
       <item value="dirties" />
       <item value="origin Type_" />
       <item value="oringin Type_" />
@@ -50,12 +51,11 @@
       <item value="TOWER" />
       <item value="SOLDIER" />
       <item value="MELLE" />
-      <item value="MACHINEBASE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1420" />
-        <entry key="ENGLISH" value="1421" />
+        <entry key="CHINESE" value="1421" />
+        <entry key="ENGLISH" value="1422" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
