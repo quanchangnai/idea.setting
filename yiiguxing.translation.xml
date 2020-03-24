@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dirties" />
       <item value="referent" />
       <item value="Validations" />
-      <item value="dirties" />
       <item value="origin Type_" />
       <item value="oringin Type_" />
       <item value="get User Import" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1422" />
-        <entry key="ENGLISH" value="1422" />
+        <entry key="ENGLISH" value="1423" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
