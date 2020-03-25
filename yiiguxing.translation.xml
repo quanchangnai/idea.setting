@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lack Fields" />
       <item value="actual Bean Definition" />
       <item value="get If Present" />
       <item value="get Player If Present" />
@@ -50,12 +51,11 @@
       <item value="DEAD" />
       <item value="TRAINING" />
       <item value="Acquire Troop Type By Quest" />
-      <item value="category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1429" />
-        <entry key="ENGLISH" value="1430" />
+        <entry key="CHINESE" value="1430" />
+        <entry key="ENGLISH" value="1431" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
