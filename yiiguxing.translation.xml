@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get If Present" />
+      <item value="get Player If Present" />
       <item value="extension" />
       <item value="separator" />
       <item value="descendants" />
@@ -49,13 +51,11 @@
       <item value="Acquire Troop Type By Quest" />
       <item value="category" />
       <item value="data" />
-      <item value="RESTILEDROPTIME" />
-      <item value="time Decrease Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1426" />
-        <entry key="ENGLISH" value="1427" />
+        <entry key="CHINESE" value="1428" />
+        <entry key="ENGLISH" value="1429" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
