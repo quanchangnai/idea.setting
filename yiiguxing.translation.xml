@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="C Click New Avatar" />
+      <item value="C Watch New Avatar" />
+      <item value="Watch" />
+      <item value="C Watch" />
+      <item value="C Watch Unlocked Avatar" />
+      <item value="C Look Unlocked Avatar" />
+      <item value="C Unlocked Avatar" />
       <item value="lack Fields" />
       <item value="actual Bean Definition" />
       <item value="get If Present" />
@@ -44,18 +51,11 @@
       <item value="default Encoding Explicitly Set" />
       <item value="check Params" />
       <item value="TERRITORY NORMAL SPEEDUP" />
-      <item value="QUEUE HAS RELATE" />
-      <item value="plat Path" />
-      <item value="parse Definitions" />
-      <item value="HEAL" />
-      <item value="DEAD" />
-      <item value="TRAINING" />
-      <item value="Acquire Troop Type By Quest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1430" />
-        <entry key="ENGLISH" value="1431" />
+        <entry key="CHINESE" value="1438" />
+        <entry key="ENGLISH" value="1439" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
