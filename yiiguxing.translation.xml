@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRIVATE" />
+      <item value="ALLIANCE" />
+      <item value="WORLD" />
       <item value="avatar Frame" />
       <item value="lack Fields" />
       <item value="item 2" />
@@ -48,14 +51,11 @@
       <item value="get Escaped Delimiter" />
       <item value="localized" />
       <item value="unlocked Avatars" />
-      <item value="C Change Avatar" />
-      <item value="avatars" />
-      <item value="avatar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1442" />
-        <entry key="ENGLISH" value="1443" />
+        <entry key="CHINESE" value="1445" />
+        <entry key="ENGLISH" value="1446" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
