@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="truncated" />
+      <item value="accessible" />
       <item value="available Bytes" />
       <item value="remaining" />
       <item value="Bytes Buffer" />
@@ -49,13 +51,11 @@
       <item value="expected Count" />
       <item value="splited Count" />
       <item value="DEFENSE TROOP COUNT" />
-      <item value="escaped Delimiter" />
-      <item value="get Delimiter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1449" />
-        <entry key="ENGLISH" value="1450" />
+        <entry key="CHINESE" value="1451" />
+        <entry key="ENGLISH" value="1452" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
