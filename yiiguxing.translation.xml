@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aggregates" />
+      <item value="aggregate" />
       <item value="is Conflict" />
       <item value="startup" />
       <item value="loop" />
@@ -49,13 +51,11 @@
       <item value="get Imported By Other" />
       <item value="get Name 4 Validate" />
       <item value="descendant Max Field Count" />
-      <item value="head icon" />
-      <item value="Animation Mark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1465" />
-        <entry key="ENGLISH" value="1466" />
+        <entry key="CHINESE" value="1468" />
+        <entry key="ENGLISH" value="1469" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
