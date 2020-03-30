@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accumulators" />
+      <item value="aggregation" />
+      <item value="pipeline" />
+      <item value="Accumulators" />
+      <item value="Projections" />
+      <item value="Operator Filter" />
+      <item value="mark As Partial Object" />
       <item value="get Retry Writes" />
       <item value="associate" />
       <item value="Aggregates" />
@@ -44,18 +51,11 @@
       <item value="extension" />
       <item value="separator" />
       <item value="descendants" />
-      <item value="normal" />
-      <item value="dirties" />
-      <item value="referent" />
-      <item value="Validations" />
-      <item value="origin Type_" />
-      <item value="oringin Type_" />
-      <item value="get Imported By Other" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1470" />
-        <entry key="ENGLISH" value="1471" />
+        <entry key="CHINESE" value="1483" />
+        <entry key="ENGLISH" value="1484" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
