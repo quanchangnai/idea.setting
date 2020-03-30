@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prepare Class" />
       <item value="get Common Combat Power" />
       <item value="Recursive Task" />
       <item value="Headed Message" />
@@ -50,12 +51,11 @@
       <item value="Achievement" />
       <item value="Piece" />
       <item value="cfg Id" />
-      <item value="Unlock Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1459" />
-        <entry key="ENGLISH" value="1460" />
+        <entry key="CHINESE" value="1460" />
+        <entry key="ENGLISH" value="1461" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
