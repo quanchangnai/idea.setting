@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ring" />
+      <item value="Expand" />
       <item value="Base Field" />
       <item value="Database" />
       <item value="init Options" />
@@ -49,13 +51,11 @@
       <item value="remaining" />
       <item value="Bytes Buffer" />
       <item value="PRIVATE" />
-      <item value="ALLIANCE" />
-      <item value="WORLD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1503" />
-        <entry key="ENGLISH" value="1504" />
+        <entry key="CHINESE" value="1505" />
+        <entry key="ENGLISH" value="1506" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
