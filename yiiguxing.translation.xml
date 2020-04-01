@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponding" />
       <item value="generate Id If Absent From Document" />
       <item value="encoding Collectible Document" />
       <item value="operations" />
@@ -50,12 +51,11 @@
       <item value="exercise" />
       <item value="directly" />
       <item value="stipulations" />
-      <item value="Typically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1559" />
-        <entry key="ENGLISH" value="1560" />
+        <entry key="CHINESE" value="1560" />
+        <entry key="ENGLISH" value="1561" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
