@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate Id If Absent From Document" />
+      <item value="encoding Collectible Document" />
+      <item value="operations" />
       <item value="Bson Document Writer" />
       <item value="document" />
       <item value="codecs" />
@@ -8,7 +11,6 @@
       <item value="complete" />
       <item value="documents" />
       <item value="collection" />
-      <item value="generate Id If Absent From Document" />
       <item value="Collectible Codec" />
       <item value="scope document" />
       <item value="scope" />
@@ -28,7 +30,6 @@
       <item value="child" />
       <item value="BYQUEST" />
       <item value="various" />
-      <item value="operations" />
       <item value="acknowledgment" />
       <item value="element" />
       <item value="Enhancer" />
@@ -50,12 +51,11 @@
       <item value="directly" />
       <item value="stipulations" />
       <item value="Typically" />
-      <item value="accept Quest 4 Cheat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1556" />
-        <entry key="ENGLISH" value="1557" />
+        <entry key="CHINESE" value="1559" />
+        <entry key="ENGLISH" value="1560" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
