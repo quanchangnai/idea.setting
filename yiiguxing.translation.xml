@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dependent" />
+      <item value="resolving" />
+      <item value="Document" />
       <item value="context" />
       <item value="deserializes" />
       <item value="document" />
@@ -48,14 +51,11 @@
       <item value="accumulators" />
       <item value="aggregation" />
       <item value="pipeline" />
-      <item value="Accumulators" />
-      <item value="Projections" />
-      <item value="Operator Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1534" />
-        <entry key="ENGLISH" value="1535" />
+        <entry key="CHINESE" value="1539" />
+        <entry key="ENGLISH" value="1540" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
