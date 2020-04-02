@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="read Start Document" />
+      <item value="map 2" />
       <item value="increases" />
       <item value="DOWN" />
       <item value="positive" />
@@ -49,13 +51,11 @@
       <item value="various" />
       <item value="acknowledgment" />
       <item value="corresponding" />
-      <item value="generate Id If Absent From Document" />
-      <item value="operations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1628" />
-        <entry key="ENGLISH" value="1629" />
+        <entry key="CHINESE" value="1632" />
+        <entry key="ENGLISH" value="1633" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
