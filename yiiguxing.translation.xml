@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="increases" />
+      <item value="DOWN" />
+      <item value="positive" />
+      <item value="infinity" />
       <item value="Encountered" />
       <item value="expecting" />
       <item value="ordering" />
@@ -47,15 +51,11 @@
       <item value="corresponding" />
       <item value="generate Id If Absent From Document" />
       <item value="operations" />
-      <item value="Bson Document Writer" />
-      <item value="document" />
-      <item value="Data Codec Registry" />
-      <item value="collection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1624" />
-        <entry key="ENGLISH" value="1625" />
+        <entry key="CHINESE" value="1628" />
+        <entry key="ENGLISH" value="1629" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
