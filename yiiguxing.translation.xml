@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Collectible Codec" />
+      <item value="documents" />
+      <item value="complete" />
+      <item value="generates" />
       <item value="MELLEBASE" />
       <item value="SOLDIER" />
       <item value="to Int Exact" />
@@ -37,10 +41,7 @@
       <item value="Bson Document Writer" />
       <item value="document" />
       <item value="Data Codec Registry" />
-      <item value="complete" />
-      <item value="documents" />
       <item value="collection" />
-      <item value="Collectible Codec" />
       <item value="scope document" />
       <item value="scope" />
       <item value="SCOPE DOCUMENT" />
@@ -50,12 +51,11 @@
       <item value="resolving" />
       <item value="Document" />
       <item value="context" />
-      <item value="deserializes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1608" />
-        <entry key="ENGLISH" value="1608" />
+        <entry key="CHINESE" value="1611" />
+        <entry key="ENGLISH" value="1612" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
