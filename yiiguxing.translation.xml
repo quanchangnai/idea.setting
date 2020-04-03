@@ -1,6 +1,46 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="min Connections Per Host" />
+      <item value="max Connection Idle Time" />
+      <item value="mongo Client" />
+      <item value="secondaries" />
+      <item value="MAJORITY" />
+      <item value="majority" />
+      <item value="REPLICA ACKNOWLEDGED" />
+      <item value="LINEARIZABLE" />
+      <item value="read Preference" />
+      <item value="local Threshold" />
+      <item value="heartbeat Frequency" />
+      <item value="read Concern" />
+      <item value="retry Reads" />
+      <item value="retry Writes" />
+      <item value="compressor List" />
+      <item value="NEAREST" />
+      <item value="SECONDARY" />
+      <item value="PRIMARY" />
+      <item value="ACKNOWLEDGED" />
+      <item value="UNACKNOWLEDGED" />
+      <item value="SNAPSHOT" />
+      <item value="AVAILABLE" />
+      <item value="compatible" />
+      <item value="available" />
+      <item value="snapshot" />
+      <item value="linearizable" />
+      <item value="LOCAL" />
+      <item value="isolation" />
+      <item value="slave Acceptable Latency MS" />
+      <item value="min Heartbeat Frequency" />
+      <item value="initialization" />
+      <item value="updater Interval MS" />
+      <item value="FSYNCED" />
+      <item value="Reference" />
+      <item value="Concern" />
+      <item value="JOURNALED" />
+      <item value="JOURNAL SAFE" />
+      <item value="acknowledgment" />
+      <item value="write Concern" />
+      <item value="UPPER CAMEL" />
       <item value="CIVILIZATION" />
       <item value="DESERTED" />
       <item value="on Tower Disappear" />
@@ -11,51 +51,11 @@
       <item value="policy Preset" />
       <item value="instruct Preset Modify" />
       <item value="name" />
-      <item value="march Id" />
-      <item value="C Policy Preset" />
-      <item value="Dead Event" />
-      <item value="Subscribe" />
-      <item value="immediate" />
-      <item value="legacy Async" />
-      <item value="first Char Only To Upper" />
-      <item value="normalize Word" />
-      <item value="convert" />
-      <item value="upper Underline Name" />
-      <item value="HERO NOT Match" />
-      <item value="Obsolete" />
-      <item value="FUNCTION" />
-      <item value="BINARY" />
-      <item value="epoch" />
-      <item value="regardless" />
-      <item value="REGULAR EXPRESSION" />
-      <item value="DATE TIME" />
-      <item value="update Async" />
-      <item value="regarding" />
-      <item value="collation" />
-      <item value="read Start Document" />
-      <item value="map 2" />
-      <item value="increases" />
-      <item value="DOWN" />
-      <item value="positive" />
-      <item value="infinity" />
-      <item value="Encountered" />
-      <item value="expecting" />
-      <item value="ordering" />
-      <item value="differently" />
-      <item value="act" />
-      <item value="choose" />
-      <item value="might" />
-      <item value="child" />
-      <item value="encoding Collectible Document" />
-      <item value="signal" />
-      <item value="Collectible Codec" />
-      <item value="documents" />
-      <item value="complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1667" />
-        <entry key="ENGLISH" value="1668" />
+        <entry key="CHINESE" value="1720" />
+        <entry key="ENGLISH" value="1721" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="8" />
+        <entry key="FRENCH" value="10" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="GALICIAN" value="3" />
         <entry key="CATALAN" value="1" />
