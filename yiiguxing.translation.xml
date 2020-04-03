@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="codecs" />
+      <item value="rely" />
+      <item value="exercise" />
+      <item value="contract" />
+      <item value="general" />
+      <item value="stipulations" />
       <item value="aggregate" />
       <item value="sparse" />
       <item value="unique" />
@@ -45,17 +51,11 @@
       <item value="min Heartbeat Frequency" />
       <item value="initialization" />
       <item value="updater Interval MS" />
-      <item value="FSYNCED" />
-      <item value="Reference" />
-      <item value="Concern" />
-      <item value="JOURNALED" />
-      <item value="JOURNAL SAFE" />
-      <item value="acknowledgment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1733" />
-        <entry key="ENGLISH" value="1734" />
+        <entry key="CHINESE" value="1740" />
+        <entry key="ENGLISH" value="1741" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
