@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dead Event" />
+      <item value="Subscribe" />
+      <item value="immediate" />
+      <item value="legacy Async" />
       <item value="first Char Only To Upper" />
       <item value="normalize Word" />
       <item value="convert" />
@@ -47,15 +51,11 @@
       <item value="descending" />
       <item value="ascending" />
       <item value="cluster" />
-      <item value="supported" />
-      <item value="exclusive" />
-      <item value="replay" />
-      <item value="oplog Replay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1652" />
-        <entry key="ENGLISH" value="1653" />
+        <entry key="CHINESE" value="1656" />
+        <entry key="ENGLISH" value="1657" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
