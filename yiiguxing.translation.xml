@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Read Preference" />
+      <item value="COMMAND COLLECTION NAME" />
+      <item value="check Collection Name Validity" />
+      <item value="collection Name" />
       <item value="codecs" />
       <item value="rely" />
       <item value="exercise" />
@@ -13,7 +17,6 @@
       <item value="background" />
       <item value="collation" />
       <item value="Change Stream Iterable" />
-      <item value="collection Name" />
       <item value="client Options" />
       <item value="Databases" />
       <item value="socket Keep Alive" />
@@ -48,14 +51,11 @@
       <item value="LOCAL" />
       <item value="isolation" />
       <item value="slave Acceptable Latency MS" />
-      <item value="min Heartbeat Frequency" />
-      <item value="initialization" />
-      <item value="updater Interval MS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1740" />
-        <entry key="ENGLISH" value="1741" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1746" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
