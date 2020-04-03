@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regarding" />
+      <item value="collation" />
       <item value="read Start Document" />
       <item value="map 2" />
       <item value="increases" />
@@ -49,13 +51,11 @@
       <item value="Codec Registry" />
       <item value="logger" />
       <item value="various" />
-      <item value="acknowledgment" />
-      <item value="corresponding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1632" />
-        <entry key="ENGLISH" value="1633" />
+        <entry key="CHINESE" value="1636" />
+        <entry key="ENGLISH" value="1637" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
