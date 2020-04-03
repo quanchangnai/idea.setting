@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aggregate" />
+      <item value="sparse" />
+      <item value="unique" />
+      <item value="background" />
+      <item value="collation" />
+      <item value="Change Stream Iterable" />
+      <item value="collection Name" />
       <item value="client Options" />
       <item value="Databases" />
       <item value="socket Keep Alive" />
@@ -44,18 +51,11 @@
       <item value="JOURNALED" />
       <item value="JOURNAL SAFE" />
       <item value="acknowledgment" />
-      <item value="write Concern" />
-      <item value="UPPER CAMEL" />
-      <item value="CIVILIZATION" />
-      <item value="DESERTED" />
-      <item value="on Tower Disappear" />
-      <item value="living" />
-      <item value="depart March Army" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1725" />
-        <entry key="ENGLISH" value="1726" />
+        <entry key="CHINESE" value="1733" />
+        <entry key="ENGLISH" value="1734" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
