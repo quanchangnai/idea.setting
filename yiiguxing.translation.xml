@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Tower Disappear" />
+      <item value="living" />
+      <item value="depart March Army" />
+      <item value="depart" />
+      <item value="march Defence Army" />
+      <item value="policy Preset" />
+      <item value="instruct Preset Modify" />
+      <item value="name" />
+      <item value="march Id" />
+      <item value="C Policy Preset" />
       <item value="Dead Event" />
       <item value="Subscribe" />
       <item value="immediate" />
@@ -41,21 +51,11 @@
       <item value="complete" />
       <item value="generates" />
       <item value="MELLEBASE" />
-      <item value="SOLDIER" />
-      <item value="to Int Exact" />
-      <item value="codex active" />
-      <item value="geo Haystack" />
-      <item value="index" />
-      <item value="sphere" />
-      <item value="geo 2 dsphere" />
-      <item value="descending" />
-      <item value="ascending" />
-      <item value="cluster" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1656" />
-        <entry key="ENGLISH" value="1657" />
+        <entry key="CHINESE" value="1665" />
+        <entry key="ENGLISH" value="1666" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
