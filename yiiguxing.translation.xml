@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="client Options" />
+      <item value="Databases" />
       <item value="socket Keep Alive" />
       <item value="threads Allowed To Block For Connection Multiplier" />
       <item value="min Connections Per Host" />
@@ -49,13 +51,11 @@
       <item value="on Tower Disappear" />
       <item value="living" />
       <item value="depart March Army" />
-      <item value="depart" />
-      <item value="march Defence Army" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1723" />
-        <entry key="ENGLISH" value="1724" />
+        <entry key="CHINESE" value="1725" />
+        <entry key="ENGLISH" value="1726" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
