@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commit Listeners" />
+      <item value="success Tasks" />
+      <item value="Collation" />
+      <item value="upsert" />
       <item value="tower Disappear" />
       <item value="add No Log" />
       <item value="_Iterator" />
@@ -47,15 +51,11 @@
       <item value="threads Allowed To Block For Connection Multiplier" />
       <item value="min Connections Per Host" />
       <item value="uri" />
-      <item value="max Connection Idle Time" />
-      <item value="mongo Client" />
-      <item value="secondaries" />
-      <item value="MAJORITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1773" />
-        <entry key="ENGLISH" value="1774" />
+        <entry key="CHINESE" value="1779" />
+        <entry key="ENGLISH" value="1780" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -72,7 +72,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="3" />
-        <entry key="NORWEGIAN" value="4" />
+        <entry key="NORWEGIAN" value="5" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="3" />
         <entry key="SLOVAK" value="2" />
