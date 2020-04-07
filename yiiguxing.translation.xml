@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tower Disappear" />
       <item value="add No Log" />
       <item value="_Iterator" />
       <item value="validate" />
@@ -50,12 +51,11 @@
       <item value="mongo Client" />
       <item value="secondaries" />
       <item value="MAJORITY" />
-      <item value="majority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1772" />
-        <entry key="ENGLISH" value="1773" />
+        <entry key="CHINESE" value="1773" />
+        <entry key="ENGLISH" value="1774" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
