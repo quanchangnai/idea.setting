@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="after Tasks" />
+      <item value="after Task" />
+      <item value="commit Listeners" />
       <item value="update" />
       <item value="changes" />
       <item value="task" />
@@ -11,7 +13,6 @@
       <item value="listener" />
       <item value="committed" />
       <item value="run" />
-      <item value="commit Listeners" />
       <item value="success Tasks" />
       <item value="Collation" />
       <item value="upsert" />
@@ -50,12 +51,11 @@
       <item value="general" />
       <item value="stipulations" />
       <item value="aggregate" />
-      <item value="sparse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1792" />
-        <entry key="ENGLISH" value="1793" />
+        <entry key="CHINESE" value="1798" />
+        <entry key="ENGLISH" value="1799" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
