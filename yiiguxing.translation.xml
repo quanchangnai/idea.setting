@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="after Tasks" />
+      <item value="update" />
+      <item value="changes" />
+      <item value="task" />
+      <item value="execute" />
+      <item value="outside Execute" />
+      <item value="inside Execute" />
+      <item value="listener" />
+      <item value="committed" />
+      <item value="run" />
       <item value="commit Listeners" />
       <item value="success Tasks" />
       <item value="Collation" />
@@ -41,21 +51,11 @@
       <item value="stipulations" />
       <item value="aggregate" />
       <item value="sparse" />
-      <item value="unique" />
-      <item value="background" />
-      <item value="collation" />
-      <item value="Change Stream Iterable" />
-      <item value="client Options" />
-      <item value="Databases" />
-      <item value="socket Keep Alive" />
-      <item value="threads Allowed To Block For Connection Multiplier" />
-      <item value="min Connections Per Host" />
-      <item value="uri" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1779" />
-        <entry key="ENGLISH" value="1780" />
+        <entry key="CHINESE" value="1792" />
+        <entry key="ENGLISH" value="1793" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
