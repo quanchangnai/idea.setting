@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Primitive Field" />
+      <item value="PRIMITIVE TYPES" />
       <item value="apply Connection String" />
       <item value="Various" />
       <item value="factories" />
@@ -49,13 +51,11 @@
       <item value="REPLICA ACKNOWLEDGED" />
       <item value="LINEARIZABLE" />
       <item value="read Preference" />
-      <item value="local Threshold" />
-      <item value="heartbeat Frequency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1766" />
-        <entry key="ENGLISH" value="1767" />
+        <entry key="CHINESE" value="1768" />
+        <entry key="ENGLISH" value="1769" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
