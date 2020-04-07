@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collections" />
+      <item value="Data Updater" />
+      <item value="changes" />
+      <item value="Data Updator" />
+      <item value="Data Saver" />
+      <item value="collation" />
+      <item value="bypass Document Validation" />
       <item value="Data Save Listener" />
       <item value="array Filters" />
       <item value="require Non Null" />
@@ -16,7 +23,6 @@
       <item value="listeners" />
       <item value="end Tasks" />
       <item value="data Logs" />
-      <item value="changes" />
       <item value="commit" />
       <item value="failed" />
       <item value="encoder Context" />
@@ -45,17 +51,11 @@
       <item value="serve" />
       <item value="resources" />
       <item value="maintaining" />
-      <item value="representation" />
-      <item value="synchronous" />
-      <item value="Mongo Credential" />
-      <item value="max Size" />
-      <item value="Mongo Client Delegate" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1847" />
-        <entry key="ENGLISH" value="1848" />
+        <entry key="CHINESE" value="1855" />
+        <entry key="ENGLISH" value="1856" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -71,7 +71,7 @@
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="3" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="NORWEGIAN" value="5" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="3" />
