@@ -1,18 +1,34 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="array Filters" />
+      <item value="require Non Null" />
+      <item value="elements" />
+      <item value="mod Count" />
+      <item value="transaction" />
+      <item value="log" />
+      <item value="task" />
+      <item value="committed" />
+      <item value="listener" />
+      <item value="Consumer" />
+      <item value="listen" />
+      <item value="listeners" />
+      <item value="end Tasks" />
+      <item value="data Logs" />
+      <item value="changes" />
+      <item value="commit" />
+      <item value="failed" />
+      <item value="encoder Context" />
+      <item value="ROLE TYPE" />
+      <item value="run" />
+      <item value="end" />
       <item value="after Tasks" />
       <item value="after Task" />
       <item value="commit Listeners" />
       <item value="update" />
-      <item value="changes" />
-      <item value="task" />
       <item value="execute" />
       <item value="outside Execute" />
       <item value="inside Execute" />
-      <item value="listener" />
-      <item value="committed" />
-      <item value="run" />
       <item value="success Tasks" />
       <item value="Collation" />
       <item value="upsert" />
@@ -35,27 +51,11 @@
       <item value="Mongo Client Delegate" />
       <item value="delegate" />
       <item value="executor" />
-      <item value="read Concern" />
-      <item value="rest" />
-      <item value="will" />
-      <item value="deprecated" />
-      <item value="Deprecated" />
-      <item value="Read Preference" />
-      <item value="COMMAND COLLECTION NAME" />
-      <item value="check Collection Name Validity" />
-      <item value="collection Name" />
-      <item value="codecs" />
-      <item value="rely" />
-      <item value="exercise" />
-      <item value="contract" />
-      <item value="general" />
-      <item value="stipulations" />
-      <item value="aggregate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1798" />
-        <entry key="ENGLISH" value="1799" />
+        <entry key="CHINESE" value="1846" />
+        <entry key="ENGLISH" value="1847" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
