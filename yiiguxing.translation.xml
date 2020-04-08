@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="graalvm" />
+      <item value="fallback" />
       <item value="collections" />
       <item value="Data Updater" />
       <item value="changes" />
@@ -49,13 +51,11 @@
       <item value="Various" />
       <item value="factories" />
       <item value="serve" />
-      <item value="resources" />
-      <item value="maintaining" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1855" />
-        <entry key="ENGLISH" value="1856" />
+        <entry key="CHINESE" value="1857" />
+        <entry key="ENGLISH" value="1857" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -65,6 +65,7 @@
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="10" />
         <entry key="HAITIAN_CREOLE" value="2" />
+        <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="3" />
