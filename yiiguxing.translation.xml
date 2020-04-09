@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="battle Display" />
       <item value="Add All Charsets" />
       <item value="fallback" />
       <item value="validate" />
@@ -50,12 +51,11 @@
       <item value="Collation" />
       <item value="upsert" />
       <item value="tower Disappear" />
-      <item value="add No Log" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1868" />
-        <entry key="ENGLISH" value="1869" />
+        <entry key="CHINESE" value="1873" />
+        <entry key="ENGLISH" value="1874" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
