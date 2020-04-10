@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grouping By" />
+      <item value="Accumulate Research Finished Count" />
+      <item value="Treat Accumulate" />
       <item value="World Resource Times" />
       <item value="output Directory" />
       <item value="reinforce" />
@@ -48,14 +51,11 @@
       <item value="failed" />
       <item value="encoder Context" />
       <item value="ROLE TYPE" />
-      <item value="run" />
-      <item value="end" />
-      <item value="after Tasks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1884" />
-        <entry key="ENGLISH" value="1885" />
+        <entry key="CHINESE" value="1887" />
+        <entry key="ENGLISH" value="1888" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
