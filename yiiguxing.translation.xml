@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Definition Less Config Loader" />
+      <item value="graal" />
       <item value="Reinforce Player City March" />
       <item value="grouping By" />
       <item value="Accumulate Research Finished Count" />
@@ -49,13 +51,11 @@
       <item value="end Tasks" />
       <item value="data Logs" />
       <item value="commit" />
-      <item value="failed" />
-      <item value="encoder Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1888" />
-        <entry key="ENGLISH" value="1889" />
+        <entry key="CHINESE" value="1891" />
+        <entry key="ENGLISH" value="1892" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="10" />
+        <entry key="FRENCH" value="11" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="3" />
