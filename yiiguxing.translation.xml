@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="owner" />
       <item value="MELLEBASE" />
       <item value="false" />
       <item value="默认false" />
@@ -50,12 +51,11 @@
       <item value="task" />
       <item value="committed" />
       <item value="listener" />
-      <item value="Consumer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1895" />
-        <entry key="ENGLISH" value="1895" />
+        <entry key="ENGLISH" value="1896" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
