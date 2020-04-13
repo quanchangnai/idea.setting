@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecated" />
+      <item value="considered as" />
+      <item value="considered" />
+      <item value="via" />
       <item value="Mongo Updater" />
       <item value="Various" />
       <item value="Accumulate Research Finished Count" />
@@ -47,15 +51,11 @@
       <item value="Data Updater" />
       <item value="changes" />
       <item value="Data Updator" />
-      <item value="Data Saver" />
-      <item value="collation" />
-      <item value="bypass Document Validation" />
-      <item value="Data Save Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1915" />
-        <entry key="ENGLISH" value="1915" />
+        <entry key="CHINESE" value="1924" />
+        <entry key="ENGLISH" value="1925" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
