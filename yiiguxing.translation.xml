@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Various" />
       <item value="Accumulate Research Finished Count" />
       <item value="Troop Entity" />
       <item value="preset" />
@@ -50,12 +51,11 @@
       <item value="bypass Document Validation" />
       <item value="Data Save Listener" />
       <item value="array Filters" />
-      <item value="require Non Null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1913" />
-        <entry key="ENGLISH" value="1914" />
+        <entry key="CHINESE" value="1914" />
+        <entry key="ENGLISH" value="1915" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
