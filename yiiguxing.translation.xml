@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reinforce" />
       <item value="single Field Indexes" />
       <item value="owner" />
       <item value="MELLEBASE" />
@@ -16,7 +17,6 @@
       <item value="Treat Accumulate" />
       <item value="World Resource Times" />
       <item value="output Directory" />
-      <item value="reinforce" />
       <item value="Equiped Sum" />
       <item value="Train Any Troop By Quest" />
       <item value="fallback" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1896" />
-        <entry key="ENGLISH" value="1897" />
+        <entry key="CHINESE" value="1897" />
+        <entry key="ENGLISH" value="1898" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
