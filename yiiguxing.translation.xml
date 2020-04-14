@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="USER DUPLICATE ROLE ERROR" />
       <item value="kick" />
       <item value="Mongo Manager" />
       <item value="deprecated" />
@@ -50,12 +51,11 @@
       <item value="value" />
       <item value="graalvm" />
       <item value="collections" />
-      <item value="Data Updater" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1925" />
-        <entry key="ENGLISH" value="1926" />
+        <entry key="CHINESE" value="1926" />
+        <entry key="ENGLISH" value="1927" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
