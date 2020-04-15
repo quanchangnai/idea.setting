@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Abstract" />
       <item value="total Active Time" />
       <item value="account day" />
       <item value="dependent" />
@@ -50,12 +51,11 @@
       <item value="Add All Charsets" />
       <item value="validate" />
       <item value="root" />
-      <item value="node" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1933" />
-        <entry key="ENGLISH" value="1934" />
+        <entry key="CHINESE" value="1934" />
+        <entry key="ENGLISH" value="1935" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
