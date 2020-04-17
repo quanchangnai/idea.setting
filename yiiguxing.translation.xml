@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rebuild Epoch" />
+      <item value="World Entity Type" />
+      <item value="SECONDS" />
+      <item value="POINT ASSISTED" />
+      <item value="POLICY SERVER ID" />
       <item value="belong" />
       <item value="POINT NONE" />
       <item value="set March Pass" />
@@ -46,16 +51,11 @@
       <item value="unable" />
       <item value="due" />
       <item value="keys" />
-      <item value="Index" />
-      <item value="real Troop Cfg" />
-      <item value="on Troop Level Up" />
-      <item value="REINFORCE PLAY CITY" />
-      <item value="encode Army Pos" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2002" />
-        <entry key="ENGLISH" value="2003" />
+        <entry key="CHINESE" value="2007" />
+        <entry key="ENGLISH" value="2008" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
