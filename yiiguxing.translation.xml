@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sparse" />
+      <item value="references" />
+      <item value="specified" />
+      <item value="documents" />
+      <item value="geohaystack" />
+      <item value="geo Haystack" />
+      <item value="additional" />
+      <item value="field Names" />
+      <item value="compound Index" />
+      <item value="precedence" />
       <item value="validate" />
       <item value="transaction" />
       <item value="SKIPTUR" />
@@ -41,21 +51,11 @@
       <item value="Troop Entity" />
       <item value="preset" />
       <item value="cfg Id" />
-      <item value="free" />
-      <item value="represent" />
-      <item value="reinforce" />
-      <item value="single Field Indexes" />
-      <item value="owner" />
-      <item value="MELLEBASE" />
-      <item value="false" />
-      <item value="默认false" />
-      <item value="max Occurs" />
-      <item value="unbounded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1962" />
-        <entry key="ENGLISH" value="1963" />
+        <entry key="CHINESE" value="1976" />
+        <entry key="ENGLISH" value="1977" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
