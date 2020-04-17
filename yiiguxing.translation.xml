@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TERRITORY" />
+      <item value="GARRISON" />
       <item value="run While Committed" />
       <item value="committed" />
       <item value="data" />
@@ -49,13 +51,11 @@
       <item value="account day" />
       <item value="dependent" />
       <item value="importantly" />
-      <item value="prune" />
-      <item value="porcelain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1987" />
-        <entry key="ENGLISH" value="1988" />
+        <entry key="CHINESE" value="1989" />
+        <entry key="ENGLISH" value="1990" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
