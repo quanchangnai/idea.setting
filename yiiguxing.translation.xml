@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Table Indices" />
       <item value="validate" />
       <item value="end Tasks" />
       <item value="updaters" />
@@ -50,12 +51,11 @@
       <item value="transaction" />
       <item value="SKIPTUR" />
       <item value="already" />
-      <item value="INSTRUCTION END STEP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2017" />
-        <entry key="ENGLISH" value="2018" />
+        <entry key="CHINESE" value="2018" />
+        <entry key="ENGLISH" value="2019" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
