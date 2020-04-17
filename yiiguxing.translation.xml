@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validate" />
       <item value="end Tasks" />
       <item value="updaters" />
       <item value="Game Exception" />
@@ -46,7 +47,6 @@
       <item value="field Names" />
       <item value="compound Index" />
       <item value="precedence" />
-      <item value="validate" />
       <item value="transaction" />
       <item value="SKIPTUR" />
       <item value="already" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2016" />
-        <entry key="ENGLISH" value="2017" />
+        <entry key="CHINESE" value="2017" />
+        <entry key="ENGLISH" value="2018" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
