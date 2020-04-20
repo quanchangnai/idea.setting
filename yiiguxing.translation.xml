@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="run After Rollback" />
       <item value="run After Commit" />
       <item value="run After End" />
       <item value="Recon March" />
@@ -50,12 +51,11 @@
       <item value="relevant" />
       <item value="alternative" />
       <item value="listener" />
-      <item value="credential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2040" />
-        <entry key="ENGLISH" value="2041" />
+        <entry key="CHINESE" value="2041" />
+        <entry key="ENGLISH" value="2042" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
