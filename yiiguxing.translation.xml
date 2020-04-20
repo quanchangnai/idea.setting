@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bucket" />
+      <item value="Represents" />
+      <item value="Bucket" />
+      <item value="replacement" />
+      <item value="reassemble" />
       <item value="ERROR" />
       <item value="rate" />
       <item value="moderate" />
@@ -46,16 +51,11 @@
       <item value="world Grid" />
       <item value="rebuild Epoch" />
       <item value="World Entity Type" />
-      <item value="SECONDS" />
-      <item value="POINT ASSISTED" />
-      <item value="POLICY SERVER ID" />
-      <item value="POINT NONE" />
-      <item value="set March Pass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2068" />
-        <entry key="ENGLISH" value="2069" />
+        <entry key="CHINESE" value="2073" />
+        <entry key="ENGLISH" value="2074" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
