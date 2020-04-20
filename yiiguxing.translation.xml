@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR" />
+      <item value="rate" />
+      <item value="moderate" />
+      <item value="STRICT" />
+      <item value="validation Action" />
+      <item value="validation Level" />
+      <item value="capped" />
+      <item value="validation" />
+      <item value="bypass Document Validation" />
+      <item value="provided" />
+      <item value="one-shot" />
+      <item value="shot" />
+      <item value="belong" />
       <item value="arg Values" />
       <item value="after Node Access" />
       <item value="after Node Removal" />
@@ -36,26 +49,13 @@
       <item value="SECONDS" />
       <item value="POINT ASSISTED" />
       <item value="POLICY SERVER ID" />
-      <item value="belong" />
       <item value="POINT NONE" />
       <item value="set March Pass" />
-      <item value="get Point XY" />
-      <item value="points" />
-      <item value="Integer" />
-      <item value="refresh" />
-      <item value="TERRITORY" />
-      <item value="GARRISON" />
-      <item value="run While Committed" />
-      <item value="committed" />
-      <item value="data" />
-      <item value="updates" />
-      <item value="Updater" />
-      <item value="response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2048" />
-        <entry key="ENGLISH" value="2049" />
+        <entry key="CHINESE" value="2068" />
+        <entry key="ENGLISH" value="2069" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
