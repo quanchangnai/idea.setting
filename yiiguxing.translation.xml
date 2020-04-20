@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="efficiently" />
+      <item value="set Current Size" />
+      <item value="forces" />
+      <item value="buffered" />
+      <item value="Flushes" />
+      <item value="actually" />
+      <item value="guarantee" />
+      <item value="passed" />
+      <item value="previously" />
+      <item value="guarantees" />
+      <item value="file" />
+      <item value="underlying" />
+      <item value="abstraction" />
+      <item value="destination" />
+      <item value="intended" />
+      <item value="contract" />
+      <item value="out" />
+      <item value="storage" />
+      <item value="written" />
+      <item value="CORE COUNT" />
+      <item value="interval" />
       <item value="POINT ASSISTED" />
       <item value="POINT NONE" />
       <item value="initialed" />
@@ -30,32 +51,11 @@
       <item value="compute If Absent" />
       <item value="run After Rollback" />
       <item value="run After Commit" />
-      <item value="run After End" />
-      <item value="Recon March" />
-      <item value="remove Attacker City Shields" />
-      <item value="thread Local" />
-      <item value="logger" />
-      <item value="end Tasks" />
-      <item value="end Run" />
-      <item value="fail" />
-      <item value="Interceptor" />
-      <item value="proxy" />
-      <item value="Agent" />
-      <item value="enable Lambda Hot Agent" />
-      <item value="exclusions" />
-      <item value="check" />
-      <item value="Table Indices" />
-      <item value="validate" />
-      <item value="updaters" />
-      <item value="Game Exception" />
-      <item value="_get Log Root" />
-      <item value="_set Log Root" />
-      <item value="validate Collection Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2077" />
-        <entry key="ENGLISH" value="2078" />
+        <entry key="CHINESE" value="2098" />
+        <entry key="ENGLISH" value="2099" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
