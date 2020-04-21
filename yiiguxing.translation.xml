@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Slot" />
+      <item value="rotate" />
+      <item value="slot" />
       <item value="ring" />
       <item value="Switch Form Function" />
       <item value="Arrow Postion" />
@@ -48,14 +51,11 @@
       <item value="DESERT" />
       <item value="ICE" />
       <item value="efficiently" />
-      <item value="set Current Size" />
-      <item value="forces" />
-      <item value="buffered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2165" />
-        <entry key="ENGLISH" value="2166" />
+        <entry key="CHINESE" value="2168" />
+        <entry key="ENGLISH" value="2169" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
