@@ -1,9 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aggregate" />
+      <item value="estimated Document Count" />
+      <item value="estimated" />
+      <item value="deprecation" />
+      <item value="Delegate Operation Executor" />
+      <item value="compute If Present" />
+      <item value="compute If Absent" />
+      <item value="resulting" />
+      <item value="performing" />
+      <item value="additionally" />
+      <item value="consisting" />
+      <item value="peek" />
       <item value="accumulator" />
-      <item value="accumulating" />
       <item value="reduce" />
+      <item value="accumulating" />
       <item value="associative" />
       <item value="identity" />
       <item value="associates" />
@@ -39,23 +51,11 @@
       <item value="Battle Formation V 2" />
       <item value="Slot" />
       <item value="rotate" />
-      <item value="slot" />
-      <item value="ring" />
-      <item value="Switch Form Function" />
-      <item value="Arrow Postion" />
-      <item value="need Show" />
-      <item value="aftered Tasks" />
-      <item value="after Tasks" />
-      <item value="afterd Tasks" />
-      <item value="fail" />
-      <item value="failed" />
-      <item value="success" />
-      <item value="DEFAULT TURSTEP SKIPTUR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2273" />
-        <entry key="ENGLISH" value="2274" />
+        <entry key="CHINESE" value="2289" />
+        <entry key="ENGLISH" value="2290" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
