@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEFAULT TURSTEP SKIPTUR" />
+      <item value="instruction" />
+      <item value="has Instruction" />
+      <item value="is Has Instruction" />
       <item value="march Models" />
       <item value="ORDER DESC" />
       <item value="EQ" />
@@ -47,15 +51,11 @@
       <item value="underlying" />
       <item value="abstraction" />
       <item value="destination" />
-      <item value="intended" />
-      <item value="contract" />
-      <item value="out" />
-      <item value="storage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2146" />
-        <entry key="ENGLISH" value="2147" />
+        <entry key="CHINESE" value="2151" />
+        <entry key="ENGLISH" value="2152" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
