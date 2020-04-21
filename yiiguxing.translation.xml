@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has 2 Point March" />
+      <item value="Territory Collect March" />
+      <item value="POINT ASSISTED" />
+      <item value="is Obj Valid" />
+      <item value="HERO" />
+      <item value="MAZE" />
+      <item value="TERRITORY" />
+      <item value="TERRITORY INS" />
+      <item value="80" />
+      <item value="GARRISON" />
+      <item value="PLAYER CITY" />
+      <item value="Explore" />
+      <item value="Npc" />
+      <item value="Resource" />
+      <item value="Province" />
+      <item value="occupy" />
       <item value="HILL" />
       <item value="FOREST" />
       <item value="LAKE" />
@@ -30,32 +46,16 @@
       <item value="written" />
       <item value="CORE COUNT" />
       <item value="interval" />
-      <item value="POINT ASSISTED" />
       <item value="POINT NONE" />
       <item value="initialed" />
       <item value="bucket" />
       <item value="Represents" />
       <item value="Bucket" />
-      <item value="replacement" />
-      <item value="reassemble" />
-      <item value="ERROR" />
-      <item value="rate" />
-      <item value="moderate" />
-      <item value="STRICT" />
-      <item value="validation Action" />
-      <item value="validation Level" />
-      <item value="capped" />
-      <item value="validation" />
-      <item value="bypass Document Validation" />
-      <item value="provided" />
-      <item value="one-shot" />
-      <item value="shot" />
-      <item value="belong" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2106" />
-        <entry key="ENGLISH" value="2107" />
+        <entry key="CHINESE" value="2124" />
+        <entry key="ENGLISH" value="2125" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
