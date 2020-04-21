@@ -1,15 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accumulator" />
+      <item value="accumulating" />
+      <item value="reduce" />
+      <item value="associative" />
+      <item value="identity" />
       <item value="associates" />
       <item value="according" />
       <item value="Aggregates" />
       <item value="collect" />
       <item value="Collectors" />
-      <item value="reduce" />
-      <item value="accumulator" />
       <item value="Binary Operator" />
-      <item value="identity" />
       <item value="flat Map" />
       <item value="log" />
       <item value="null" />
@@ -49,13 +51,11 @@
       <item value="failed" />
       <item value="success" />
       <item value="DEFAULT TURSTEP SKIPTUR" />
-      <item value="instruction" />
-      <item value="has Instruction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2263" />
-        <entry key="ENGLISH" value="2264" />
+        <entry key="CHINESE" value="2273" />
+        <entry key="ENGLISH" value="2274" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
