@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tile Type" />
       <item value="Transaction" />
       <item value="execute" />
       <item value="has 2 Point March" />
@@ -26,7 +27,6 @@
       <item value="GRASS" />
       <item value="DESERT" />
       <item value="ICE" />
-      <item value="Tile Type" />
       <item value="efficiently" />
       <item value="set Current Size" />
       <item value="forces" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2131" />
-        <entry key="ENGLISH" value="2132" />
+        <entry key="CHINESE" value="2132" />
+        <entry key="ENGLISH" value="2133" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
