@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flat Map" />
       <item value="log" />
       <item value="null" />
       <item value="validate Entity Root" />
@@ -50,12 +51,11 @@
       <item value="List Multimap" />
       <item value="Tile Type" />
       <item value="Transaction" />
-      <item value="execute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2252" />
-        <entry key="ENGLISH" value="2253" />
+        <entry key="CHINESE" value="2253" />
+        <entry key="ENGLISH" value="2254" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
