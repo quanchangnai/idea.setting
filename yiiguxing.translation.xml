@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transaction Body" />
+      <item value="Bucket" />
+      <item value="Grid FS Bucket" />
+      <item value="majority" />
+      <item value="vast" />
+      <item value="sufficient" />
+      <item value="Non Tailable" />
+      <item value="is Slave Ok" />
+      <item value="is Tailable Cursor" />
+      <item value="try Has Next" />
+      <item value="Deprecated" />
+      <item value="bson Output" />
+      <item value="checked Discriminator" />
+      <item value="Reply Header" />
+      <item value="Reply Message" />
+      <item value="Read Binding" />
       <item value="aggregate" />
       <item value="estimated Document Count" />
       <item value="estimated" />
@@ -35,27 +51,11 @@
       <item value="last" />
       <item value="get Mod Count" />
       <item value="write" />
-      <item value="plus" />
-      <item value="Contents of collection 'map2' are queried, but never updated" />
-      <item value="battle" />
-      <item value="block File" />
-      <item value="read Compact Uint" />
-      <item value="Recon" />
-      <item value="with Initial" />
-      <item value="Action Maze Event" />
-      <item value="is Field Battle" />
-      <item value="city Id" />
-      <item value="display Id" />
-      <item value="I Executor Chooser" />
-      <item value="Formation" />
-      <item value="Battle Formation V 2" />
-      <item value="Slot" />
-      <item value="rotate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2289" />
-        <entry key="ENGLISH" value="2290" />
+        <entry key="CHINESE" value="2307" />
+        <entry key="ENGLISH" value="2308" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -84,6 +84,7 @@
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="6" />
       </map>
