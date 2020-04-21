@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="battle" />
+      <item value="block File" />
+      <item value="read Compact Uint" />
+      <item value="Recon" />
+      <item value="with Initial" />
+      <item value="Action Maze Event" />
+      <item value="is Field Battle" />
+      <item value="city Id" />
+      <item value="display Id" />
+      <item value="I Executor Chooser" />
+      <item value="Formation" />
+      <item value="Battle Formation V 2" />
       <item value="Slot" />
       <item value="rotate" />
       <item value="slot" />
@@ -39,23 +51,11 @@
       <item value="GARRISON" />
       <item value="PLAYER CITY" />
       <item value="Explore" />
-      <item value="Npc" />
-      <item value="Resource" />
-      <item value="Province" />
-      <item value="occupy" />
-      <item value="HILL" />
-      <item value="FOREST" />
-      <item value="LAKE" />
-      <item value="LAKE SIDE" />
-      <item value="GRASS" />
-      <item value="DESERT" />
-      <item value="ICE" />
-      <item value="efficiently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2168" />
-        <entry key="ENGLISH" value="2169" />
+        <entry key="CHINESE" value="2180" />
+        <entry key="ENGLISH" value="2181" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -63,7 +63,7 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="5" />
         <entry key="GERMAN" value="3" />
-        <entry key="RUSSIAN" value="1" />
+        <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="11" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="1" />
