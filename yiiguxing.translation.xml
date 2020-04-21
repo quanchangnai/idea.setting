@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HILL" />
+      <item value="FOREST" />
+      <item value="LAKE" />
+      <item value="LAKE SIDE" />
+      <item value="GRASS" />
+      <item value="DESERT" />
+      <item value="ICE" />
+      <item value="Tile Type" />
       <item value="efficiently" />
       <item value="set Current Size" />
       <item value="forces" />
@@ -43,19 +51,11 @@
       <item value="one-shot" />
       <item value="shot" />
       <item value="belong" />
-      <item value="arg Values" />
-      <item value="after Node Access" />
-      <item value="after Node Removal" />
-      <item value="after Node Insertion" />
-      <item value="ordered" />
-      <item value="compute If Absent" />
-      <item value="run After Rollback" />
-      <item value="run After Commit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2098" />
-        <entry key="ENGLISH" value="2099" />
+        <entry key="CHINESE" value="2106" />
+        <entry key="ENGLISH" value="2107" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
