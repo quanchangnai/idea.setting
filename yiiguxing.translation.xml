@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transaction" />
+      <item value="execute" />
       <item value="has 2 Point March" />
       <item value="Territory Collect March" />
       <item value="POINT ASSISTED" />
@@ -49,13 +51,11 @@
       <item value="POINT NONE" />
       <item value="initialed" />
       <item value="bucket" />
-      <item value="Represents" />
-      <item value="Bucket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2124" />
-        <entry key="ENGLISH" value="2125" />
+        <entry key="CHINESE" value="2131" />
+        <entry key="ENGLISH" value="2132" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
