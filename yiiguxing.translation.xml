@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="march Models" />
+      <item value="ORDER DESC" />
+      <item value="EQ" />
+      <item value="GT" />
       <item value="tower Time Out Check" />
       <item value="List Multimap" />
       <item value="Tile Type" />
@@ -47,15 +51,11 @@
       <item value="contract" />
       <item value="out" />
       <item value="storage" />
-      <item value="written" />
-      <item value="CORE COUNT" />
-      <item value="interval" />
-      <item value="POINT NONE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2134" />
-        <entry key="ENGLISH" value="2135" />
+        <entry key="CHINESE" value="2146" />
+        <entry key="ENGLISH" value="2147" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
