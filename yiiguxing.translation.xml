@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Callable With Source" />
       <item value="primary" />
       <item value="preference" />
       <item value="Car" />
@@ -50,12 +51,11 @@
       <item value="according" />
       <item value="Aggregates" />
       <item value="collect" />
-      <item value="Collectors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2319" />
-        <entry key="ENGLISH" value="2320" />
+        <entry key="CHINESE" value="2320" />
+        <entry key="ENGLISH" value="2321" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
