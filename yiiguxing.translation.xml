@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Car" />
       <item value="retain" />
       <item value="next Batch" />
       <item value="Reference Counted" />
@@ -50,12 +51,11 @@
       <item value="Collectors" />
       <item value="Binary Operator" />
       <item value="flat Map" />
-      <item value="log" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2316" />
-        <entry key="ENGLISH" value="2317" />
+        <entry key="CHINESE" value="2317" />
+        <entry key="ENGLISH" value="2318" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
