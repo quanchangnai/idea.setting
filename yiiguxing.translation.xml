@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concat" />
       <item value="Transaction Body" />
       <item value="Bucket" />
       <item value="Grid FS Bucket" />
@@ -50,12 +51,11 @@
       <item value="cursor" />
       <item value="last" />
       <item value="get Mod Count" />
-      <item value="write" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2307" />
-        <entry key="ENGLISH" value="2308" />
+        <entry key="CHINESE" value="2308" />
+        <entry key="ENGLISH" value="2309" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
