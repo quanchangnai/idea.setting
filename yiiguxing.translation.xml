@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retain" />
+      <item value="next Batch" />
+      <item value="Reference Counted" />
+      <item value="send Query Succeeded Event" />
+      <item value="return Key" />
+      <item value="oplog Replay" />
+      <item value="is Oplog Replay" />
+      <item value="hint" />
       <item value="concat" />
       <item value="Transaction Body" />
       <item value="Bucket" />
@@ -43,19 +51,11 @@
       <item value="Binary Operator" />
       <item value="flat Map" />
       <item value="log" />
-      <item value="null" />
-      <item value="validate Entity Root" />
-      <item value="value" />
-      <item value="root" />
-      <item value="transaction" />
-      <item value="cursor" />
-      <item value="last" />
-      <item value="get Mod Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2308" />
-        <entry key="ENGLISH" value="2309" />
+        <entry key="CHINESE" value="2316" />
+        <entry key="ENGLISH" value="2317" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
