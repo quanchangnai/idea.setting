@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execute" />
+      <item value="update" />
       <item value="enhance" />
       <item value="execute Method" />
       <item value="originator" />
@@ -49,13 +51,11 @@
       <item value="performing" />
       <item value="additionally" />
       <item value="consisting" />
-      <item value="peek" />
-      <item value="accumulator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2330" />
-        <entry key="ENGLISH" value="2331" />
+        <entry key="CHINESE" value="2332" />
+        <entry key="ENGLISH" value="2333" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
