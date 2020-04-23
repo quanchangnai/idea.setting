@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DELETION" />
+      <item value="UPDATE" />
+      <item value="INSERTION" />
       <item value="updater" />
       <item value="operation" />
       <item value="functionality" />
@@ -48,14 +51,11 @@
       <item value="Read Binding" />
       <item value="aggregate" />
       <item value="estimated Document Count" />
-      <item value="estimated" />
-      <item value="deprecation" />
-      <item value="Delegate Operation Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2339" />
-        <entry key="ENGLISH" value="2340" />
+        <entry key="CHINESE" value="2342" />
+        <entry key="ENGLISH" value="2343" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
