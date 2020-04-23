@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecation" />
+      <item value="explicitly" />
+      <item value="signature" />
+      <item value="Though" />
       <item value="DELETION" />
       <item value="UPDATE" />
       <item value="INSERTION" />
@@ -47,15 +51,11 @@
       <item value="sufficient" />
       <item value="Non Tailable" />
       <item value="is Slave Ok" />
-      <item value="is Tailable Cursor" />
-      <item value="try Has Next" />
-      <item value="Deprecated" />
-      <item value="bson Output" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2350" />
-        <entry key="ENGLISH" value="2351" />
+        <entry key="CHINESE" value="2354" />
+        <entry key="ENGLISH" value="2355" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
