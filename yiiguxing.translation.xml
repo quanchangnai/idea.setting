@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operation" />
+      <item value="functionality" />
+      <item value="required" />
+      <item value="infrastructure" />
+      <item value="via" />
       <item value="enhance" />
       <item value="execute" />
       <item value="update" />
@@ -46,16 +51,11 @@
       <item value="deprecation" />
       <item value="Delegate Operation Executor" />
       <item value="compute If Present" />
-      <item value="compute If Absent" />
-      <item value="resulting" />
-      <item value="performing" />
-      <item value="additionally" />
-      <item value="consisting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2333" />
-        <entry key="ENGLISH" value="2334" />
+        <entry key="CHINESE" value="2338" />
+        <entry key="ENGLISH" value="2339" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
