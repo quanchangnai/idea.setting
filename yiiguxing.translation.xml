@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="free" />
       <item value="ceil" />
       <item value="compare" />
       <item value="sign" />
@@ -50,12 +51,11 @@
       <item value="Aggregate Response Batch Cursor" />
       <item value="Callable With Source" />
       <item value="primary" />
-      <item value="preference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2378" />
-        <entry key="ENGLISH" value="2379" />
+        <entry key="CHINESE" value="2380" />
+        <entry key="ENGLISH" value="2381" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
