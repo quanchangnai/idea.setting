@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="negate" />
       <item value="pipeline" />
       <item value="forbid Write" />
       <item value="enhanced" />
@@ -50,12 +51,11 @@
       <item value="Bucket" />
       <item value="Grid FS Bucket" />
       <item value="majority" />
-      <item value="vast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2359" />
-        <entry key="ENGLISH" value="2360" />
+        <entry key="CHINESE" value="2360" />
+        <entry key="ENGLISH" value="2361" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
