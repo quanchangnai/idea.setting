@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JAIL" />
+      <item value="MARCHING" />
+      <item value="FREE" />
       <item value="AREACFG" />
       <item value="TIMECAL" />
       <item value="player World Entity" />
@@ -48,14 +51,11 @@
       <item value="inserts" />
       <item value="do Insert" />
       <item value="updater" />
-      <item value="operation" />
-      <item value="functionality" />
-      <item value="required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2420" />
-        <entry key="ENGLISH" value="2421" />
+        <entry key="CHINESE" value="2423" />
+        <entry key="ENGLISH" value="2424" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
