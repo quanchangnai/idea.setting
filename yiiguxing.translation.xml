@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="singleton" />
+      <item value="aspect" />
+      <item value="Controller" />
+      <item value="Test 2 Service" />
       <item value="pattern" />
       <item value="subscribed" />
       <item value="message" />
@@ -14,7 +18,6 @@
       <item value="percflowbelow" />
       <item value="percflow" />
       <item value="per Object" />
-      <item value="aspect" />
       <item value="instance" />
       <item value="S Unlock New Function" />
       <item value="available" />
@@ -48,14 +51,11 @@
       <item value="$near" />
       <item value="with" />
       <item value="view On" />
-      <item value="view Name" />
-      <item value="collation" />
-      <item value="aggregate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2493" />
-        <entry key="ENGLISH" value="2494" />
+        <entry key="CHINESE" value="2500" />
+        <entry key="ENGLISH" value="2501" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
