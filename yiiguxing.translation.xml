@@ -1,7 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accessible" />
+      <item value="percflowbelow" />
+      <item value="percflow" />
       <item value="per Object" />
+      <item value="aspect" />
+      <item value="instance" />
+      <item value="S Unlock New Function" />
       <item value="available" />
       <item value="aspect Of" />
       <item value="aspect Class" />
@@ -45,17 +51,11 @@
       <item value="JAIL" />
       <item value="MARCHING" />
       <item value="FREE" />
-      <item value="AREACFG" />
-      <item value="TIMECAL" />
-      <item value="player World Entity" />
-      <item value="EXPLORING" />
-      <item value="get Valid Tower Entity" />
-      <item value="city Presets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2473" />
-        <entry key="ENGLISH" value="2474" />
+        <entry key="CHINESE" value="2478" />
+        <entry key="ENGLISH" value="2479" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -83,7 +83,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="6" />
@@ -100,5 +100,6 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monospaced" />
     <option name="primaryFontFamily" value="Monospaced" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
