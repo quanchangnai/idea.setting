@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pattern" />
+      <item value="subscribed" />
+      <item value="message" />
+      <item value="published" />
+      <item value="psubscribe" />
+      <item value="treat" />
+      <item value="async" />
+      <item value="sync" />
+      <item value="reactive" />
       <item value="accessible" />
       <item value="percflowbelow" />
       <item value="percflow" />
@@ -42,20 +51,11 @@
       <item value="view Name" />
       <item value="collation" />
       <item value="aggregate" />
-      <item value="Aggregate Iterable" />
-      <item value="pipeline" />
-      <item value="watch" />
-      <item value="truncate" />
-      <item value="Transport Resource March" />
-      <item value="binary" />
-      <item value="JAIL" />
-      <item value="MARCHING" />
-      <item value="FREE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2478" />
-        <entry key="ENGLISH" value="2479" />
+        <entry key="CHINESE" value="2493" />
+        <entry key="ENGLISH" value="2494" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -86,7 +86,7 @@
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
-        <entry key="VIETNAMESE" value="6" />
+        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
