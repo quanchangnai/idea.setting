@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pertarget" />
+      <item value="perthis" />
+      <item value="Advisor" />
+      <item value="accessible Constructor" />
+      <item value="aspect Class" />
+      <item value="Advice" />
+      <item value="typically" />
+      <item value="identifying" />
+      <item value="considered" />
       <item value="Literal" />
       <item value="Var" />
       <item value="associated" />
@@ -39,23 +48,14 @@
       <item value="S Unlock New Function" />
       <item value="available" />
       <item value="aspect Of" />
-      <item value="aspect Class" />
       <item value="unlocks" />
       <item value="Proceeding Join Point" />
       <item value="lettuce" />
-      <item value="represent" />
-      <item value="compatibility" />
-      <item value="binary compatibility" />
-      <item value="considered" />
-      <item value="Additions" />
-      <item value="describing" />
-      <item value="associate" />
-      <item value="given" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2524" />
-        <entry key="ENGLISH" value="2525" />
+        <entry key="CHINESE" value="2532" />
+        <entry key="ENGLISH" value="2532" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
