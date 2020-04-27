@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reactive" />
+      <item value="sync" />
+      <item value="Sentinel" />
+      <item value="connect Sentinel" />
+      <item value="stateful" />
+      <item value="activate" />
+      <item value="detect" />
       <item value="pertarget" />
       <item value="perthis" />
       <item value="Advisor" />
@@ -39,23 +46,16 @@
       <item value="psubscribe" />
       <item value="treat" />
       <item value="async" />
-      <item value="sync" />
-      <item value="reactive" />
       <item value="accessible" />
       <item value="percflowbelow" />
       <item value="percflow" />
       <item value="per Object" />
       <item value="S Unlock New Function" />
-      <item value="available" />
-      <item value="aspect Of" />
-      <item value="unlocks" />
-      <item value="Proceeding Join Point" />
-      <item value="lettuce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2532" />
-        <entry key="ENGLISH" value="2532" />
+        <entry key="CHINESE" value="2540" />
+        <entry key="ENGLISH" value="2541" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
