@@ -1,13 +1,41 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="pipeline" />
-      <item value="truncate" />
-      <item value="Transport Resource March" />
+      <item value="lettuce" />
+      <item value="generic" />
+      <item value="represent" />
       <item value="compatibility" />
-      <item value="binary" />
+      <item value="binary compatibility" />
       <item value="considered" />
       <item value="Additions" />
+      <item value="describing" />
+      <item value="associate" />
+      <item value="given" />
+      <item value="options" />
+      <item value="according" />
+      <item value="metadata" />
+      <item value="estimate" />
+      <item value="capped" />
+      <item value="WARN" />
+      <item value="moderate" />
+      <item value="invalid" />
+      <item value="valid" />
+      <item value="existing" />
+      <item value="strict" />
+      <item value="validation Options" />
+      <item value="$geo Within" />
+      <item value="$near" />
+      <item value="with" />
+      <item value="view On" />
+      <item value="view Name" />
+      <item value="collation" />
+      <item value="aggregate" />
+      <item value="Aggregate Iterable" />
+      <item value="pipeline" />
+      <item value="watch" />
+      <item value="truncate" />
+      <item value="Transport Resource March" />
+      <item value="binary" />
       <item value="JAIL" />
       <item value="MARCHING" />
       <item value="FREE" />
@@ -23,39 +51,11 @@
       <item value="hero Entity" />
       <item value="heroes" />
       <item value="continue" />
-      <item value="city Id" />
-      <item value="free" />
-      <item value="ceil" />
-      <item value="compare" />
-      <item value="sign" />
-      <item value="Neither" />
-      <item value="new Level Cfg" />
-      <item value="range 2" />
-      <item value="range 3" />
-      <item value="DELETION" />
-      <item value="DELETED" />
-      <item value="set Writer" />
-      <item value="writer Setter" />
-      <item value="writer" />
-      <item value="insert" />
-      <item value="Read Delegation" />
-      <item value="subtract" />
-      <item value="negate" />
-      <item value="forbid Write" />
-      <item value="enhanced" />
-      <item value="enhance" />
-      <item value="deprecation" />
-      <item value="explicitly" />
-      <item value="signature" />
-      <item value="Though" />
-      <item value="UPDATE" />
-      <item value="INSERTION" />
-      <item value="information schema" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2432" />
-        <entry key="ENGLISH" value="2433" />
+        <entry key="CHINESE" value="2472" />
+        <entry key="ENGLISH" value="2473" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
