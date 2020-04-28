@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="adapter" />
       <item value="thru" />
       <item value="time" />
       <item value="those" />
@@ -50,12 +51,11 @@
       <item value="published" />
       <item value="psubscribe" />
       <item value="treat" />
-      <item value="async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2551" />
-        <entry key="ENGLISH" value="2552" />
+        <entry key="CHINESE" value="2552" />
+        <entry key="ENGLISH" value="2553" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
