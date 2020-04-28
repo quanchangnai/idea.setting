@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Class Pre Processor Agent Adapter" />
       <item value="enhanced" />
       <item value="verbose" />
       <item value="determine" />
@@ -49,13 +50,12 @@
       <item value="Handles" />
       <item value="generic" />
       <item value="singleton" />
-      <item value="Class Pre Processor Agent Adapter" />
       <item value="initialization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2632" />
-        <entry key="ENGLISH" value="2633" />
+        <entry key="CHINESE" value="2633" />
+        <entry key="ENGLISH" value="2634" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
