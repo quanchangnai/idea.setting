@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="join Point" />
+      <item value="result" />
+      <item value="exception" />
+      <item value="execute" />
+      <item value="Transaction" />
+      <item value="Transaction Aspect" />
       <item value="proceeding" />
       <item value="proceed" />
       <item value="arguments" />
@@ -45,17 +51,11 @@
       <item value="around" />
       <item value="concrete" />
       <item value="adapter" />
-      <item value="time" />
-      <item value="those" />
-      <item value="sync" />
-      <item value="sentinel" />
-      <item value="Partitions" />
-      <item value="submit Quest Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2616" />
-        <entry key="ENGLISH" value="2617" />
+        <entry key="CHINESE" value="2628" />
+        <entry key="ENGLISH" value="2629" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
