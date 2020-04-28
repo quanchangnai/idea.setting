@@ -1,16 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stash" />
+      <item value="adviceexecution" />
+      <item value="Enclosing Static Part" />
+      <item value="form" />
+      <item value="accessed" />
+      <item value="information" />
+      <item value="serious" />
+      <item value="particularly" />
+      <item value="manipulations" />
+      <item value="performance" />
+      <item value="through" />
+      <item value="within" />
+      <item value="separately" />
+      <item value="get Within Type" />
+      <item value="proceed" />
+      <item value="Closure" />
+      <item value="set$Around Closure" />
+      <item value="Static Part" />
+      <item value="encapsulates" />
       <item value="execution" />
+      <item value="Signature" />
+      <item value="Proceeding" />
+      <item value="Proceeding Join Point" />
       <item value="thru" />
       <item value="Handles" />
       <item value="generic" />
       <item value="singleton" />
-      <item value="performance" />
       <item value="Class Pre Processor Agent Adapter" />
       <item value="initialization" />
       <item value="around" />
-      <item value="within" />
       <item value="concrete" />
       <item value="adapter" />
       <item value="time" />
@@ -31,31 +51,11 @@
       <item value="Advisor" />
       <item value="accessible Constructor" />
       <item value="aspect Class" />
-      <item value="Advice" />
-      <item value="typically" />
-      <item value="identifying" />
-      <item value="considered" />
-      <item value="Literal" />
-      <item value="Var" />
-      <item value="associated" />
-      <item value="instance" />
-      <item value="dependancies" />
-      <item value="aspects" />
-      <item value="compilation" />
-      <item value="consider" />
-      <item value="reflective" />
-      <item value="Aspects" />
-      <item value="weaving" />
-      <item value="later" />
-      <item value="per Type Within" />
-      <item value="aspect" />
-      <item value="Controller" />
-      <item value="Test 2 Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2568" />
-        <entry key="ENGLISH" value="2569" />
+        <entry key="CHINESE" value="2599" />
+        <entry key="ENGLISH" value="2600" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
