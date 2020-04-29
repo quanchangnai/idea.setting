@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reservoir" />
+      <item value="histogram" />
+      <item value="latency" />
+      <item value="Bytedance Metrics" />
+      <item value="IO TIME" />
+      <item value="info" />
+      <item value="all Count" />
+      <item value="average Time" />
+      <item value="XDB RETRY" />
+      <item value="WORLD" />
+      <item value="IO COUNT" />
+      <item value="SCHEDULE" />
+      <item value="EVENT" />
+      <item value="MSG" />
       <item value="aop" />
       <item value="_aop" />
       <item value="aop Enabled" />
@@ -37,25 +51,11 @@
       <item value="call" />
       <item value="execution" />
       <item value="Enclosing Static Part" />
-      <item value="Literal" />
-      <item value="pinpoint" />
-      <item value="Class Pre Processor Agent Adapter" />
-      <item value="specific" />
-      <item value="exclusive" />
-      <item value="should be" />
-      <item value="should" />
-      <item value="hint" />
-      <item value="index" />
-      <item value="operation" />
-      <item value="which" />
-      <item value="add Transformer" />
-      <item value="enhance" />
-      <item value="enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2688" />
-        <entry key="ENGLISH" value="2689" />
+        <entry key="CHINESE" value="2703" />
+        <entry key="ENGLISH" value="2704" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -69,7 +69,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CZECH" value="3" />
+        <entry key="CZECH" value="4" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
