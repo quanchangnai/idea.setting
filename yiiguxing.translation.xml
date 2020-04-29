@@ -1,12 +1,33 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aop" />
+      <item value="_aop" />
+      <item value="aop Enabled" />
+      <item value="Lazy Method Gen" />
+      <item value="treated" />
+      <item value="Concrete Aspect Code Gen" />
+      <item value="adapter" />
+      <item value="Enabled" />
+      <item value="enabled Aop" />
+      <item value="initially" />
+      <item value="instrumentation" />
+      <item value="facilitates" />
+      <item value="set" />
+      <item value="supplied" />
+      <item value="discouraged" />
+      <item value="avoid" />
+      <item value="strongly" />
+      <item value="whether" />
+      <item value="whether or not" />
+      <item value="hether or not" />
+      <item value="occurred" />
+      <item value="can Retransform" />
       <item value="conceivably" />
       <item value="retransform Classes" />
       <item value="private" />
       <item value="static" />
       <item value="boolean" />
-      <item value="enabled Aop" />
       <item value="enabled" />
       <item value="legal" />
       <item value="adviceexecution" />
@@ -30,32 +51,11 @@
       <item value="add Transformer" />
       <item value="enhance" />
       <item value="enable" />
-      <item value="properly" />
-      <item value="installed" />
-      <item value="instrumentation" />
-      <item value="failed" />
-      <item value="enhanced" />
-      <item value="verbose" />
-      <item value="determine" />
-      <item value="join Point" />
-      <item value="result" />
-      <item value="exception" />
-      <item value="execute" />
-      <item value="Transaction" />
-      <item value="Transaction Aspect" />
-      <item value="proceeding" />
-      <item value="proceed" />
-      <item value="arguments" />
-      <item value="Supplier" />
-      <item value="invoked" />
-      <item value="anything" />
-      <item value="Callable" />
-      <item value="Transactional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2668" />
-        <entry key="ENGLISH" value="2668" />
+        <entry key="CHINESE" value="2688" />
+        <entry key="ENGLISH" value="2689" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
