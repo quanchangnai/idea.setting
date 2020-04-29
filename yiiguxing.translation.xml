@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specific" />
+      <item value="exclusive" />
+      <item value="should be" />
+      <item value="should" />
+      <item value="hint" />
+      <item value="index" />
+      <item value="operation" />
+      <item value="which" />
       <item value="add Transformer" />
       <item value="enhance" />
       <item value="enable" />
@@ -43,19 +51,11 @@
       <item value="through" />
       <item value="within" />
       <item value="separately" />
-      <item value="get Within Type" />
-      <item value="Closure" />
-      <item value="set$Around Closure" />
-      <item value="Static Part" />
-      <item value="encapsulates" />
-      <item value="execution" />
-      <item value="Signature" />
-      <item value="Proceeding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2641" />
-        <entry key="ENGLISH" value="2642" />
+        <entry key="CHINESE" value="2652" />
+        <entry key="ENGLISH" value="2653" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
