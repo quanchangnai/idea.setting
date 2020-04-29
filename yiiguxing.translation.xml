@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conceivably" />
+      <item value="retransform Classes" />
+      <item value="private" />
+      <item value="static" />
+      <item value="boolean" />
+      <item value="enabled Aop" />
+      <item value="enabled" />
       <item value="legal" />
       <item value="adviceexecution" />
       <item value="preinitialization" />
@@ -44,18 +51,11 @@
       <item value="anything" />
       <item value="Callable" />
       <item value="Transactional" />
-      <item value="arg Names" />
-      <item value="pointcut" />
-      <item value="interpreting" />
-      <item value="compiling" />
-      <item value="stash" />
-      <item value="form" />
-      <item value="accessed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2660" />
-        <entry key="ENGLISH" value="2661" />
+        <entry key="CHINESE" value="2668" />
+        <entry key="ENGLISH" value="2668" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
