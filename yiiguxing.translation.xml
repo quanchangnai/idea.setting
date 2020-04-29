@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legal" />
+      <item value="adviceexecution" />
+      <item value="preinitialization" />
+      <item value="staticinitialization" />
+      <item value="constructor" />
+      <item value="call" />
+      <item value="execution" />
+      <item value="Enclosing Static Part" />
+      <item value="Literal" />
+      <item value="pinpoint" />
+      <item value="Class Pre Processor Agent Adapter" />
       <item value="specific" />
       <item value="exclusive" />
       <item value="should be" />
@@ -16,7 +27,6 @@
       <item value="installed" />
       <item value="instrumentation" />
       <item value="failed" />
-      <item value="Class Pre Processor Agent Adapter" />
       <item value="enhanced" />
       <item value="verbose" />
       <item value="determine" />
@@ -39,23 +49,13 @@
       <item value="interpreting" />
       <item value="compiling" />
       <item value="stash" />
-      <item value="adviceexecution" />
-      <item value="Enclosing Static Part" />
       <item value="form" />
       <item value="accessed" />
-      <item value="information" />
-      <item value="serious" />
-      <item value="particularly" />
-      <item value="manipulations" />
-      <item value="performance" />
-      <item value="through" />
-      <item value="within" />
-      <item value="separately" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2652" />
-        <entry key="ENGLISH" value="2653" />
+        <entry key="CHINESE" value="2660" />
+        <entry key="ENGLISH" value="2661" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -73,7 +73,7 @@
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="NORWEGIAN" value="9" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="3" />
