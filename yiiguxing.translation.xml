@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Metric" />
+      <item value="Gauge" />
+      <item value="codahale" />
+      <item value="Metered" />
+      <item value="XDB RETRY" />
+      <item value="2447" />
       <item value="building Level Cfg" />
       <item value="cur Progress" />
       <item value="manifest" />
@@ -23,7 +29,6 @@
       <item value="info" />
       <item value="all Count" />
       <item value="average Time" />
-      <item value="XDB RETRY" />
       <item value="WORLD" />
       <item value="IO COUNT" />
       <item value="SCHEDULE" />
@@ -46,16 +51,11 @@
       <item value="discouraged" />
       <item value="avoid" />
       <item value="strongly" />
-      <item value="whether" />
-      <item value="whether or not" />
-      <item value="hether or not" />
-      <item value="occurred" />
-      <item value="can Retransform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2735" />
-        <entry key="ENGLISH" value="2736" />
+        <entry key="CHINESE" value="2739" />
+        <entry key="ENGLISH" value="2740" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -83,7 +83,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="1" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="7" />
