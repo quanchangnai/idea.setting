@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="building Level Cfg" />
+      <item value="cur Progress" />
       <item value="manifest" />
       <item value="thousandth" />
       <item value="millisecond" />
@@ -49,13 +51,11 @@
       <item value="hether or not" />
       <item value="occurred" />
       <item value="can Retransform" />
-      <item value="conceivably" />
-      <item value="retransform Classes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2729" />
-        <entry key="ENGLISH" value="2730" />
+        <entry key="CHINESE" value="2735" />
+        <entry key="ENGLISH" value="2736" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
