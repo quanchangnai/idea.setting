@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="format" />
       <item value="MY POD NAME" />
       <item value="IS SYSTEM TEST ENV" />
       <item value="LOAD SERVICE PSM" />
@@ -50,12 +51,11 @@
       <item value="adapter" />
       <item value="Enabled" />
       <item value="enabled Aop" />
-      <item value="initially" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2749" />
-        <entry key="ENGLISH" value="2750" />
+        <entry key="CHINESE" value="2750" />
+        <entry key="ENGLISH" value="2751" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
