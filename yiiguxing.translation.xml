@@ -1,7 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MY POD NAME" />
+      <item value="IS SYSTEM TEST ENV" />
+      <item value="LOAD SERVICE PSM" />
       <item value="Metric" />
+      <item value="time" />
+      <item value="count" />
+      <item value="average" />
+      <item value="name" />
       <item value="Gauge" />
       <item value="codahale" />
       <item value="Metered" />
@@ -44,18 +51,11 @@
       <item value="Enabled" />
       <item value="enabled Aop" />
       <item value="initially" />
-      <item value="instrumentation" />
-      <item value="facilitates" />
-      <item value="set" />
-      <item value="supplied" />
-      <item value="discouraged" />
-      <item value="avoid" />
-      <item value="strongly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2739" />
-        <entry key="ENGLISH" value="2740" />
+        <entry key="CHINESE" value="2749" />
+        <entry key="ENGLISH" value="2750" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
