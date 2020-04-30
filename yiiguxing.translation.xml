@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="metric" />
       <item value="average Time" />
       <item value="format" />
       <item value="MY POD NAME" />
@@ -50,12 +51,11 @@
       <item value="Concrete Aspect Code Gen" />
       <item value="adapter" />
       <item value="Enabled" />
-      <item value="enabled Aop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2751" />
-        <entry key="ENGLISH" value="2752" />
+        <entry key="CHINESE" value="2752" />
+        <entry key="ENGLISH" value="2753" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
