@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bytedance" />
+      <item value="avg Time" />
+      <item value="total Time" />
       <item value="legacy" />
       <item value="metric" />
       <item value="average Time" />
@@ -48,14 +51,11 @@
       <item value="_aop" />
       <item value="aop Enabled" />
       <item value="Lazy Method Gen" />
-      <item value="treated" />
-      <item value="Concrete Aspect Code Gen" />
-      <item value="adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2753" />
-        <entry key="ENGLISH" value="2754" />
+        <entry key="CHINESE" value="2757" />
+        <entry key="ENGLISH" value="2757" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -76,7 +76,7 @@
         <entry key="ROMANIAN" value="5" />
         <entry key="NORWEGIAN" value="9" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SWEDISH" value="3" />
+        <entry key="SWEDISH" value="4" />
         <entry key="SLOVAK" value="2" />
         <entry key="TELUGU" value="1" />
         <entry key="UKRAINIAN" value="1" />
