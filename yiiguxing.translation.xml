@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="proceed" />
+      <item value="rollback" />
+      <item value="check" />
+      <item value="failed" />
+      <item value="thread Local" />
+      <item value="logger" />
+      <item value="CITY TRANSFER STATE ERROR" />
       <item value="bytedance" />
       <item value="avg Time" />
       <item value="total Time" />
@@ -44,24 +51,17 @@
       <item value="all Count" />
       <item value="WORLD" />
       <item value="IO COUNT" />
-      <item value="SCHEDULE" />
-      <item value="EVENT" />
-      <item value="MSG" />
-      <item value="aop" />
-      <item value="_aop" />
-      <item value="aop Enabled" />
-      <item value="Lazy Method Gen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2757" />
-        <entry key="ENGLISH" value="2757" />
+        <entry key="CHINESE" value="2767" />
+        <entry key="ENGLISH" value="2768" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="DANISH" value="5" />
+        <entry key="DANISH" value="7" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="15" />
@@ -100,6 +100,5 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monospaced" />
     <option name="primaryFontFamily" value="Monospaced" />
-    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
