@@ -1,6 +1,33 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clazz" />
+      <item value="Hot Swap Agent" />
+      <item value="Class Node" />
+      <item value="represents" />
+      <item value="class Bytes" />
+      <item value="Class Definition" />
+      <item value="package Name" />
+      <item value="redefine Class" />
+      <item value="enable Aop" />
+      <item value="staticinitialization" />
+      <item value="Transactional" />
+      <item value="Transaction Aspect" />
+      <item value="exception" />
+      <item value="result" />
+      <item value="Proceeding Join Point" />
+      <item value="join Point" />
+      <item value="Around" />
+      <item value="annotation" />
+      <item value="around" />
+      <item value="throws" />
+      <item value="数据库" />
+      <item value="写入器" />
+      <item value="return" />
+      <item value="Transaction" />
+      <item value="Atomic Reference" />
+      <item value="Object" />
+      <item value="verbose" />
       <item value="FRONTGATE" />
       <item value="hero Entity" />
       <item value="herocfg" />
@@ -9,7 +36,6 @@
       <item value="hero Id" />
       <item value="Defence Troop Count" />
       <item value="Trans City Area" />
-      <item value="enable Aop" />
       <item value="clinit" />
       <item value="create" />
       <item value="accrpt" />
@@ -25,37 +51,11 @@
       <item value="determine" />
       <item value="used to determine" />
       <item value="will be" />
-      <item value="specified" />
-      <item value="interfaces" />
-      <item value="porcelain" />
-      <item value="alongside" />
-      <item value="correct" />
-      <item value="incorrect" />
-      <item value="seconds" />
-      <item value="second Player Counts" />
-      <item value="peak" />
-      <item value="peak Player Count" />
-      <item value="set Peak user cnt" />
-      <item value="cell Unit Info" />
-      <item value="TROOP LEVEL LOW" />
-      <item value="HERO NUM NOT ENOUGH" />
-      <item value="field Battle Lose Reason" />
-      <item value="proceed" />
-      <item value="rollback" />
-      <item value="check" />
-      <item value="failed" />
-      <item value="thread Local" />
-      <item value="logger" />
-      <item value="CITY TRANSFER STATE ERROR" />
-      <item value="bytedance" />
-      <item value="avg Time" />
-      <item value="total Time" />
-      <item value="legacy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2817" />
-        <entry key="ENGLISH" value="2817" />
+        <entry key="CHINESE" value="2859" />
+        <entry key="ENGLISH" value="2860" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
