@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cell Unit Info" />
+      <item value="TROOP LEVEL LOW" />
+      <item value="HERO NUM NOT ENOUGH" />
+      <item value="field Battle Lose Reason" />
       <item value="proceed" />
       <item value="rollback" />
       <item value="check" />
@@ -47,15 +51,11 @@
       <item value="latency" />
       <item value="Bytedance Metrics" />
       <item value="IO TIME" />
-      <item value="info" />
-      <item value="all Count" />
-      <item value="WORLD" />
-      <item value="IO COUNT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2767" />
-        <entry key="ENGLISH" value="2768" />
+        <entry key="CHINESE" value="2771" />
+        <entry key="ENGLISH" value="2772" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
