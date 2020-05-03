@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FRONTGATE" />
+      <item value="hero Entity" />
+      <item value="herocfg" />
+      <item value="item Entity" />
+      <item value="check Hero Exist" />
+      <item value="hero Id" />
+      <item value="Defence Troop Count" />
+      <item value="Trans City Area" />
       <item value="enable Aop" />
       <item value="clinit" />
       <item value="create" />
@@ -43,19 +51,11 @@
       <item value="avg Time" />
       <item value="total Time" />
       <item value="legacy" />
-      <item value="metric" />
-      <item value="average Time" />
-      <item value="format" />
-      <item value="MY POD NAME" />
-      <item value="IS SYSTEM TEST ENV" />
-      <item value="LOAD SERVICE PSM" />
-      <item value="Metric" />
-      <item value="time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2804" />
-        <entry key="ENGLISH" value="2805" />
+        <entry key="CHINESE" value="2817" />
+        <entry key="ENGLISH" value="2817" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -80,6 +80,7 @@
         <entry key="SLOVAK" value="2" />
         <entry key="TELUGU" value="1" />
         <entry key="UKRAINIAN" value="1" />
+        <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="1" />
