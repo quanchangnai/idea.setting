@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enable Aop" />
       <item value="clinit" />
       <item value="create" />
       <item value="accrpt" />
@@ -50,12 +51,11 @@
       <item value="LOAD SERVICE PSM" />
       <item value="Metric" />
       <item value="time" />
-      <item value="count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2800" />
-        <entry key="ENGLISH" value="2801" />
+        <entry key="CHINESE" value="2804" />
+        <entry key="ENGLISH" value="2805" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
