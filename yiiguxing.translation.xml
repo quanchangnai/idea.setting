@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="peak" />
+      <item value="peak Player Count" />
+      <item value="second Player Counts" />
+      <item value="set Peak user cnt" />
       <item value="cell Unit Info" />
       <item value="TROOP LEVEL LOW" />
       <item value="HERO NUM NOT ENOUGH" />
@@ -47,15 +51,11 @@
       <item value="duration Unit" />
       <item value="NANOSECONDS" />
       <item value="reservoir" />
-      <item value="histogram" />
-      <item value="latency" />
-      <item value="Bytedance Metrics" />
-      <item value="IO TIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2771" />
-        <entry key="ENGLISH" value="2772" />
+        <entry key="CHINESE" value="2776" />
+        <entry key="ENGLISH" value="2777" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
