@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quest Data" />
+      <item value="quest Cfg Id" />
       <item value="0 x 7 FFFFFFF" />
       <item value="res Discount Ratio" />
       <item value="quest Condition" />
@@ -49,13 +51,11 @@
       <item value="Defence Troop Count" />
       <item value="Trans City Area" />
       <item value="clinit" />
-      <item value="create" />
-      <item value="accrpt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2869" />
-        <entry key="ENGLISH" value="2870" />
+        <entry key="CHINESE" value="2871" />
+        <entry key="ENGLISH" value="2872" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
