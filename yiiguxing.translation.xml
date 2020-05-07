@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alias" />
+      <item value="comment" />
+      <item value="delimiter" />
       <item value="underscore Name" />
       <item value="backend" />
       <item value="daemon" />
@@ -48,14 +51,11 @@
       <item value="FRONTGATE" />
       <item value="hero Entity" />
       <item value="herocfg" />
-      <item value="item Entity" />
-      <item value="check Hero Exist" />
-      <item value="hero Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2874" />
-        <entry key="ENGLISH" value="2875" />
+        <entry key="CHINESE" value="2877" />
+        <entry key="ENGLISH" value="2877" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -86,7 +86,7 @@
         <entry key="HUNGARIAN" value="1" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="2" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
