@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Determines" />
+      <item value="Partitions" />
       <item value="already" />
       <item value="expire" />
       <item value="MASTER" />
@@ -49,13 +51,11 @@
       <item value="Class Node" />
       <item value="represents" />
       <item value="class Bytes" />
-      <item value="Class Definition" />
-      <item value="package Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2898" />
-        <entry key="ENGLISH" value="2899" />
+        <entry key="CHINESE" value="2900" />
+        <entry key="ENGLISH" value="2901" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
