@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sentinel Master Id" />
+      <item value="Hyper Log Log" />
+      <item value="lexicographical" />
+      <item value="Intersect" />
+      <item value="decr" />
+      <item value="restore" />
+      <item value="exist" />
+      <item value="milliseconds" />
+      <item value="expiration" />
+      <item value="persist" />
+      <item value="object Idletime" />
+      <item value="migrate" />
+      <item value="expire" />
+      <item value="Determine" />
+      <item value="unlink" />
+      <item value="Mono" />
+      <item value="reactor" />
+      <item value="stateful" />
       <item value="alias" />
       <item value="comment" />
       <item value="delimiter" />
@@ -33,29 +51,11 @@
       <item value="staticinitialization" />
       <item value="Transactional" />
       <item value="Transaction Aspect" />
-      <item value="exception" />
-      <item value="result" />
-      <item value="Proceeding Join Point" />
-      <item value="join Point" />
-      <item value="Around" />
-      <item value="annotation" />
-      <item value="around" />
-      <item value="throws" />
-      <item value="数据库" />
-      <item value="写入器" />
-      <item value="return" />
-      <item value="Transaction" />
-      <item value="Atomic Reference" />
-      <item value="Object" />
-      <item value="verbose" />
-      <item value="FRONTGATE" />
-      <item value="hero Entity" />
-      <item value="herocfg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2877" />
-        <entry key="ENGLISH" value="2877" />
+        <entry key="CHINESE" value="2895" />
+        <entry key="ENGLISH" value="2896" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -76,6 +76,7 @@
         <entry key="ROMANIAN" value="5" />
         <entry key="NORWEGIAN" value="9" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="SLOVAK" value="2" />
         <entry key="TELUGU" value="1" />
