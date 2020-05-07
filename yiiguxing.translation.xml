@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="denominator" />
+      <item value="numerator" />
+      <item value="Metered" />
+      <item value="weighted" />
+      <item value="exponentially" />
+      <item value="throughput" />
+      <item value="mean" />
+      <item value="throughputs" />
+      <item value="average" />
+      <item value="measures" />
+      <item value="Meter" />
+      <item value="Gauge" />
+      <item value="Metric" />
+      <item value="particular" />
       <item value="REPORT PERIOD SECONDS" />
       <item value="reporter" />
       <item value="registry" />
@@ -37,25 +51,11 @@
       <item value="milliseconds" />
       <item value="expiration" />
       <item value="persist" />
-      <item value="object Idletime" />
-      <item value="migrate" />
-      <item value="Determine" />
-      <item value="unlink" />
-      <item value="Mono" />
-      <item value="reactor" />
-      <item value="stateful" />
-      <item value="alias" />
-      <item value="comment" />
-      <item value="delimiter" />
-      <item value="underscore Name" />
-      <item value="backend" />
-      <item value="daemon" />
-      <item value="quest Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2917" />
-        <entry key="ENGLISH" value="2918" />
+        <entry key="CHINESE" value="2938" />
+        <entry key="ENGLISH" value="2939" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
