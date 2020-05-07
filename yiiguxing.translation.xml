@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backend" />
       <item value="daemon" />
       <item value="quest Data" />
       <item value="quest Cfg Id" />
@@ -50,12 +51,11 @@
       <item value="check Hero Exist" />
       <item value="hero Id" />
       <item value="Defence Troop Count" />
-      <item value="Trans City Area" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2872" />
-        <entry key="ENGLISH" value="2873" />
+        <entry key="CHINESE" value="2873" />
+        <entry key="ENGLISH" value="2874" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
