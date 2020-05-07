@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count" />
       <item value="deviation" />
       <item value="standard" />
       <item value="percentile" />
@@ -50,12 +51,11 @@
       <item value="Hyper Log Log" />
       <item value="lexicographical" />
       <item value="Intersect" />
-      <item value="decr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2948" />
-        <entry key="ENGLISH" value="2949" />
+        <entry key="CHINESE" value="2949" />
+        <entry key="ENGLISH" value="2950" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
