@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REPORT PERIOD SECONDS" />
       <item value="reporter" />
       <item value="registry" />
       <item value="instance" />
@@ -50,12 +51,11 @@
       <item value="backend" />
       <item value="daemon" />
       <item value="quest Data" />
-      <item value="quest Cfg Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2916" />
-        <entry key="ENGLISH" value="2917" />
+        <entry key="CHINESE" value="2917" />
+        <entry key="ENGLISH" value="2918" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
