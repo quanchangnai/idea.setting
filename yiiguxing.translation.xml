@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incubating" />
+      <item value="with Type" />
+      <item value="repositories" />
+      <item value="subprojects" />
+      <item value="plugin" />
+      <item value="apply" />
+      <item value="maven" />
+      <item value="Wrapper" />
+      <item value="Convention" />
+      <item value="Application Plugin Convention" />
+      <item value="configurations" />
+      <item value="dependencies" />
+      <item value="after Evaluate" />
+      <item value="extra" />
+      <item value="get State" />
+      <item value="already" />
+      <item value="ARRIVING" />
+      <item value="supplied" />
+      <item value="treats" />
+      <item value="host Text" />
+      <item value="sentinel Master Id" />
+      <item value="sentinels" />
       <item value="expensive" />
       <item value="synchronization" />
       <item value="troubleshooting" />
@@ -16,7 +38,6 @@
       <item value="bytes" />
       <item value="Ratio" />
       <item value="guaranteed" />
-      <item value="dependencies" />
       <item value="median" />
       <item value="arithmetic" />
       <item value="mean" />
@@ -30,32 +51,11 @@
       <item value="denominator" />
       <item value="numerator" />
       <item value="Metered" />
-      <item value="weighted" />
-      <item value="exponentially" />
-      <item value="throughput" />
-      <item value="throughputs" />
-      <item value="measures" />
-      <item value="Meter" />
-      <item value="Gauge" />
-      <item value="Metric" />
-      <item value="particular" />
-      <item value="REPORT PERIOD SECONDS" />
-      <item value="reporter" />
-      <item value="registry" />
-      <item value="instance" />
-      <item value="Subtract" />
-      <item value="every" />
-      <item value="incoming" />
-      <item value="MELLE" />
-      <item value="hgetall" />
-      <item value="retry Nano Time" />
-      <item value="according" />
-      <item value="coordinate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2977" />
-        <entry key="ENGLISH" value="2978" />
+        <entry key="CHINESE" value="3029" />
+        <entry key="ENGLISH" value="3030" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
