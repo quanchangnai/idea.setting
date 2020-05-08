@@ -1,7 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expensive" />
+      <item value="synchronization" />
+      <item value="troubleshooting" />
+      <item value="average" />
+      <item value="effort" />
+      <item value="expended" />
+      <item value="recycling" />
+      <item value="unused" />
+      <item value="recently" />
+      <item value="peak" />
+      <item value="represents" />
+      <item value="gauges" />
       <item value="bytes" />
+      <item value="Ratio" />
+      <item value="guaranteed" />
       <item value="dependencies" />
       <item value="median" />
       <item value="arithmetic" />
@@ -20,7 +34,6 @@
       <item value="exponentially" />
       <item value="throughput" />
       <item value="throughputs" />
-      <item value="average" />
       <item value="measures" />
       <item value="Meter" />
       <item value="Gauge" />
@@ -38,24 +51,11 @@
       <item value="retry Nano Time" />
       <item value="according" />
       <item value="coordinate" />
-      <item value="latitude" />
-      <item value="longitude" />
-      <item value="failover" />
-      <item value="Synchronous" />
-      <item value="mechanisms" />
-      <item value="Meet" />
-      <item value="Determines" />
-      <item value="Partitions" />
-      <item value="already" />
-      <item value="expire" />
-      <item value="MASTER" />
-      <item value="sentinels" />
-      <item value="socket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2958" />
-        <entry key="ENGLISH" value="2959" />
+        <entry key="CHINESE" value="2977" />
+        <entry key="ENGLISH" value="2978" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
