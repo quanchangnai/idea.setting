@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Evaluate" />
+      <item value="after Evaluate" />
       <item value="Domain Object Collection" />
       <item value="source Sets" />
       <item value="did Work" />
@@ -17,7 +19,6 @@
       <item value="Application Plugin Convention" />
       <item value="configurations" />
       <item value="dependencies" />
-      <item value="after Evaluate" />
       <item value="extra" />
       <item value="get State" />
       <item value="already" />
@@ -50,12 +51,11 @@
       <item value="deviation" />
       <item value="standard" />
       <item value="percentile" />
-      <item value="get 95 th Percentile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3034" />
-        <entry key="ENGLISH" value="3035" />
+        <entry key="CHINESE" value="3036" />
+        <entry key="ENGLISH" value="3037" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
