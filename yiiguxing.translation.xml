@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Domain Object Collection" />
+      <item value="source Sets" />
       <item value="did Work" />
       <item value="Incubating" />
       <item value="resolution Strategy" />
@@ -49,13 +51,11 @@
       <item value="standard" />
       <item value="percentile" />
       <item value="get 95 th Percentile" />
-      <item value="pct 50" />
-      <item value="denominator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3032" />
-        <entry key="ENGLISH" value="3033" />
+        <entry key="CHINESE" value="3034" />
+        <entry key="ENGLISH" value="3035" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
