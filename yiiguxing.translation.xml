@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="Incubating" />
+      <item value="resolution Strategy" />
       <item value="with Type" />
       <item value="repositories" />
       <item value="subprojects" />
@@ -50,12 +51,11 @@
       <item value="pct 50" />
       <item value="denominator" />
       <item value="numerator" />
-      <item value="Metered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3029" />
-        <entry key="ENGLISH" value="3030" />
+        <entry key="CHINESE" value="3031" />
+        <entry key="ENGLISH" value="3032" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
