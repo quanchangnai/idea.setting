@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incompatible" />
       <item value="RVO 2" />
       <item value="Evaluate" />
       <item value="after Evaluate" />
@@ -50,12 +51,11 @@
       <item value="Immutable Pair" />
       <item value="count" />
       <item value="deviation" />
-      <item value="standard" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3037" />
-        <entry key="ENGLISH" value="3037" />
+        <entry key="ENGLISH" value="3038" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
