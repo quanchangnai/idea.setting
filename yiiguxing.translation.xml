@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Transitive" />
+      <item value="resolve Strategy" />
+      <item value="directive" />
       <item value="ACADEMY" />
       <item value="&lt;var name=&quot;ACADEMY&quot; value=&quot;6&quot;/&gt; &lt;!--学院--&gt;" />
       <item value="incompatible" />
@@ -48,14 +51,11 @@
       <item value="Ratio" />
       <item value="guaranteed" />
       <item value="median" />
-      <item value="arithmetic" />
-      <item value="mean" />
-      <item value="Immutable Pair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3038" />
-        <entry key="ENGLISH" value="3039" />
+        <entry key="CHINESE" value="3041" />
+        <entry key="ENGLISH" value="3042" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
