@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pref Height" />
       <item value="Convention" />
       <item value="Decorated" />
       <item value="Default Repository Handler Decorated" />
@@ -50,12 +51,11 @@
       <item value="appear" />
       <item value="incompatible" />
       <item value="determine" />
-      <item value="set Transitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3106" />
-        <entry key="ENGLISH" value="3107" />
+        <entry key="CHINESE" value="3107" />
+        <entry key="ENGLISH" value="3108" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
