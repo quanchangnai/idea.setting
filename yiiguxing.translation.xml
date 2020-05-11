@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecated" />
       <item value="packaging" />
       <item value="metadata" />
       <item value="Indicates" />
@@ -50,12 +51,11 @@
       <item value="input" />
       <item value="represents" />
       <item value="dependencies" />
-      <item value="source Sets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3128" />
-        <entry key="ENGLISH" value="3129" />
+        <entry key="CHINESE" value="3129" />
+        <entry key="ENGLISH" value="3130" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
