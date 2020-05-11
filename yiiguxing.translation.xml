@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="normalization" />
+      <item value="matching" />
+      <item value="Currently" />
+      <item value="input normalization" />
+      <item value="input" />
+      <item value="represents" />
+      <item value="artifacts" />
+      <item value="dependencies" />
+      <item value="source Sets" />
+      <item value="executables" />
       <item value="variant" />
       <item value="source Compatibility" />
       <item value="plugin" />
@@ -25,7 +35,6 @@
       <item value="Evaluate" />
       <item value="after Evaluate" />
       <item value="Domain Object Collection" />
-      <item value="source Sets" />
       <item value="did Work" />
       <item value="resolution Strategy" />
       <item value="with Type" />
@@ -36,26 +45,17 @@
       <item value="Convention" />
       <item value="Application Plugin Convention" />
       <item value="configurations" />
-      <item value="dependencies" />
       <item value="extra" />
       <item value="get State" />
       <item value="already" />
       <item value="ARRIVING" />
       <item value="supplied" />
       <item value="treats" />
-      <item value="host Text" />
-      <item value="sentinel Master Id" />
-      <item value="sentinels" />
-      <item value="expensive" />
-      <item value="synchronization" />
-      <item value="troubleshooting" />
-      <item value="average" />
-      <item value="effort" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3062" />
-        <entry key="ENGLISH" value="3063" />
+        <entry key="CHINESE" value="3078" />
+        <entry key="ENGLISH" value="3079" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
