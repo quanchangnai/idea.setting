@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source Compatibility" />
       <item value="Copy Spec" />
       <item value="mutate" />
       <item value="Deprecated" />
@@ -50,12 +51,11 @@
       <item value="effort" />
       <item value="expended" />
       <item value="recycling" />
-      <item value="unused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3052" />
-        <entry key="ENGLISH" value="3053" />
+        <entry key="CHINESE" value="3053" />
+        <entry key="ENGLISH" value="3054" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
