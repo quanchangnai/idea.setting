@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allprojects" />
       <item value="passed to" />
       <item value="center" />
       <item value="Table View" />
@@ -50,11 +51,10 @@
       <item value="mutate" />
       <item value="Deprecated" />
       <item value="left Shift" />
-      <item value="Explorer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3109" />
+        <entry key="CHINESE" value="3110" />
         <entry key="ENGLISH" value="3110" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
