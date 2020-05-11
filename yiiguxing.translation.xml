@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variant" />
       <item value="source Compatibility" />
       <item value="plugin" />
       <item value="url" />
@@ -14,7 +15,6 @@
       <item value="Explorer" />
       <item value="appear" />
       <item value="incompatible" />
-      <item value="variant" />
       <item value="determine" />
       <item value="set Transitive" />
       <item value="resolve Strategy" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3061" />
-        <entry key="ENGLISH" value="3062" />
+        <entry key="CHINESE" value="3062" />
+        <entry key="ENGLISH" value="3063" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
