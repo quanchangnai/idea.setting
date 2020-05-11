@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Incubating" />
-      <item value="repositories" />
       <item value="source Compatibility" />
+      <item value="plugin" />
+      <item value="url" />
+      <item value="repositories" />
+      <item value="Compatibility" />
+      <item value="Incubating" />
       <item value="Copy Spec" />
       <item value="mutate" />
       <item value="Deprecated" />
@@ -27,7 +30,6 @@
       <item value="resolution Strategy" />
       <item value="with Type" />
       <item value="subprojects" />
-      <item value="plugin" />
       <item value="apply" />
       <item value="maven" />
       <item value="Wrapper" />
@@ -49,13 +51,11 @@
       <item value="troubleshooting" />
       <item value="average" />
       <item value="effort" />
-      <item value="expended" />
-      <item value="recycling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3055" />
-        <entry key="ENGLISH" value="3056" />
+        <entry key="CHINESE" value="3061" />
+        <entry key="ENGLISH" value="3062" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
