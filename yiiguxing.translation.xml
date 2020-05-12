@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minute Server User Cnt Job" />
+      <item value="seconds" />
+      <item value="Second Server User Cnt Job" />
+      <item value="Before Midnight Job" />
+      <item value="After Midnight Job" />
+      <item value="Midnight After Job" />
       <item value="Server User Cnt Job" />
       <item value="Role Login Job" />
       <item value="Role Logout Job" />
@@ -45,17 +51,11 @@
       <item value="metadata" />
       <item value="Indicates" />
       <item value="maven" />
-      <item value="upload Archives" />
-      <item value="evaluated" />
-      <item value="immediately" />
-      <item value="in one of the notations described above." />
-      <item value="described" />
-      <item value="notation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3193" />
-        <entry key="ENGLISH" value="3194" />
+        <entry key="CHINESE" value="3201" />
+        <entry key="ENGLISH" value="3202" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
