@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Server User Cnt Job" />
+      <item value="Role Login Job" />
+      <item value="Role Logout Job" />
+      <item value="add Cron Job" />
+      <item value="configurations" />
+      <item value="project" />
+      <item value="dependencies" />
+      <item value="all" />
+      <item value="compile" />
+      <item value="exclude" />
+      <item value="group" />
+      <item value="test Compile" />
+      <item value="bytedance" />
+      <item value="metrics 4 j" />
       <item value="WORLD TRANSITION ERROR" />
       <item value="building Level" />
       <item value="condition" />
@@ -26,8 +40,6 @@
       <item value="LIFECYCLE" />
       <item value="site" />
       <item value="panel" />
-      <item value="project" />
-      <item value="dependencies" />
       <item value="deprecated" />
       <item value="packaging" />
       <item value="metadata" />
@@ -39,23 +51,11 @@
       <item value="in one of the notations described above." />
       <item value="described" />
       <item value="notation" />
-      <item value="artifact Notation" />
-      <item value="schema Jar" />
-      <item value="artifacts" />
-      <item value="allprojects" />
-      <item value="passed to" />
-      <item value="center" />
-      <item value="Table View" />
-      <item value="pref Height" />
-      <item value="Convention" />
-      <item value="Decorated" />
-      <item value="Default Repository Handler Decorated" />
-      <item value="script" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3161" />
-        <entry key="ENGLISH" value="3162" />
+        <entry key="CHINESE" value="3193" />
+        <entry key="ENGLISH" value="3194" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
