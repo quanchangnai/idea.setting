@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Descriptor" />
+      <item value="candidates" />
+      <item value="extends From" />
+      <item value="my Configuration" />
+      <item value="adding" />
+      <item value="transitive" />
       <item value="declaring" />
       <item value="upload" />
       <item value="repositories" />
@@ -45,17 +51,11 @@
       <item value="WRAPPED" />
       <item value="DEFAULT WRAPPED" />
       <item value="main Executor" />
-      <item value="Community" />
-      <item value="below" />
-      <item value="logical" />
-      <item value="Might" />
-      <item value="if any" />
-      <item value="consumable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3148" />
-        <entry key="ENGLISH" value="3149" />
+        <entry key="CHINESE" value="3153" />
+        <entry key="ENGLISH" value="3154" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -68,7 +68,7 @@
         <entry key="FRENCH" value="15" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="1" />
-        <entry key="GALICIAN" value="3" />
+        <entry key="GALICIAN" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="4" />
         <entry key="CROATIAN" value="2" />
