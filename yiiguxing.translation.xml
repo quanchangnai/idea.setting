@@ -1,6 +1,38 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pick On Bounds" />
+      <item value="mnemonic" />
+      <item value="alignment" />
+      <item value="set Constraint" />
+      <item value="borderpane" />
+      <item value="define" />
+      <item value="CONSTRAINED RESIZE POLICY" />
+      <item value="constant" />
+      <item value="pref Height" />
+      <item value="Infinity" />
+      <item value="Pane" />
+      <item value="transparent" />
+      <item value="side" />
+      <item value="legend" />
+      <item value="pagination" />
+      <item value="bound" />
+      <item value="is Bound" />
+      <item value="Styleable Properties" />
+      <item value="DEFAULT STYLE CLASS" />
+      <item value="INDETERMINATE" />
+      <item value="bullet" />
+      <item value="indicators" />
+      <item value="numeric" />
+      <item value="Insets" />
+      <item value="Orientation" />
+      <item value="Paper" />
+      <item value="indicator" />
+      <item value="positioned" />
+      <item value="centered" />
+      <item value="shape" />
+      <item value="position" />
+      <item value="Indicator" />
       <item value="Minute Server User Cnt Job" />
       <item value="seconds" />
       <item value="Second Server User Cnt Job" />
@@ -19,43 +51,11 @@
       <item value="exclude" />
       <item value="group" />
       <item value="test Compile" />
-      <item value="bytedance" />
-      <item value="metrics 4 j" />
-      <item value="WORLD TRANSITION ERROR" />
-      <item value="building Level" />
-      <item value="condition" />
-      <item value="Descriptor" />
-      <item value="candidates" />
-      <item value="extends From" />
-      <item value="my Configuration" />
-      <item value="adding" />
-      <item value="transitive" />
-      <item value="declaring" />
-      <item value="upload" />
-      <item value="repositories" />
-      <item value="amongst" />
-      <item value="least" />
-      <item value="specify" />
-      <item value="archives" />
-      <item value="flat" />
-      <item value="Logs" />
-      <item value="lifecycle" />
-      <item value="Backed" />
-      <item value="QUIET" />
-      <item value="quiet" />
-      <item value="LIFECYCLE" />
-      <item value="site" />
-      <item value="panel" />
-      <item value="deprecated" />
-      <item value="packaging" />
-      <item value="metadata" />
-      <item value="Indicates" />
-      <item value="maven" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3201" />
-        <entry key="ENGLISH" value="3202" />
+        <entry key="CHINESE" value="3243" />
+        <entry key="ENGLISH" value="3244" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -86,7 +86,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="ITALIAN" value="4" />
+        <entry key="ITALIAN" value="5" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="7" />
