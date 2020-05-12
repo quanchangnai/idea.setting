@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WORLD TRANSITION ERROR" />
+      <item value="building Level" />
+      <item value="condition" />
       <item value="Descriptor" />
       <item value="candidates" />
       <item value="extends From" />
@@ -48,14 +51,11 @@
       <item value="Decorated" />
       <item value="Default Repository Handler Decorated" />
       <item value="script" />
-      <item value="WRAPPED" />
-      <item value="DEFAULT WRAPPED" />
-      <item value="main Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3153" />
-        <entry key="ENGLISH" value="3154" />
+        <entry key="CHINESE" value="3161" />
+        <entry key="ENGLISH" value="3162" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
