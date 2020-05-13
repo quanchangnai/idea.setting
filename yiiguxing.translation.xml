@@ -1,6 +1,33 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dirty" />
+      <item value="resolution" />
+      <item value="inch" />
+      <item value="per" />
+      <item value="dots" />
+      <item value="bounds" />
+      <item value="visual" />
+      <item value="intersects" />
+      <item value="Cubi" />
+      <item value="Curve" />
+      <item value="PISCES" />
+      <item value="openpisces" />
+      <item value="pisces" />
+      <item value="Scenario" />
+      <item value="retrieve" />
+      <item value="scenario" />
+      <item value="prism" />
+      <item value="geometry" />
+      <item value="listener" />
+      <item value="Property" />
+      <item value="current" />
+      <item value="variables" />
+      <item value="amount" />
+      <item value="coalesced" />
+      <item value="total Work Property" />
+      <item value="work Done" />
+      <item value="property" />
       <item value="Later" />
       <item value="run Later" />
       <item value="defer" />
@@ -24,38 +51,11 @@
       <item value="either" />
       <item value="leak" />
       <item value="being garbage collected" />
-      <item value="garbage collected" />
-      <item value="from" />
-      <item value="from being" />
-      <item value="prevent" />
-      <item value="occur" />
-      <item value="leaks" />
-      <item value="avoid" />
-      <item value="maintain" />
-      <item value="Weak" />
-      <item value="actual" />
-      <item value="Note" />
-      <item value="made to" />
-      <item value="uniqueness" />
-      <item value="ensure" />
-      <item value="once" />
-      <item value="notified" />
-      <item value="differ" />
-      <item value="invalidation" />
-      <item value="explanation" />
-      <item value="depth" />
-      <item value="whenever" />
-      <item value="initialize" />
-      <item value="Roster" />
-      <item value="fill" />
-      <item value="Bundle" />
-      <item value="phone Number" />
-      <item value="NONE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3373" />
-        <entry key="ENGLISH" value="3374" />
+        <entry key="CHINESE" value="3395" />
+        <entry key="ENGLISH" value="3396" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -72,7 +72,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="4" />
         <entry key="CROATIAN" value="2" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="4" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="NORWEGIAN" value="9" />
@@ -86,7 +86,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="ITALIAN" value="7" />
+        <entry key="ITALIAN" value="8" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="7" />
