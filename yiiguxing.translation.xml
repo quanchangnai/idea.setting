@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cubic" />
+      <item value="zier" />
+      <item value="curve" />
+      <item value="parametric" />
+      <item value="segment" />
+      <item value="Curve" />
+      <item value="Cubic Curve" />
+      <item value="Cubi" />
+      <item value="Cubi Curve" />
       <item value="during" />
       <item value="pass" />
       <item value="the layout pass" />
@@ -42,20 +51,11 @@
       <item value="bound" />
       <item value="is Bound" />
       <item value="Styleable Properties" />
-      <item value="DEFAULT STYLE CLASS" />
-      <item value="INDETERMINATE" />
-      <item value="bullet" />
-      <item value="indicators" />
-      <item value="numeric" />
-      <item value="Insets" />
-      <item value="Orientation" />
-      <item value="Paper" />
-      <item value="indicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3273" />
-        <entry key="ENGLISH" value="3274" />
+        <entry key="CHINESE" value="3286" />
+        <entry key="ENGLISH" value="3285" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -86,7 +86,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="ITALIAN" value="5" />
+        <entry key="ITALIAN" value="6" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="7" />
