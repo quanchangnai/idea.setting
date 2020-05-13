@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="roster" />
+      <item value="名册" />
       <item value="BUYANDUSE" />
       <item value="Dirty" />
       <item value="resolution" />
@@ -49,13 +51,11 @@
       <item value="invalidated" />
       <item value="was Garbage Collected" />
       <item value="situation" />
-      <item value="either" />
-      <item value="leak" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3396" />
-        <entry key="ENGLISH" value="3396" />
+        <entry key="CHINESE" value="3397" />
+        <entry key="ENGLISH" value="3398" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
