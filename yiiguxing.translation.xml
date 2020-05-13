@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="param" />
       <item value="no Pause" />
       <item value="roster" />
       <item value="名册" />
@@ -50,11 +51,10 @@
       <item value="Observable" />
       <item value="invalid" />
       <item value="invalidated" />
-      <item value="was Garbage Collected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3398" />
+        <entry key="CHINESE" value="3399" />
         <entry key="ENGLISH" value="3399" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
@@ -76,7 +76,7 @@
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="5" />
         <entry key="NORWEGIAN" value="11" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="SLOVAK" value="2" />
