@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialize" />
       <item value="Roster" />
+      <item value="fill" />
+      <item value="Bundle" />
       <item value="phone Number" />
       <item value="NONE" />
       <item value="PLAYER" />
@@ -48,14 +51,11 @@
       <item value="graph" />
       <item value="rendered in order" />
       <item value="A {@code Group} node contains an ObservableList of children that * are rendered in order whenever this node is rendered." />
-      <item value="whenever" />
-      <item value="are rendered in order whenever this node is rendered." />
-      <item value="are rendered in order whenever this node is rendered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3313" />
-        <entry key="ENGLISH" value="3314" />
+        <entry key="CHINESE" value="3317" />
+        <entry key="ENGLISH" value="3318" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
