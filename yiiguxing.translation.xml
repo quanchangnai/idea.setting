@@ -1,10 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="during" />
+      <item value="pass" />
+      <item value="the layout pass" />
+      <item value="layout pass" />
+      <item value="on content nodes" />
+      <item value="content nodes" />
+      <item value="content" />
+      <item value="end up" />
+      <item value="otherwise * such nodes" />
+      <item value="such" />
+      <item value="responsible" />
+      <item value="whether" />
+      <item value="whether or not" />
+      <item value="automatically" />
+      <item value="graph" />
+      <item value="rendered in order" />
+      <item value="A {@code Group} node contains an ObservableList of children that * are rendered in order whenever this node is rendered." />
+      <item value="whenever" />
+      <item value="are rendered in order whenever this node is rendered." />
       <item value="are rendered in order whenever this node is rendered" />
       <item value="in order" />
       <item value="rendered" />
-      <item value="whenever" />
       <item value="Styleable" />
       <item value="pick On Bounds" />
       <item value="mnemonic" />
@@ -33,29 +51,11 @@
       <item value="Orientation" />
       <item value="Paper" />
       <item value="indicator" />
-      <item value="positioned" />
-      <item value="centered" />
-      <item value="shape" />
-      <item value="position" />
-      <item value="Indicator" />
-      <item value="Minute Server User Cnt Job" />
-      <item value="seconds" />
-      <item value="Second Server User Cnt Job" />
-      <item value="Before Midnight Job" />
-      <item value="After Midnight Job" />
-      <item value="Midnight After Job" />
-      <item value="Server User Cnt Job" />
-      <item value="Role Login Job" />
-      <item value="Role Logout Job" />
-      <item value="add Cron Job" />
-      <item value="configurations" />
-      <item value="project" />
-      <item value="dependencies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3248" />
-        <entry key="ENGLISH" value="3249" />
+        <entry key="CHINESE" value="3273" />
+        <entry key="ENGLISH" value="3274" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
