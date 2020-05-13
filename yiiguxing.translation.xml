@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="general" />
+      <item value="Observable" />
+      <item value="invalid" />
+      <item value="invalidated" />
+      <item value="was Garbage Collected" />
+      <item value="situation" />
+      <item value="either" />
+      <item value="leak" />
+      <item value="being garbage collected" />
+      <item value="garbage collected" />
+      <item value="from" />
+      <item value="from being" />
+      <item value="prevent" />
+      <item value="occur" />
+      <item value="leaks" />
+      <item value="avoid" />
+      <item value="maintain" />
+      <item value="Weak" />
+      <item value="actual" />
+      <item value="Note" />
+      <item value="made to" />
+      <item value="uniqueness" />
+      <item value="ensure" />
+      <item value="once" />
+      <item value="notified" />
+      <item value="differ" />
+      <item value="invalidation" />
+      <item value="explanation" />
+      <item value="depth" />
+      <item value="whenever" />
       <item value="initialize" />
       <item value="Roster" />
       <item value="fill" />
@@ -21,41 +51,11 @@
       <item value="Sphere" />
       <item value="Cylinder" />
       <item value="Polyline" />
-      <item value="Arc" />
-      <item value="Polygon" />
-      <item value="Rectangle" />
-      <item value="Curve" />
-      <item value="Cubic" />
-      <item value="cubic" />
-      <item value="zier" />
-      <item value="curve" />
-      <item value="parametric" />
-      <item value="segment" />
-      <item value="Cubic Curve" />
-      <item value="Cubi" />
-      <item value="Cubi Curve" />
-      <item value="during" />
-      <item value="pass" />
-      <item value="the layout pass" />
-      <item value="layout pass" />
-      <item value="on content nodes" />
-      <item value="content nodes" />
-      <item value="content" />
-      <item value="end up" />
-      <item value="otherwise * such nodes" />
-      <item value="such" />
-      <item value="responsible" />
-      <item value="whether" />
-      <item value="whether or not" />
-      <item value="automatically" />
-      <item value="graph" />
-      <item value="rendered in order" />
-      <item value="A {@code Group} node contains an ObservableList of children that * are rendered in order whenever this node is rendered." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3317" />
-        <entry key="ENGLISH" value="3318" />
+        <entry key="CHINESE" value="3354" />
+        <entry key="ENGLISH" value="3355" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
