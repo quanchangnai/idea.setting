@@ -1,12 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nearest" />
+      <item value="ceiled" />
+      <item value="the size value to be snapped" />
+      <item value="snapped" />
+      <item value="Sphere" />
+      <item value="Cylinder" />
+      <item value="Polyline" />
+      <item value="Arc" />
+      <item value="Polygon" />
+      <item value="Rectangle" />
+      <item value="Curve" />
+      <item value="Cubic" />
       <item value="cubic" />
       <item value="zier" />
       <item value="curve" />
       <item value="parametric" />
       <item value="segment" />
-      <item value="Curve" />
       <item value="Cubic Curve" />
       <item value="Cubi" />
       <item value="Cubi Curve" />
@@ -40,22 +51,11 @@
       <item value="borderpane" />
       <item value="define" />
       <item value="CONSTRAINED RESIZE POLICY" />
-      <item value="constant" />
-      <item value="pref Height" />
-      <item value="Infinity" />
-      <item value="Pane" />
-      <item value="transparent" />
-      <item value="side" />
-      <item value="legend" />
-      <item value="pagination" />
-      <item value="bound" />
-      <item value="is Bound" />
-      <item value="Styleable Properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3286" />
-        <entry key="ENGLISH" value="3285" />
+        <entry key="CHINESE" value="3300" />
+        <entry key="ENGLISH" value="3301" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
