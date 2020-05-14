@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="implementation" />
       <item value="initialization" />
       <item value="publication" />
       <item value="associated" />
@@ -14,7 +15,6 @@
       <item value="API elements for main." />
       <item value="Implementation only dependencies" />
       <item value="implements" />
-      <item value="implementation" />
       <item value="dependency" />
       <item value="Completable Future" />
       <item value="start Collect Task" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3420" />
-        <entry key="ENGLISH" value="3421" />
+        <entry key="CHINESE" value="3421" />
+        <entry key="ENGLISH" value="3422" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
