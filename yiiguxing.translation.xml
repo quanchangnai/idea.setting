@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialization" />
       <item value="publication" />
       <item value="associated" />
       <item value="representation" />
@@ -50,12 +51,11 @@
       <item value="total Work Property" />
       <item value="work Done" />
       <item value="property" />
-      <item value="Later" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3419" />
-        <entry key="ENGLISH" value="3420" />
+        <entry key="CHINESE" value="3420" />
+        <entry key="ENGLISH" value="3421" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
