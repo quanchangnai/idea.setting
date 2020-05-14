@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Collect Task" />
       <item value="reserved" />
       <item value="param" />
       <item value="no Pause" />
@@ -50,12 +51,11 @@
       <item value="offsets" />
       <item value="general" />
       <item value="Observable" />
-      <item value="invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3399" />
-        <entry key="ENGLISH" value="3400" />
+        <entry key="CHINESE" value="3404" />
+        <entry key="ENGLISH" value="3405" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
