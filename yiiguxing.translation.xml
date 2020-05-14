@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publication" />
+      <item value="associated" />
+      <item value="representation" />
+      <item value="consumable" />
+      <item value="Publication" />
+      <item value="publishing" />
+      <item value="Elements" />
+      <item value="archive" />
+      <item value="dependencies" />
+      <item value="API elements for main." />
+      <item value="Implementation only dependencies" />
+      <item value="implements" />
+      <item value="implementation" />
+      <item value="dependency" />
       <item value="Completable Future" />
       <item value="start Collect Task" />
       <item value="reserved" />
@@ -37,25 +51,11 @@
       <item value="work Done" />
       <item value="property" />
       <item value="Later" />
-      <item value="run Later" />
-      <item value="defer" />
-      <item value="agent" />
-      <item value="CASPIAN" />
-      <item value="MODENA" />
-      <item value="Dummy" />
-      <item value="Quantum" />
-      <item value="mnemonic" />
-      <item value="padding" />
-      <item value="inside" />
-      <item value="rectangular" />
-      <item value="Insets" />
-      <item value="offsets" />
-      <item value="general" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3404" />
-        <entry key="ENGLISH" value="3405" />
+        <entry key="CHINESE" value="3419" />
+        <entry key="ENGLISH" value="3420" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
