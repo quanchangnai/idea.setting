@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Appenders" />
       <item value="buffered IO" />
       <item value="Rolling Random Access File" />
       <item value="Time Based Triggering Policy" />
@@ -50,12 +51,11 @@
       <item value="snapshot" />
       <item value="exponentially" />
       <item value="average" />
-      <item value="get Five Minute Rate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3587" />
-        <entry key="ENGLISH" value="3587" />
+        <entry key="ENGLISH" value="3588" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
