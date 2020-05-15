@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="experimental" />
       <item value="Reset Code Event" />
       <item value="event" />
       <item value="add Novice Buffs" />
@@ -50,12 +51,11 @@
       <item value="Meter" />
       <item value="elapsed" />
       <item value="occurrence" />
-      <item value="events" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3580" />
-        <entry key="ENGLISH" value="3581" />
+        <entry key="CHINESE" value="3581" />
+        <entry key="ENGLISH" value="3582" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
