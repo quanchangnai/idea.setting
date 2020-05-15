@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Xdb" />
+      <item value="histogram" />
+      <item value="procedure Name" />
+      <item value="handle Time" />
+      <item value="count" />
       <item value="req Lock Count" />
       <item value="relate Lock Num" />
       <item value="relate" />
@@ -9,14 +14,11 @@
       <item value="procedure Time" />
       <item value="msg name" />
       <item value="total Time" />
-      <item value="handle Time" />
-      <item value="procedure Name" />
       <item value="initialized" />
       <item value="relate Locks" />
       <item value="lock Count" />
       <item value="measurements" />
       <item value="reservoir" />
-      <item value="count" />
       <item value="Metered" />
       <item value="counter" />
       <item value="mean" />
@@ -49,13 +51,11 @@
       <item value="gauge" />
       <item value="Increment" />
       <item value="depth" />
-      <item value="queue" />
-      <item value="instrument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3545" />
-        <entry key="ENGLISH" value="3546" />
+        <entry key="CHINESE" value="3551" />
+        <entry key="ENGLISH" value="3552" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
