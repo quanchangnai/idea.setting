@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="buffered IO" />
+      <item value="Rolling Random Access File" />
+      <item value="Time Based Triggering Policy" />
       <item value="additivity" />
       <item value="monitor Interval" />
       <item value="experimental" />
@@ -48,14 +51,11 @@
       <item value="exponentially" />
       <item value="average" />
       <item value="get Five Minute Rate" />
-      <item value="rate" />
-      <item value="mark" />
-      <item value="Meter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3583" />
-        <entry key="ENGLISH" value="3584" />
+        <entry key="CHINESE" value="3587" />
+        <entry key="ENGLISH" value="3587" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -87,7 +87,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="2" />
-        <entry key="ITALIAN" value="8" />
+        <entry key="ITALIAN" value="9" />
         <entry key="HINDI" value="2" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="7" />
