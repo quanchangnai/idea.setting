@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="last Key Step Id" />
+      <item value="INSTRUCTION END STEP" />
+      <item value="is Novice" />
+      <item value="is Novice Guide Finished" />
+      <item value="Instruction" />
+      <item value="is Instruction Finish" />
+      <item value="toop 111" />
+      <item value="training Speed" />
       <item value="value" />
       <item value="duration" />
       <item value="instruction Cfg" />
@@ -43,19 +51,11 @@
       <item value="elapsed Ns" />
       <item value="measure" />
       <item value="Call Tracer" />
-      <item value="call Tracer" />
-      <item value="timestamp" />
-      <item value="Sampling" />
-      <item value="Snapshot" />
-      <item value="Counter" />
-      <item value="local Time" />
-      <item value="metric" />
-      <item value="registry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3561" />
-        <entry key="ENGLISH" value="3562" />
+        <entry key="CHINESE" value="3567" />
+        <entry key="ENGLISH" value="3568" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -75,6 +75,7 @@
         <entry key="LATIN" value="4" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="5" />
+        <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="11" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="1" />
