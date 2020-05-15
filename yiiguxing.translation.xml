@@ -1,6 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="meter" />
+      <item value="average" />
+      <item value="weighted" />
+      <item value="exponentially" />
+      <item value="throughput" />
+      <item value="measures" />
+      <item value="Gauge" />
+      <item value="Histogram" />
+      <item value="counter" />
+      <item value="decrementing" />
+      <item value="incrementing" />
+      <item value="relate Locks" />
+      <item value="req Lock Count" />
+      <item value="accept" />
+      <item value="retry Metrics" />
+      <item value="Unary" />
+      <item value="Binary" />
+      <item value="Int Unary Operator" />
+      <item value="metric Name" />
+      <item value="req Count" />
+      <item value="lock Count" />
+      <item value="procedure Name" />
+      <item value="procedure" />
+      <item value="procedure Time" />
       <item value="dependency" />
       <item value="success" />
       <item value="transitive" />
@@ -27,35 +51,11 @@
       <item value="param" />
       <item value="no Pause" />
       <item value="roster" />
-      <item value="名册" />
-      <item value="BUYANDUSE" />
-      <item value="Dirty" />
-      <item value="resolution" />
-      <item value="inch" />
-      <item value="per" />
-      <item value="dots" />
-      <item value="bounds" />
-      <item value="visual" />
-      <item value="intersects" />
-      <item value="Cubi" />
-      <item value="Curve" />
-      <item value="PISCES" />
-      <item value="openpisces" />
-      <item value="pisces" />
-      <item value="Scenario" />
-      <item value="retrieve" />
-      <item value="scenario" />
-      <item value="prism" />
-      <item value="geometry" />
-      <item value="listener" />
-      <item value="Property" />
-      <item value="current" />
-      <item value="variables" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3427" />
-        <entry key="ENGLISH" value="3428" />
+        <entry key="CHINESE" value="3464" />
+        <entry key="ENGLISH" value="3465" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
