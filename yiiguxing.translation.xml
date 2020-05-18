@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="target" />
+      <item value="can Encapsulate" />
       <item value="CRAFT" />
       <item value="TRAIN" />
       <item value="assuming" />
@@ -49,13 +51,11 @@
       <item value="procedure Name" />
       <item value="handle Time" />
       <item value="count" />
-      <item value="req Lock Count" />
-      <item value="relate Lock Num" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3608" />
-        <entry key="ENGLISH" value="3609" />
+        <entry key="CHINESE" value="3610" />
+        <entry key="ENGLISH" value="3611" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
