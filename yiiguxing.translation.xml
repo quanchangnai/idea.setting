@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commmon" />
       <item value="target" />
       <item value="can Encapsulate" />
       <item value="CRAFT" />
@@ -50,12 +51,11 @@
       <item value="histogram" />
       <item value="procedure Name" />
       <item value="handle Time" />
-      <item value="count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3610" />
-        <entry key="ENGLISH" value="3611" />
+        <entry key="CHINESE" value="3611" />
+        <entry key="ENGLISH" value="3612" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
