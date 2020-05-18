@@ -105,5 +105,6 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monospaced" />
     <option name="primaryFontFamily" value="Monospaced" />
+    <option name="translateDocumentation" value="false" />
   </component>
 </application>
