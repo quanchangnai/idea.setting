@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="application" />
       <item value="INDEPENDENT" />
       <item value="Civil" />
       <item value="Civilization" />
@@ -50,12 +51,11 @@
       <item value="duration" />
       <item value="instruction Cfg" />
       <item value="end Instruction Cfg" />
-      <item value="start Xdb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3615" />
-        <entry key="ENGLISH" value="3616" />
+        <entry key="CHINESE" value="3616" />
+        <entry key="ENGLISH" value="3617" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
