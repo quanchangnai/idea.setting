@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Civil" />
+      <item value="Civilization" />
+      <item value="INDEPENDENT" />
       <item value="commmon" />
       <item value="target" />
       <item value="can Encapsulate" />
@@ -48,14 +51,11 @@
       <item value="instruction Cfg" />
       <item value="end Instruction Cfg" />
       <item value="start Xdb" />
-      <item value="histogram" />
-      <item value="procedure Name" />
-      <item value="handle Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3611" />
-        <entry key="ENGLISH" value="3612" />
+        <entry key="CHINESE" value="3614" />
+        <entry key="ENGLISH" value="3615" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
