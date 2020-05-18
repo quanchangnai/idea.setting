@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="making" />
       <item value="executable" />
       <item value="command" />
       <item value="main" />
@@ -50,7 +51,6 @@
       <item value="INSTRUCTION END STEP" />
       <item value="is Novice" />
       <item value="is Novice Guide Finished" />
-      <item value="Instruction" />
     </histories>
     <option name="languageScores">
       <map>
