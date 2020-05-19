@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="terminate" />
+      <item value="actively" />
+      <item value="Attempts to stop all actively executing tasks" />
+      <item value="halts the * processing of waiting tasks" />
+      <item value="halts" />
+      <item value="waiting" />
+      <item value="commenced" />
+      <item value="epoch" />
+      <item value="Epoch" />
+      <item value="get Queue" />
       <item value="specific" />
       <item value="tinker" />
       <item value="examples" />
@@ -41,21 +51,11 @@
       <item value="Modularity Spec" />
       <item value="encapsulated" />
       <item value="Reflection" />
-      <item value="Encapsulate" />
-      <item value="desired" />
-      <item value="is Compatible With" />
-      <item value="sealed" />
-      <item value="is Sealed" />
-      <item value="NOVICE" />
-      <item value="encapsulation" />
-      <item value="specified" />
-      <item value="JPMS" />
-      <item value="if there is a value present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3644" />
-        <entry key="ENGLISH" value="3645" />
+        <entry key="CHINESE" value="3661" />
+        <entry key="ENGLISH" value="3662" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
