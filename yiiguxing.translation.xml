@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="record" />
       <item value="ipr" />
       <item value="wildcards" />
       <item value="details" />
@@ -50,12 +51,11 @@
       <item value="Time Based Triggering Policy" />
       <item value="additivity" />
       <item value="monitor Interval" />
-      <item value="experimental" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3635" />
-        <entry key="ENGLISH" value="3636" />
+        <entry key="CHINESE" value="3636" />
+        <entry key="ENGLISH" value="3637" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
