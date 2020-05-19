@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preserve" />
+      <item value="specified" />
+      <item value="Synchronizes" />
+      <item value="synchronize" />
+      <item value="contents" />
+      <item value="sync" />
+      <item value="Duplicates" />
+      <item value="INCLUDE" />
+      <item value="Strategy" />
+      <item value="Sensitive" />
+      <item value="case Sensitive" />
+      <item value="is Case Sensitive" />
+      <item value="spec" />
+      <item value="Spec" />
+      <item value="Copy Spec" />
       <item value="explore Mist Count" />
       <item value="Initial" />
       <item value="command" />
@@ -36,26 +51,11 @@
       <item value="specific" />
       <item value="tinker" />
       <item value="examples" />
-      <item value="ipr$" />
-      <item value="initialization" />
-      <item value="exists" />
-      <item value="apply" />
-      <item value="record" />
-      <item value="ipr" />
-      <item value="wildcards" />
-      <item value="details" />
-      <item value="fine-tuning" />
-      <item value="fine" />
-      <item value="tuning" />
-      <item value="affecting" />
-      <item value="tinkering" />
-      <item value="advanced" />
-      <item value="implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3692" />
-        <entry key="ENGLISH" value="3693" />
+        <entry key="CHINESE" value="3712" />
+        <entry key="ENGLISH" value="3713" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
