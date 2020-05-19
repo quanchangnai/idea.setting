@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="system Default" />
+      <item value="of Epoch Milli" />
+      <item value="Republic of China" />
+      <item value="onwards" />
+      <item value="era" />
       <item value="project Dir" />
       <item value="java Version" />
       <item value="plugin" />
@@ -46,16 +51,11 @@
       <item value="executable" />
       <item value="command" />
       <item value="main" />
-      <item value="instruct" />
-      <item value="scheduled Thread Pool" />
-      <item value="revised" />
-      <item value="Lookup" />
-      <item value="application" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3686" />
-        <entry key="ENGLISH" value="3686" />
+        <entry key="CHINESE" value="3688" />
+        <entry key="ENGLISH" value="3689" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -84,8 +84,8 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="TELUGU" value="1" />
         <entry key="UKRAINIAN" value="1" />
-        <entry key="UZBEK" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="UZBEK" value="3" />
+        <entry key="SPANISH" value="2" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="2" />
         <entry key="ITALIAN" value="9" />
