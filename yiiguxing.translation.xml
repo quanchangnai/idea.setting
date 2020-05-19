@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ipr" />
+      <item value="wildcards" />
+      <item value="details" />
+      <item value="fine-tuning" />
+      <item value="fine" />
+      <item value="tuning" />
+      <item value="affecting" />
+      <item value="tinkering" />
+      <item value="advanced" />
+      <item value="implementation" />
       <item value="making" />
       <item value="executable" />
       <item value="command" />
@@ -41,21 +51,11 @@
       <item value="additivity" />
       <item value="monitor Interval" />
       <item value="experimental" />
-      <item value="Reset Code Event" />
-      <item value="event" />
-      <item value="add Novice Buffs" />
-      <item value="Novice Guide End Event" />
-      <item value="Event" />
-      <item value="Tutorial Last Step Event" />
-      <item value="last Key Step Id" />
-      <item value="INSTRUCTION END STEP" />
-      <item value="is Novice" />
-      <item value="is Novice Guide Finished" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3625" />
-        <entry key="ENGLISH" value="3626" />
+        <entry key="CHINESE" value="3635" />
+        <entry key="ENGLISH" value="3636" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
