@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Succeeded" />
+      <item value="on On Failed" />
+      <item value="ext" />
+      <item value="extension" />
+      <item value="truncate" />
       <item value="crypt" />
       <item value="signal" />
       <item value="empty abstract pathname" />
@@ -46,16 +51,11 @@
       <item value="future" />
       <item value="supply" />
       <item value="Epoch" />
-      <item value="terminate" />
-      <item value="actively" />
-      <item value="Attempts to stop all actively executing tasks" />
-      <item value="halts the * processing of waiting tasks" />
-      <item value="halts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3720" />
-        <entry key="ENGLISH" value="3721" />
+        <entry key="CHINESE" value="3725" />
+        <entry key="ENGLISH" value="3726" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
