@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="empty abstract pathname" />
       <item value="Rethrows" />
       <item value="evaluated" />
       <item value="immediately" />
@@ -50,12 +51,11 @@
       <item value="halts" />
       <item value="waiting" />
       <item value="commenced" />
-      <item value="epoch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3717" />
-        <entry key="ENGLISH" value="3718" />
+        <entry key="CHINESE" value="3718" />
+        <entry key="ENGLISH" value="3719" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
