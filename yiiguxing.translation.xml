@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crypt" />
+      <item value="signal" />
       <item value="empty abstract pathname" />
       <item value="Rethrows" />
       <item value="evaluated" />
@@ -49,13 +51,11 @@
       <item value="Attempts to stop all actively executing tasks" />
       <item value="halts the * processing of waiting tasks" />
       <item value="halts" />
-      <item value="waiting" />
-      <item value="commenced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3718" />
-        <entry key="ENGLISH" value="3719" />
+        <entry key="CHINESE" value="3720" />
+        <entry key="ENGLISH" value="3721" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
