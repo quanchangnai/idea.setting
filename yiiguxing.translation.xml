@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rethrows" />
+      <item value="evaluated" />
+      <item value="immediately" />
       <item value="result Only" />
       <item value="preserve" />
       <item value="specified" />
@@ -48,14 +51,11 @@
       <item value="waiting" />
       <item value="commenced" />
       <item value="epoch" />
-      <item value="get Queue" />
-      <item value="specific" />
-      <item value="tinker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3714" />
-        <entry key="ENGLISH" value="3715" />
+        <entry key="CHINESE" value="3717" />
+        <entry key="ENGLISH" value="3718" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
