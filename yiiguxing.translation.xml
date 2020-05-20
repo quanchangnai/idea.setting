@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provider Session" />
+      <item value="Secret Key Factory" />
       <item value="Cipher" />
+      <item value="Secret Key" />
+      <item value="DES Key Spec" />
+      <item value="Algorithm" />
       <item value="encrypt" />
       <item value="Licit" />
       <item value="on Succeeded" />
@@ -46,16 +51,11 @@
       <item value="Republic of China" />
       <item value="onwards" />
       <item value="era" />
-      <item value="project Dir" />
-      <item value="java Version" />
-      <item value="plugin" />
-      <item value="enabled" />
-      <item value="subprojects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3734" />
-        <entry key="ENGLISH" value="3735" />
+        <entry key="CHINESE" value="3740" />
+        <entry key="ENGLISH" value="3741" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -65,7 +65,7 @@
         <entry key="DANISH" value="8" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="2" />
-        <entry key="FRENCH" value="15" />
+        <entry key="FRENCH" value="16" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="4" />
