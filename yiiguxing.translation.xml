@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <histories>
       <item value="on Succeeded" />
+      <item value="on Failed" />
+      <item value="rollback" />
+      <item value="SPEEDUP" />
+      <item value="speed Up Queue" />
+      <item value="item Cfg Id" />
+      <item value="speed Up" />
       <item value="on On Failed" />
       <item value="ext" />
       <item value="extension" />
@@ -45,17 +51,11 @@
       <item value="source Compatibility" />
       <item value="Async" />
       <item value="supplier" />
-      <item value="executor" />
-      <item value="schedule" />
-      <item value="rebuild Executor" />
-      <item value="future" />
-      <item value="supply" />
-      <item value="Epoch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3725" />
-        <entry key="ENGLISH" value="3726" />
+        <entry key="CHINESE" value="3732" />
+        <entry key="ENGLISH" value="3733" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
