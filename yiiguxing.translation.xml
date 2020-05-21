@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="utils" />
+      <item value="Symmetric Cipher" />
+      <item value="Asymmetric" />
+      <item value="Cipher" />
       <item value="exponent" />
       <item value="modulus" />
       <item value="public Exponent" />
@@ -8,11 +12,8 @@
       <item value="encrypt" />
       <item value="symmetric Cipher" />
       <item value="asymmetric" />
-      <item value="Symmetric Cipher" />
       <item value="asymmetric Cipher" />
-      <item value="Cipher" />
       <item value="prime" />
-      <item value="Asymmetric" />
       <item value="metric" />
       <item value="encrypter" />
       <item value="encryptor" />
@@ -50,12 +51,11 @@
       <item value="signing" />
       <item value="SIGNATURE" />
       <item value="get Signature Algorithm" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3855" />
-        <entry key="ENGLISH" value="3856" />
+        <entry key="CHINESE" value="3860" />
+        <entry key="ENGLISH" value="3861" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
