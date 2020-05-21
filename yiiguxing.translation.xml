@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cipher" />
       <item value="cipher" />
       <item value="ENCRYPT" />
       <item value="transformation" />
@@ -16,7 +17,6 @@
       <item value="among others" />
       <item value="The signature algorithm can be, among others" />
       <item value="Signature" />
-      <item value="Cipher" />
       <item value="signature" />
       <item value="encryption" />
       <item value="sign" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3818" />
-        <entry key="ENGLISH" value="3819" />
+        <entry key="CHINESE" value="3819" />
+        <entry key="ENGLISH" value="3820" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
