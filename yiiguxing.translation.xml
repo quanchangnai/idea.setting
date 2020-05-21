@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encrypt" />
       <item value="symmetric Cipher" />
       <item value="asymmetric" />
       <item value="Symmetric Cipher" />
@@ -42,7 +43,6 @@
       <item value="algorithms" />
       <item value="precomputed" />
       <item value="particular" />
-      <item value="encrypt" />
       <item value="decrypt" />
       <item value="KEY LENGTH" />
       <item value="signing" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3847" />
-        <entry key="ENGLISH" value="3848" />
+        <entry key="CHINESE" value="3848" />
+        <entry key="ENGLISH" value="3849" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
