@@ -1,18 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cipher" />
+      <item value="ENCRYPT" />
+      <item value="transformation" />
+      <item value="signature Algorithm" />
+      <item value="algorithm" />
+      <item value="Secret" />
+      <item value="Iv Parameter Spec" />
+      <item value="secret Key" />
       <item value="byte 2 hex" />
       <item value="TRANSFORMATION" />
       <item value="ALGORITHM" />
-      <item value="transformation" />
       <item value="among" />
       <item value="among others" />
-      <item value="algorithm" />
       <item value="The signature algorithm can be, among others" />
       <item value="Signature" />
       <item value="Cipher" />
       <item value="signature" />
-      <item value="signature Algorithm" />
       <item value="encryption" />
       <item value="sign" />
       <item value="ENCRYPTION ALGORITHM" />
@@ -46,16 +51,11 @@
       <item value="Secret Key" />
       <item value="DES Key Spec" />
       <item value="Licit" />
-      <item value="on Succeeded" />
-      <item value="on Failed" />
-      <item value="rollback" />
-      <item value="SPEEDUP" />
-      <item value="speed Up Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3808" />
-        <entry key="ENGLISH" value="3809" />
+        <entry key="CHINESE" value="3818" />
+        <entry key="ENGLISH" value="3819" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
