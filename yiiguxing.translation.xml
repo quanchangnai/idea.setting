@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="represents" />
       <item value="algorithm" />
       <item value="trouble" />
       <item value="nonce" />
@@ -50,12 +51,11 @@
       <item value="Initial" />
       <item value="command" />
       <item value="explore" />
-      <item value="system Default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3743" />
-        <entry key="ENGLISH" value="3744" />
+        <entry key="CHINESE" value="3744" />
+        <entry key="ENGLISH" value="3745" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
