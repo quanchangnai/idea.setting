@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Strength" />
-      <item value="modlen" />
-      <item value="prime Len" />
+      <item value="legacy" />
       <item value="prime" />
+      <item value="prime Size" />
+      <item value="specified" />
+      <item value="modulus" />
+      <item value="metric" />
+      <item value="force New Parameters" />
+      <item value="modlen" />
+      <item value="Strength" />
+      <item value="prime Len" />
       <item value="sub Prime" />
       <item value="random" />
       <item value="qlen" />
@@ -14,7 +20,6 @@
       <item value="Cipher" />
       <item value="iv Parameter Spec" />
       <item value="Symmetric Algorithm" />
-      <item value="modulus" />
       <item value="private Exponent" />
       <item value="utils" />
       <item value="Symmetric Cipher" />
@@ -26,7 +31,6 @@
       <item value="symmetric Cipher" />
       <item value="asymmetric" />
       <item value="asymmetric Cipher" />
-      <item value="metric" />
       <item value="encrypter" />
       <item value="encryptor" />
       <item value="Encryptor" />
@@ -47,15 +51,11 @@
       <item value="signature" />
       <item value="encryption" />
       <item value="sign" />
-      <item value="ENCRYPTION ALGORITHM" />
-      <item value="cryptographic" />
-      <item value="opaque" />
-      <item value="Rsa Cipher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3875" />
-        <entry key="ENGLISH" value="3876" />
+        <entry key="CHINESE" value="3885" />
+        <entry key="ENGLISH" value="3886" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -84,7 +84,7 @@
         <entry key="SLOVAK" value="3" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="TELUGU" value="1" />
-        <entry key="WELSH" value="2" />
+        <entry key="WELSH" value="3" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="UZBEK" value="3" />
         <entry key="SPANISH" value="2" />
