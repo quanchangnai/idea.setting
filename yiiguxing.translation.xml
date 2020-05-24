@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rebase" />
+      <item value="master" />
+      <item value="prune" />
       <item value="Cipher" />
       <item value="Iv Parameter Spec" />
       <item value="last Phase" />
@@ -48,17 +51,14 @@
       <item value="byte 2 hex" />
       <item value="TRANSFORMATION" />
       <item value="ALGORITHM" />
-      <item value="among" />
-      <item value="among others" />
-      <item value="The signature algorithm can be, among others" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3892" />
-        <entry key="ENGLISH" value="3893" />
+        <entry key="CHINESE" value="3895" />
+        <entry key="ENGLISH" value="3895" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
-        <entry key="ESTONIAN" value="2" />
+        <entry key="ESTONIAN" value="6" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="BOSNIAN" value="1" />
