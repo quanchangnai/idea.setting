@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="only Get" />
+      <item value="get Only" />
       <item value="rebase" />
       <item value="master" />
       <item value="prune" />
@@ -49,13 +51,11 @@
       <item value="Secret" />
       <item value="secret Key" />
       <item value="byte 2 hex" />
-      <item value="TRANSFORMATION" />
-      <item value="ALGORITHM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3895" />
-        <entry key="ENGLISH" value="3895" />
+        <entry key="CHINESE" value="3896" />
+        <entry key="ENGLISH" value="3897" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
