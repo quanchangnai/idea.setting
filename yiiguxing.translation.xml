@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Secure" />
       <item value="properties" />
       <item value="json Object" />
       <item value="req" />
@@ -50,12 +51,11 @@
       <item value="asymmetric Cipher" />
       <item value="encrypter" />
       <item value="encryptor" />
-      <item value="Encryptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3926" />
-        <entry key="ENGLISH" value="3927" />
+        <entry key="CHINESE" value="3927" />
+        <entry key="ENGLISH" value="3928" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
