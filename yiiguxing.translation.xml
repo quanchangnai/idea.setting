@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decrypted Data" />
       <item value="nonce" />
       <item value="Annouce" />
       <item value="Asymmetric" />
@@ -50,12 +51,11 @@
       <item value="ENCRYPT" />
       <item value="transformation" />
       <item value="signature Algorithm" />
-      <item value="Secret" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3900" />
-        <entry key="ENGLISH" value="3900" />
+        <entry key="CHINESE" value="3902" />
+        <entry key="ENGLISH" value="3903" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
