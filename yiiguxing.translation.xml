@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Player Quests" />
+      <item value="daily Quest Ids" />
       <item value="stub" />
       <item value="Asymmetric" />
       <item value="Algorithm" />
@@ -49,8 +51,6 @@
       <item value="public Exponent" />
       <item value="Asymmetric Cipher" />
       <item value="encrypt" />
-      <item value="symmetric Cipher" />
-      <item value="asymmetric" />
     </histories>
     <option name="languageScores">
       <map>
