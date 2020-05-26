@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digest" />
+      <item value="Objects" />
       <item value="World Server" />
       <item value="account" />
       <item value="Symmetric Algorithm" />
@@ -49,13 +51,11 @@
       <item value="iv Parameter Spec" />
       <item value="private Exponent" />
       <item value="utils" />
-      <item value="Symmetric Cipher" />
-      <item value="exponent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3936" />
-        <entry key="ENGLISH" value="3937" />
+        <entry key="CHINESE" value="3938" />
+        <entry key="ENGLISH" value="3939" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
