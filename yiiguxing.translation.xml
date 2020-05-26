@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="daemon" />
+      <item value="naming Pattern" />
+      <item value="wrapped" />
+      <item value="Nullable Problems" />
       <item value="digest" />
       <item value="Objects" />
       <item value="World Server" />
@@ -47,15 +51,11 @@
       <item value="qlen" />
       <item value="plen" />
       <item value="Symmetric" />
-      <item value="algorithm" />
-      <item value="iv Parameter Spec" />
-      <item value="private Exponent" />
-      <item value="utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3938" />
-        <entry key="ENGLISH" value="3939" />
+        <entry key="CHINESE" value="3944" />
+        <entry key="ENGLISH" value="3945" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
