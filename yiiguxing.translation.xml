@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Digital" />
       <item value="Session" />
       <item value="Player Quests" />
       <item value="daily Quest Ids" />
@@ -8,7 +9,6 @@
       <item value="Asymmetric" />
       <item value="Algorithm" />
       <item value="Signature" />
-      <item value="Digital" />
       <item value="Secure" />
       <item value="properties" />
       <item value="json Object" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3933" />
-        <entry key="ENGLISH" value="3934" />
+        <entry key="CHINESE" value="3934" />
+        <entry key="ENGLISH" value="3935" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
