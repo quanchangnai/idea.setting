@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MONSTER" />
+      <item value="EXPLORE" />
       <item value="Redundant" />
       <item value="running" />
       <item value="secure" />
@@ -49,8 +51,6 @@
       <item value="legacy" />
       <item value="prime" />
       <item value="prime Size" />
-      <item value="specified" />
-      <item value="modulus" />
     </histories>
     <option name="languageScores">
       <map>
