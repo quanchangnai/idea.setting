@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="running" />
       <item value="secure" />
       <item value="Secure" />
       <item value="CONFIDENTIAL" />
@@ -50,7 +51,6 @@
       <item value="specified" />
       <item value="modulus" />
       <item value="metric" />
-      <item value="force New Parameters" />
     </histories>
     <option name="languageScores">
       <map>
