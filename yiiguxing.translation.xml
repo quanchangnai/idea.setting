@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reconnect Interval" />
+      <item value="reconnect Time" />
       <item value="Valid" />
       <item value="Redundant" />
       <item value="Caught" />
@@ -49,13 +51,11 @@
       <item value="prune" />
       <item value="Iv Parameter Spec" />
       <item value="last Phase" />
-      <item value="Algorithm Parameter Spec" />
-      <item value="Encrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3962" />
-        <entry key="ENGLISH" value="3963" />
+        <entry key="CHINESE" value="3964" />
+        <entry key="ENGLISH" value="3965" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
