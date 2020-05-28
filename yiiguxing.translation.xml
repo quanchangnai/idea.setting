@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scale" />
       <item value="sure" />
       <item value="Activity Module" />
       <item value="I Module" />
@@ -50,12 +51,11 @@
       <item value="stub" />
       <item value="Asymmetric" />
       <item value="Algorithm" />
-      <item value="Signature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3978" />
-        <entry key="ENGLISH" value="3979" />
+        <entry key="CHINESE" value="3980" />
+        <entry key="ENGLISH" value="3981" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
