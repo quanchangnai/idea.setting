@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="player Ability" />
+      <item value="require Score" />
+      <item value="Count" />
+      <item value="Amount" />
       <item value="ACCUMULATE" />
       <item value="amount" />
       <item value="requirement" />
-      <item value="player Ability" />
       <item value="reward Get" />
       <item value="days" />
       <item value="subject" />
@@ -48,14 +51,11 @@
       <item value="Nullable Problems" />
       <item value="digest" />
       <item value="Objects" />
-      <item value="World Server" />
-      <item value="account" />
-      <item value="Symmetric Algorithm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3988" />
-        <entry key="ENGLISH" value="3989" />
+        <entry key="CHINESE" value="3994" />
+        <entry key="ENGLISH" value="3995" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
