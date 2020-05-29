@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FOOD" />
+      <item value="IRON" />
       <item value="player Ability" />
       <item value="require Score" />
       <item value="Count" />
@@ -49,13 +51,11 @@
       <item value="naming Pattern" />
       <item value="wrapped" />
       <item value="Nullable Problems" />
-      <item value="digest" />
-      <item value="Objects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3994" />
-        <entry key="ENGLISH" value="3995" />
+        <entry key="CHINESE" value="3997" />
+        <entry key="ENGLISH" value="3998" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
