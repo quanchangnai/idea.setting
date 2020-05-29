@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="S Ret Activity Info" />
       <item value="Rank Range" />
       <item value="Ranking Range" />
       <item value="Rank Range Cfg" />
@@ -50,11 +51,10 @@
       <item value="experimental" />
       <item value="Internal" />
       <item value="classifier" />
-      <item value="Represented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4003" />
+        <entry key="CHINESE" value="4004" />
         <entry key="ENGLISH" value="4004" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
@@ -62,7 +62,7 @@
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="BOSNIAN" value="1" />
-        <entry key="DANISH" value="8" />
+        <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="19" />
