@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="days" />
       <item value="subject" />
       <item value="scale" />
       <item value="sure" />
@@ -50,12 +51,11 @@
       <item value="Player Quests" />
       <item value="daily Quest Ids" />
       <item value="stub" />
-      <item value="Asymmetric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3981" />
-        <entry key="ENGLISH" value="3982" />
+        <entry key="CHINESE" value="3982" />
+        <entry key="ENGLISH" value="3983" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
