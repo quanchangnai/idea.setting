@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="player Ability" />
+      <item value="reward Get" />
       <item value="days" />
       <item value="subject" />
       <item value="scale" />
@@ -49,13 +51,11 @@
       <item value="Digital" />
       <item value="Session" />
       <item value="Player Quests" />
-      <item value="daily Quest Ids" />
-      <item value="stub" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3982" />
-        <entry key="ENGLISH" value="3983" />
+        <entry key="CHINESE" value="3984" />
+        <entry key="ENGLISH" value="3985" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
