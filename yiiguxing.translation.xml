@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amount" />
       <item value="requirement" />
       <item value="player Ability" />
       <item value="reward Get" />
@@ -50,12 +51,11 @@
       <item value="account" />
       <item value="Symmetric Algorithm" />
       <item value="Digital" />
-      <item value="Session" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3985" />
-        <entry key="ENGLISH" value="3986" />
+        <entry key="CHINESE" value="3987" />
+        <entry key="ENGLISH" value="3988" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
