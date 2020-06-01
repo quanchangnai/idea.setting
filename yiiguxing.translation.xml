@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Function Unlock Entity" />
+      <item value="Activity Entity" />
+      <item value="preview Time" />
+      <item value="All Activities" />
       <item value="recon" />
       <item value="Finished" />
       <item value="S Ret Activity Info" />
@@ -47,15 +51,11 @@
       <item value="MONSTER" />
       <item value="EXPLORE" />
       <item value="running" />
-      <item value="secure" />
-      <item value="Secure" />
-      <item value="CONFIDENTIAL" />
-      <item value="experimental" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4005" />
-        <entry key="ENGLISH" value="4006" />
+        <entry key="CHINESE" value="4017" />
+        <entry key="ENGLISH" value="4018" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
