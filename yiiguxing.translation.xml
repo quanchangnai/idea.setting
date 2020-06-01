@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finished" />
       <item value="S Ret Activity Info" />
       <item value="Rank Range" />
       <item value="Ranking Range" />
@@ -50,12 +51,11 @@
       <item value="CONFIDENTIAL" />
       <item value="experimental" />
       <item value="Internal" />
-      <item value="classifier" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4004" />
-        <entry key="ENGLISH" value="4004" />
+        <entry key="ENGLISH" value="4005" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
