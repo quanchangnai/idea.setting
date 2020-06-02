@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Absent" />
+      <item value="compute If Absent" />
       <item value="Receive" />
       <item value="Week year" />
       <item value="Function Unlock Entity" />
@@ -49,13 +51,11 @@
       <item value="Valid" />
       <item value="Redundant" />
       <item value="Caught" />
-      <item value="Assignable" />
-      <item value="MONSTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4018" />
-        <entry key="ENGLISH" value="4019" />
+        <entry key="CHINESE" value="4020" />
+        <entry key="ENGLISH" value="4021" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
