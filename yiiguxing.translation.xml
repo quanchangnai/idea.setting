@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get" />
       <item value="asynchronous" />
       <item value="Day By Day Activity Cfg" />
       <item value="Several Days Activity Cfg" />
@@ -50,12 +51,11 @@
       <item value="scale" />
       <item value="sure" />
       <item value="Activity Module" />
-      <item value="I Module" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4040" />
-        <entry key="ENGLISH" value="4041" />
+        <entry key="CHINESE" value="4041" />
+        <entry key="ENGLISH" value="4042" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
