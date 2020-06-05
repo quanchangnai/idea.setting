@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comment out" />
+      <item value="Note" />
+      <item value="no Common Source Sets" />
       <item value="mocha" />
       <item value="future" />
       <item value="scores" />
@@ -48,14 +51,11 @@
       <item value="Amount" />
       <item value="ACCUMULATE" />
       <item value="amount" />
-      <item value="requirement" />
-      <item value="reward Get" />
-      <item value="days" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4047" />
-        <entry key="ENGLISH" value="4045" />
+        <entry key="ENGLISH" value="4048" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
