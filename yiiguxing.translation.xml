@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Day By Day Activity Cfg" />
+      <item value="Several Days Activity Cfg" />
+      <item value="Days Activity Cfg" />
+      <item value="Several" />
+      <item value="Severa" />
       <item value="SERVER OPEN" />
       <item value="ABSOLUTE TIME" />
       <item value="reward Group Id" />
@@ -46,16 +51,11 @@
       <item value="Activity Module" />
       <item value="I Module" />
       <item value="DETECT LOGGER NAME MISMATCH" />
-      <item value="Module" />
-      <item value="S Activity Init" />
-      <item value="C Activity Init" />
-      <item value="cause" />
-      <item value="total Length" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4034" />
-        <entry key="ENGLISH" value="4035" />
+        <entry key="CHINESE" value="4039" />
+        <entry key="ENGLISH" value="4040" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
@@ -87,7 +87,7 @@
         <entry key="WELSH" value="3" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="UZBEK" value="3" />
-        <entry key="SPANISH" value="2" />
+        <entry key="SPANISH" value="3" />
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="3" />
         <entry key="ITALIAN" value="9" />
