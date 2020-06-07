@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Activity State" />
+      <item value="C Activity List" />
+      <item value="Task Target Info" />
       <item value="finished Task Count" />
       <item value="finished Task Num" />
       <item value="finished Tasks" />
@@ -48,14 +51,11 @@
       <item value="lower" />
       <item value="Lower" />
       <item value="FOOD" />
-      <item value="IRON" />
-      <item value="player Ability" />
-      <item value="require Score" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4051" />
-        <entry key="ENGLISH" value="4052" />
+        <entry key="CHINESE" value="4055" />
+        <entry key="ENGLISH" value="4056" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
