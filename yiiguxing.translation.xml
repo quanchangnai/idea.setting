@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="closure Delay" />
-      <item value="described" />
+      <item value="trailing" />
+      <item value="as described above" />
       <item value="above" />
+      <item value="described" />
+      <item value="closure Delay" />
       <item value="threshold" />
       <item value="parse" />
       <item value="Quest Type" />
@@ -49,13 +51,11 @@
       <item value="Function Unlock Entity" />
       <item value="Activity Entity" />
       <item value="preview Time" />
-      <item value="All Activities" />
-      <item value="recon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4067" />
-        <entry key="ENGLISH" value="4068" />
+        <entry key="CHINESE" value="4072" />
+        <entry key="ENGLISH" value="4072" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
