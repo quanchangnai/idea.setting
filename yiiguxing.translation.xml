@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extracted" />
+      <item value="epoch" />
+      <item value="milliseconds" />
+      <item value="plus" />
       <item value="trailing" />
       <item value="as described above" />
       <item value="above" />
@@ -47,15 +51,11 @@
       <item value="Absent" />
       <item value="compute If Absent" />
       <item value="Receive" />
-      <item value="Week year" />
-      <item value="Function Unlock Entity" />
-      <item value="Activity Entity" />
-      <item value="preview Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4072" />
-        <entry key="ENGLISH" value="4072" />
+        <entry key="CHINESE" value="4074" />
+        <entry key="ENGLISH" value="4075" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
@@ -65,7 +65,7 @@
         <entry key="DANISH" value="9" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="2" />
-        <entry key="FRENCH" value="19" />
+        <entry key="FRENCH" value="20" />
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="4" />
