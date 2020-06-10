@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="episode Id" />
+      <item value="Defeated" />
+      <item value="Episode" />
       <item value="Task Action" />
       <item value="Task Target" />
       <item value="Task Condition" />
@@ -48,14 +51,11 @@
       <item value="Activity State" />
       <item value="C Activity List" />
       <item value="Task Target Info" />
-      <item value="finished Task Count" />
-      <item value="finished Task Num" />
-      <item value="finished Tasks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4104" />
-        <entry key="ENGLISH" value="4105" />
+        <entry key="CHINESE" value="4107" />
+        <entry key="ENGLISH" value="4108" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
