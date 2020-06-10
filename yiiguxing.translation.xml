@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Task Action" />
+      <item value="Task Target" />
+      <item value="Task Condition" />
       <item value="Upgrade" />
       <item value="is Invisible" />
       <item value="服务器" />
@@ -48,14 +51,11 @@
       <item value="finished Task Count" />
       <item value="finished Task Num" />
       <item value="finished Tasks" />
-      <item value="total Tasks" />
-      <item value="comment out" />
-      <item value="Note" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4101" />
-        <entry key="ENGLISH" value="4102" />
+        <entry key="CHINESE" value="4104" />
+        <entry key="ENGLISH" value="4105" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
