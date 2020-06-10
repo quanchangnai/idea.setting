@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Combat" />
       <item value="episode Id" />
       <item value="Defeated" />
       <item value="Episode" />
@@ -29,7 +30,6 @@
       <item value="MELLEBASE" />
       <item value="amount" />
       <item value="Train" />
-      <item value="Combat" />
       <item value="Combat Power" />
       <item value="Fraction" />
       <item value="rank reward" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4107" />
-        <entry key="ENGLISH" value="4108" />
+        <entry key="CHINESE" value="4108" />
+        <entry key="ENGLISH" value="4109" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
