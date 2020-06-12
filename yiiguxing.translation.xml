@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="score Factor" />
+      <item value="action" />
       <item value="unchecked" />
       <item value="MIGRATE" />
       <item value="building Level Cfg" />
@@ -49,13 +51,11 @@
       <item value="plus" />
       <item value="trailing" />
       <item value="as described above" />
-      <item value="above" />
-      <item value="described" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4136" />
-        <entry key="ENGLISH" value="4137" />
+        <entry key="CHINESE" value="4137" />
+        <entry key="ENGLISH" value="4138" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
