@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="day 1 Task Group" />
+      <item value="task Entities" />
       <item value="is Present" />
       <item value="change" />
       <item value="add Or Replace Score" />
@@ -49,13 +51,11 @@
       <item value="Train" />
       <item value="Combat Power" />
       <item value="Fraction" />
-      <item value="rank reward" />
-      <item value="extracted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4143" />
-        <entry key="ENGLISH" value="4144" />
+        <entry key="CHINESE" value="4148" />
+        <entry key="ENGLISH" value="4149" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
