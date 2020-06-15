@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Activeness" />
       <item value="yield" />
       <item value="license" />
       <item value="ISC" />
@@ -50,12 +51,11 @@
       <item value="MELLEE" />
       <item value="MELLE" />
       <item value="RANGE" />
-      <item value="MACHINE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4153" />
-        <entry key="ENGLISH" value="4154" />
+        <entry key="CHINESE" value="4154" />
+        <entry key="ENGLISH" value="4155" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
