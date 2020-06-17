@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="red Dots" />
       <item value="select Activity Detail" />
       <item value="Change" />
       <item value="task Finished" />
@@ -11,7 +12,6 @@
       <item value="is Progressing" />
       <item value="incomplete" />
       <item value="task Activities" />
-      <item value="red Dots" />
       <item value="task Actions" />
       <item value="red Dots Change" />
       <item value="activity Change" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4180" />
-        <entry key="ENGLISH" value="4181" />
+        <entry key="CHINESE" value="4181" />
+        <entry key="ENGLISH" value="4182" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
