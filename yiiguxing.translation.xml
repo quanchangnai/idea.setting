@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="is Progressing" />
       <item value="Fraction" />
+      <item value="is Invisible" />
+      <item value="is Progressing" />
       <item value="incomplete" />
       <item value="task Activities" />
       <item value="red Dots" />
@@ -48,14 +49,13 @@
       <item value="Task Target" />
       <item value="Task Condition" />
       <item value="Upgrade" />
-      <item value="is Invisible" />
       <item value="服务器" />
       <item value="servers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4171" />
-        <entry key="ENGLISH" value="4172" />
+        <entry key="CHINESE" value="4175" />
+        <entry key="ENGLISH" value="4176" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
