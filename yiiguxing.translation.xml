@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select Activity Detail" />
       <item value="Change" />
       <item value="task Finished" />
       <item value="Bases" />
@@ -50,12 +51,11 @@
       <item value="Defeated" />
       <item value="Episode" />
       <item value="Task Action" />
-      <item value="Task Target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4179" />
-        <entry key="ENGLISH" value="4180" />
+        <entry key="CHINESE" value="4180" />
+        <entry key="ENGLISH" value="4181" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
