@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Time" />
       <item value="invalid" />
       <item value="parse Unsigned Int" />
       <item value="stamp" />
@@ -50,7 +51,6 @@
       <item value="player.id" />
       <item value="old Combat Power" />
       <item value="Total" />
-      <item value="Present" />
     </histories>
     <option name="languageScores">
       <map>
