@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="stamp" />
+      <item value="invalid" />
       <item value="offset" />
       <item value="is Visible" />
       <item value="red Dots" />
@@ -50,12 +51,11 @@
       <item value="Total" />
       <item value="Present" />
       <item value="Combat" />
-      <item value="episode Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4184" />
-        <entry key="ENGLISH" value="4185" />
+        <entry key="CHINESE" value="4187" />
+        <entry key="ENGLISH" value="4188" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
