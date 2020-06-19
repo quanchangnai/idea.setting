@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chronology" />
+      <item value="Temporal" />
+      <item value="obtain" />
+      <item value="until" />
       <item value="twenty" />
       <item value="era" />
       <item value="lenient" />
@@ -47,15 +51,11 @@
       <item value="task Entities" />
       <item value="is Present" />
       <item value="add Or Replace Score" />
-      <item value="Sec" />
-      <item value="localized" />
-      <item value="score Factor" />
-      <item value="action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4203" />
-        <entry key="ENGLISH" value="4203" />
+        <entry key="CHINESE" value="4207" />
+        <entry key="ENGLISH" value="4208" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
