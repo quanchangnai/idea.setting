@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Time" />
+      <item value="task Changed" />
       <item value="invalid" />
       <item value="star" />
-      <item value="start Time" />
       <item value="parse Unsigned Int" />
       <item value="stamp" />
       <item value="offset" />
@@ -50,12 +51,11 @@
       <item value="false" />
       <item value="city Buildings" />
       <item value="player.id" />
-      <item value="old Combat Power" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4198" />
-        <entry key="ENGLISH" value="4199" />
+        <entry key="CHINESE" value="4200" />
+        <entry key="ENGLISH" value="4201" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
