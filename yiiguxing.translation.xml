@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse Absolute Time" />
+      <item value="parse Server Open Time" />
+      <item value="parse Player Register Time" />
       <item value="mail" />
       <item value="game Executor" />
       <item value="Epoch" />
@@ -48,14 +51,11 @@
       <item value="task Activities" />
       <item value="task Actions" />
       <item value="red Dots Change" />
-      <item value="activity Change" />
-      <item value="task Change" />
-      <item value="change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4233" />
-        <entry key="ENGLISH" value="4234" />
+        <entry key="CHINESE" value="4237" />
+        <entry key="ENGLISH" value="4238" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
