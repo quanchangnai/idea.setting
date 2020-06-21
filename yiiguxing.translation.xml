@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scheduler" />
       <item value="valid" />
+      <item value="actual" />
+      <item value="generic" />
+      <item value="generic Types" />
+      <item value="get Relative Time" />
       <item value="Future" />
       <item value="old Future" />
       <item value="droprate" />
@@ -46,16 +51,11 @@
       <item value="Absent" />
       <item value="compute" />
       <item value="asyn" />
-      <item value="Activeness" />
-      <item value="yield" />
-      <item value="license" />
-      <item value="ISC" />
-      <item value="Kind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4218" />
-        <entry key="ENGLISH" value="4219" />
+        <entry key="CHINESE" value="4224" />
+        <entry key="ENGLISH" value="4225" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
