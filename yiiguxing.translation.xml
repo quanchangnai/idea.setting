@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
+      <item value="Future" />
+      <item value="old Future" />
       <item value="droprate" />
       <item value="Epoch" />
       <item value="PLAYER REGISTER TIME" />
-      <item value="valid" />
       <item value="invalid" />
       <item value="Chronology" />
       <item value="Temporal" />
@@ -49,13 +51,11 @@
       <item value="license" />
       <item value="ISC" />
       <item value="Kind" />
-      <item value="identity" />
-      <item value="Extractor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4213" />
-        <entry key="ENGLISH" value="4214" />
+        <entry key="CHINESE" value="4217" />
+        <entry key="ENGLISH" value="4218" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
