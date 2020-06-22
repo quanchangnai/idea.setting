@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="param Error" />
       <item value="Punish" />
       <item value="successfully" />
       <item value="Param" />
@@ -50,12 +51,11 @@
       <item value="Bases" />
       <item value="Midnight" />
       <item value="Fraction" />
-      <item value="is Invisible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4244" />
-        <entry key="ENGLISH" value="4245" />
+        <entry key="CHINESE" value="4245" />
+        <entry key="ENGLISH" value="4246" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
