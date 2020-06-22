@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="successfully" />
       <item value="Param" />
       <item value="field" />
       <item value="viewed" />
@@ -50,12 +51,11 @@
       <item value="Fraction" />
       <item value="is Invisible" />
       <item value="is Progressing" />
-      <item value="incomplete" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4243" />
-        <entry key="ENGLISH" value="4243" />
+        <entry key="ENGLISH" value="4244" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
