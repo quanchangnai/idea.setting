@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="internal" />
+      <item value="k Inspect" />
+      <item value="percentile" />
+      <item value="stddev" />
+      <item value="exceeds" />
+      <item value="mean" />
+      <item value="Histogram" />
+      <item value="k Destroy" />
       <item value="epoch" />
       <item value="Chronology" />
       <item value="calendar" />
@@ -43,19 +51,11 @@
       <item value="era" />
       <item value="lenient" />
       <item value="indicating" />
-      <item value="February" />
-      <item value="specified" />
-      <item value="Jun" />
-      <item value="start Time" />
-      <item value="task Changed" />
-      <item value="star" />
-      <item value="parse Unsigned Int" />
-      <item value="stamp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4265" />
-        <entry key="ENGLISH" value="4266" />
+        <entry key="CHINESE" value="4271" />
+        <entry key="ENGLISH" value="4272" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
@@ -67,6 +67,7 @@
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="2" />
         <entry key="FRENCH" value="20" />
+        <entry key="FRISIAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="3" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="4" />
