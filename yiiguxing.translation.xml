@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Player band" />
       <item value="Questionnaire Reward 1" />
       <item value="logic Error" />
       <item value="param Error" />
@@ -50,12 +51,11 @@
       <item value="select Activity Detail" />
       <item value="Change" />
       <item value="task Finished" />
-      <item value="Bases" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4247" />
-        <entry key="ENGLISH" value="4248" />
+        <entry key="CHINESE" value="4248" />
+        <entry key="ENGLISH" value="4249" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
