@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="epoch" />
+      <item value="Chronology" />
+      <item value="calendar" />
+      <item value="Temporal" />
+      <item value="Chrono" />
       <item value="ERAS" />
       <item value="Eras" />
       <item value="periods" />
-      <item value="Chrono" />
       <item value="actual" />
       <item value="Sharing" />
       <item value="Player band" />
@@ -22,7 +26,6 @@
       <item value="mail" />
       <item value="game Executor" />
       <item value="Epoch" />
-      <item value="epoch" />
       <item value="to Epoch Milli" />
       <item value="valid" />
       <item value="scheduler" />
@@ -34,8 +37,6 @@
       <item value="droprate" />
       <item value="PLAYER REGISTER TIME" />
       <item value="invalid" />
-      <item value="Chronology" />
-      <item value="Temporal" />
       <item value="obtain" />
       <item value="until" />
       <item value="twenty" />
@@ -50,12 +51,11 @@
       <item value="star" />
       <item value="parse Unsigned Int" />
       <item value="stamp" />
-      <item value="offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4255" />
-        <entry key="ENGLISH" value="4256" />
+        <entry key="CHINESE" value="4265" />
+        <entry key="ENGLISH" value="4266" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
