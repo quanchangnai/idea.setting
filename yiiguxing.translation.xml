@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Epoch" />
+      <item value="Temporal" />
+      <item value="Excess" />
+      <item value="known" />
+      <item value="often" />
+      <item value="primarily" />
+      <item value="Chrono" />
+      <item value="Chronology" />
+      <item value="epoch" />
       <item value="Inspector" />
       <item value="once" />
       <item value="spawn" />
@@ -12,11 +21,7 @@
       <item value="mean" />
       <item value="Histogram" />
       <item value="k Destroy" />
-      <item value="epoch" />
-      <item value="Chronology" />
       <item value="calendar" />
-      <item value="Temporal" />
-      <item value="Chrono" />
       <item value="ERAS" />
       <item value="Eras" />
       <item value="periods" />
@@ -36,7 +41,6 @@
       <item value="parse Player Register Time" />
       <item value="mail" />
       <item value="game Executor" />
-      <item value="Epoch" />
       <item value="to Epoch Milli" />
       <item value="valid" />
       <item value="scheduler" />
@@ -47,15 +51,11 @@
       <item value="old Future" />
       <item value="droprate" />
       <item value="PLAYER REGISTER TIME" />
-      <item value="invalid" />
-      <item value="obtain" />
-      <item value="until" />
-      <item value="twenty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4274" />
-        <entry key="ENGLISH" value="4275" />
+        <entry key="CHINESE" value="4284" />
+        <entry key="ENGLISH" value="4285" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
