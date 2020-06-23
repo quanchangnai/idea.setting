@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JS Check Function Signatures" />
+      <item value="noinspection" />
+      <item value="ensure" />
+      <item value="assignability" />
+      <item value="correct" />
+      <item value="report" />
+      <item value="tuple" />
       <item value="Epoch" />
       <item value="Temporal" />
       <item value="Excess" />
@@ -44,18 +51,11 @@
       <item value="to Epoch Milli" />
       <item value="valid" />
       <item value="scheduler" />
-      <item value="generic" />
-      <item value="generic Types" />
-      <item value="get Relative Time" />
-      <item value="Future" />
-      <item value="old Future" />
-      <item value="droprate" />
-      <item value="PLAYER REGISTER TIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4284" />
-        <entry key="ENGLISH" value="4285" />
+        <entry key="CHINESE" value="4292" />
+        <entry key="ENGLISH" value="4293" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
