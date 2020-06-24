@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="navigator" />
       <item value="terminate" />
       <item value="SHARE ENV" />
       <item value="spawn" />
@@ -50,12 +51,11 @@
       <item value="parse Server Open Time" />
       <item value="parse Player Register Time" />
       <item value="mail" />
-      <item value="game Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4296" />
-        <entry key="ENGLISH" value="4297" />
+        <entry key="CHINESE" value="4297" />
+        <entry key="ENGLISH" value="4298" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
