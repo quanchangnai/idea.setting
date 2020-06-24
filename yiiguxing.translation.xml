@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="simi" />
+      <item value="similar" />
+      <item value="simila" />
+      <item value="dissimilar" />
+      <item value="dissimilar Classes" />
       <item value="navigator" />
       <item value="terminate" />
       <item value="SHARE ENV" />
@@ -46,16 +51,11 @@
       <item value="successfully" />
       <item value="Param" />
       <item value="field" />
-      <item value="viewed" />
-      <item value="parse Absolute Time" />
-      <item value="parse Server Open Time" />
-      <item value="parse Player Register Time" />
-      <item value="mail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4297" />
-        <entry key="ENGLISH" value="4298" />
+        <entry key="CHINESE" value="4302" />
+        <entry key="ENGLISH" value="4301" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
@@ -83,6 +83,7 @@
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="4" />
+        <entry key="ESPERANTO" value="1" />
         <entry key="SLOVAK" value="3" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="TELUGU" value="1" />
