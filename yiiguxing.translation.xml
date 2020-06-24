@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Epoch" />
+      <item value="epoch" />
       <item value="simi" />
       <item value="similar" />
       <item value="simila" />
@@ -18,7 +20,6 @@
       <item value="correct" />
       <item value="report" />
       <item value="tuple" />
-      <item value="Epoch" />
       <item value="Temporal" />
       <item value="Excess" />
       <item value="known" />
@@ -26,7 +27,6 @@
       <item value="primarily" />
       <item value="Chrono" />
       <item value="Chronology" />
-      <item value="epoch" />
       <item value="Inspector" />
       <item value="once" />
       <item value="internal" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4302" />
-        <entry key="ENGLISH" value="4301" />
+        <entry key="CHINESE" value="4303" />
+        <entry key="ENGLISH" value="4304" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
