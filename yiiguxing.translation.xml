@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="activities" />
       <item value="Task Group Entity" />
       <item value="alliance activities" />
       <item value="lock wrt state" />
@@ -50,12 +51,11 @@
       <item value="mean" />
       <item value="Histogram" />
       <item value="k Destroy" />
-      <item value="calendar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4329" />
-        <entry key="ENGLISH" value="4330" />
+        <entry key="CHINESE" value="4331" />
+        <entry key="ENGLISH" value="4332" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
