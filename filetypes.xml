@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="svn_path" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="git_svn_map" type="PLAIN_TEXT" />
       <mapping pattern="git_svn_paths" type="PLAIN_TEXT" />
       <mapping pattern="啊啊啊" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping pattern="svn_path" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="bytes" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
