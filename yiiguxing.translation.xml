@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lock wrt state" />
+      <item value="eligible" />
+      <item value="held" />
+      <item value="wrt" />
       <item value="server activities" />
       <item value="alliance activities" />
       <item value="day 1 Task Groups" />
@@ -47,15 +51,11 @@
       <item value="k Destroy" />
       <item value="calendar" />
       <item value="ERAS" />
-      <item value="Eras" />
-      <item value="periods" />
-      <item value="actual" />
-      <item value="Sharing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4318" />
-        <entry key="ENGLISH" value="4319" />
+        <entry key="CHINESE" value="4326" />
+        <entry key="ENGLISH" value="4327" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
