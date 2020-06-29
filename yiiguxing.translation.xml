@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="state" />
       <item value="Server Activities" />
       <item value="Task Entity" />
       <item value="activity List" />
@@ -50,12 +51,11 @@
       <item value="Chronology" />
       <item value="Inspector" />
       <item value="once" />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4342" />
-        <entry key="ENGLISH" value="4343" />
+        <entry key="CHINESE" value="4343" />
+        <entry key="ENGLISH" value="4344" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
