@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Task Entity" />
+      <item value="activity List" />
+      <item value="duration Unit" />
+      <item value="3600000" />
       <item value="Task Group Entity" />
       <item value="Alliance Activities" />
       <item value="activities" />
@@ -47,15 +51,11 @@
       <item value="once" />
       <item value="internal" />
       <item value="k Inspect" />
-      <item value="percentile" />
-      <item value="stddev" />
-      <item value="exceeds" />
-      <item value="mean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4337" />
-        <entry key="ENGLISH" value="4338" />
+        <entry key="CHINESE" value="4340" />
+        <entry key="ENGLISH" value="4341" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
