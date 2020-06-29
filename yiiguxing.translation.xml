@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Task Activity Entity" />
+      <item value="Task Entity" />
       <item value="Days Activity Entity" />
+      <item value="stamp" />
+      <item value="Task Activity Entity" />
       <item value="Activity Base Entity" />
       <item value="Player Activities" />
       <item value="activity Bases" />
@@ -10,7 +12,6 @@
       <item value="FINISHED" />
       <item value="state" />
       <item value="Server Activities" />
-      <item value="Task Entity" />
       <item value="activity List" />
       <item value="duration Unit" />
       <item value="3600000" />
@@ -50,12 +51,11 @@
       <item value="tuple" />
       <item value="Temporal" />
       <item value="Excess" />
-      <item value="known" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4354" />
-        <entry key="ENGLISH" value="4355" />
+        <entry key="CHINESE" value="4357" />
+        <entry key="ENGLISH" value="4358" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
