@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="star" />
       <item value="Banked" />
       <item value="count" />
       <item value="amount" />
@@ -50,12 +51,11 @@
       <item value="spawn" />
       <item value="file" />
       <item value="JS Check Function Signatures" />
-      <item value="noinspection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4363" />
-        <entry key="ENGLISH" value="4364" />
+        <entry key="CHINESE" value="4364" />
+        <entry key="ENGLISH" value="4365" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
