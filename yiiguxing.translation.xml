@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="proleptic" />
+      <item value="Leap" />
+      <item value="is Leap Year" />
       <item value="in terms of" />
       <item value="terms" />
       <item value="DAYS" />
@@ -48,14 +51,11 @@
       <item value="simi" />
       <item value="similar" />
       <item value="simila" />
-      <item value="dissimilar" />
-      <item value="dissimilar Classes" />
-      <item value="navigator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4370" />
-        <entry key="ENGLISH" value="4371" />
+        <entry key="CHINESE" value="4373" />
+        <entry key="ENGLISH" value="4374" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
