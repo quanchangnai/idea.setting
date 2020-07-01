@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="in terms of" />
+      <item value="terms" />
+      <item value="DAYS" />
+      <item value="date 2" />
+      <item value="temporal 2 Exclusive" />
       <item value="star" />
       <item value="Banked" />
       <item value="count" />
@@ -46,16 +51,11 @@
       <item value="dissimilar" />
       <item value="dissimilar Classes" />
       <item value="navigator" />
-      <item value="terminate" />
-      <item value="SHARE ENV" />
-      <item value="spawn" />
-      <item value="file" />
-      <item value="JS Check Function Signatures" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4364" />
-        <entry key="ENGLISH" value="4365" />
+        <entry key="CHINESE" value="4370" />
+        <entry key="ENGLISH" value="4371" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
