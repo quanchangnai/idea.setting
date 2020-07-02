@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fixed" />
       <item value="Reduce" />
       <item value="total" />
       <item value="awake Times" />
@@ -50,12 +51,11 @@
       <item value="activity" />
       <item value="red Dots Change" />
       <item value="Epoch" />
-      <item value="epoch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4376" />
-        <entry key="ENGLISH" value="4377" />
+        <entry key="CHINESE" value="4377" />
+        <entry key="ENGLISH" value="4378" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
