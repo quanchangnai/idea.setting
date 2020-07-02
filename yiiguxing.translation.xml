@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filesystem queries" />
+      <item value="construction of" />
+      <item value="construction" />
       <item value="t Canonical" />
       <item value="fixed" />
       <item value="Reduce" />
@@ -48,14 +51,11 @@
       <item value="day 1 Task Groups" />
       <item value="step Id" />
       <item value="key Step Id" />
-      <item value="stub" />
-      <item value="activity" />
-      <item value="red Dots Change" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4378" />
-        <entry key="ENGLISH" value="4379" />
+        <entry key="CHINESE" value="4381" />
+        <entry key="ENGLISH" value="4382" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
