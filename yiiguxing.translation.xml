@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="format" />
       <item value="filesystem queries" />
       <item value="construction of" />
       <item value="construction" />
@@ -50,12 +51,11 @@
       <item value="server activities" />
       <item value="day 1 Task Groups" />
       <item value="step Id" />
-      <item value="key Step Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4381" />
-        <entry key="ENGLISH" value="4382" />
+        <entry key="CHINESE" value="4382" />
+        <entry key="ENGLISH" value="4383" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
