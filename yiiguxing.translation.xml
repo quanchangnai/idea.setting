@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Config Writer" />
       <item value="outer" />
       <item value="Present" />
       <item value="forbid" />
@@ -50,12 +51,11 @@
       <item value="state" />
       <item value="Server Activities" />
       <item value="activity List" />
-      <item value="duration Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4393" />
-        <entry key="ENGLISH" value="4394" />
+        <entry key="CHINESE" value="4394" />
+        <entry key="ENGLISH" value="4395" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
