@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="outer" />
       <item value="Present" />
       <item value="forbid" />
       <item value="is Defined Id" />
@@ -50,12 +51,11 @@
       <item value="Server Activities" />
       <item value="activity List" />
       <item value="duration Unit" />
-      <item value="3600000" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4392" />
-        <entry key="ENGLISH" value="4393" />
+        <entry key="CHINESE" value="4393" />
+        <entry key="ENGLISH" value="4394" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
