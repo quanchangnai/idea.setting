@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="queried" />
       <item value="lack" />
       <item value="dissimilar" />
       <item value="homonym Class Definition" />
@@ -50,11 +51,10 @@
       <item value="Player Activities" />
       <item value="activity Bases" />
       <item value="alliance activities" />
-      <item value="FINISHED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4397" />
+        <entry key="CHINESE" value="4398" />
         <entry key="ENGLISH" value="4398" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
