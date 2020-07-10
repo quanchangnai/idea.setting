@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="income" />
       <item value="n Craft" />
       <item value="queried" />
       <item value="lack" />
@@ -50,12 +51,11 @@
       <item value="Task Activity Entity" />
       <item value="Activity Base Entity" />
       <item value="Player Activities" />
-      <item value="activity Bases" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4398" />
-        <entry key="ENGLISH" value="4399" />
+        <entry key="CHINESE" value="4399" />
+        <entry key="ENGLISH" value="4400" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
