@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MARCH TRANSPORT RETURN" />
       <item value="dependent" />
       <item value="relative" />
       <item value="aside" />
@@ -50,12 +51,11 @@
       <item value="Recruit Reward" />
       <item value="received" />
       <item value="Task Entity" />
-      <item value="Days Activity Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4403" />
-        <entry key="ENGLISH" value="4404" />
+        <entry key="CHINESE" value="4404" />
+        <entry key="ENGLISH" value="4405" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
