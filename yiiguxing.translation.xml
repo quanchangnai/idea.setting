@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="breadcrumb" />
       <item value="default" />
       <item value="MARCH TRANSPORT RETURN" />
       <item value="dependent" />
@@ -50,12 +51,11 @@
       <item value="Slot" />
       <item value="Study" />
       <item value="Recruit Reward" />
-      <item value="received" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4406" />
-        <entry key="ENGLISH" value="4407" />
+        <entry key="CHINESE" value="4407" />
+        <entry key="ENGLISH" value="4408" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
