@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Player Activities" />
+      <item value="Task Activity Entity" />
+      <item value="Rank Activity Entity" />
       <item value="logger" />
       <item value="available" />
       <item value="Aside Menu" />
@@ -48,14 +51,11 @@
       <item value="is Leap Year" />
       <item value="in terms of" />
       <item value="terms" />
-      <item value="DAYS" />
-      <item value="date 2" />
-      <item value="temporal 2 Exclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4419" />
-        <entry key="ENGLISH" value="4419" />
+        <entry key="CHINESE" value="4420" />
+        <entry key="ENGLISH" value="4421" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
