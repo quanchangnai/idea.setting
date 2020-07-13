@@ -1,13 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aside Menu" />
+      <item value="aside" />
+      <item value="menu" />
+      <item value="header" />
+      <item value="container" />
       <item value="delivery" />
       <item value="breadcrumb" />
       <item value="default" />
       <item value="MARCH TRANSPORT RETURN" />
       <item value="dependent" />
       <item value="relative" />
-      <item value="aside" />
       <item value="plunder" />
       <item value="income" />
       <item value="n Craft" />
@@ -47,15 +51,11 @@
       <item value="temporal 2 Exclusive" />
       <item value="star" />
       <item value="Banked" />
-      <item value="count" />
-      <item value="amount" />
-      <item value="Slot" />
-      <item value="Study" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4407" />
-        <entry key="ENGLISH" value="4408" />
+        <entry key="CHINESE" value="4417" />
+        <entry key="ENGLISH" value="4418" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
