@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Score" />
       <item value="Player Activities" />
       <item value="Task Activity Entity" />
       <item value="Rank Activity Entity" />
@@ -50,12 +51,11 @@
       <item value="Leap" />
       <item value="is Leap Year" />
       <item value="in terms of" />
-      <item value="terms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4420" />
-        <entry key="ENGLISH" value="4421" />
+        <entry key="CHINESE" value="4421" />
+        <entry key="ENGLISH" value="4422" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
