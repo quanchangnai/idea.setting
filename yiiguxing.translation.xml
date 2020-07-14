@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="justify" />
       <item value="show Red Dot" />
       <item value="times" />
       <item value="Score" />
@@ -50,12 +51,11 @@
       <item value="total" />
       <item value="awake Times" />
       <item value="proleptic" />
-      <item value="Leap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4423" />
-        <entry key="ENGLISH" value="4424" />
+        <entry key="CHINESE" value="4424" />
+        <entry key="ENGLISH" value="4425" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
