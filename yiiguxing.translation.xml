@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exchange All" />
       <item value="Present" />
       <item value="aside" />
       <item value="section" />
@@ -50,7 +51,6 @@
       <item value="fixed" />
       <item value="Reduce" />
       <item value="total" />
-      <item value="awake Times" />
     </histories>
     <option name="languageScores">
       <map>
