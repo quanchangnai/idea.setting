@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Present" />
       <item value="aside" />
       <item value="section" />
       <item value="justify" />
@@ -31,7 +32,6 @@
       <item value="homonym Class Definition" />
       <item value="Config Writer" />
       <item value="outer" />
-      <item value="Present" />
       <item value="forbid" />
       <item value="is Defined Id" />
       <item value="hero Star Cfg" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4426" />
-        <entry key="ENGLISH" value="4427" />
+        <entry key="CHINESE" value="4427" />
+        <entry key="ENGLISH" value="4428" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
