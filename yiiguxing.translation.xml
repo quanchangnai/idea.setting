@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
       <item value="Before" />
       <item value="get Key" />
       <item value="fraction" />
@@ -50,12 +51,11 @@
       <item value="filesystem queries" />
       <item value="construction of" />
       <item value="construction" />
-      <item value="t Canonical" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4430" />
-        <entry key="ENGLISH" value="4430" />
+        <entry key="ENGLISH" value="4431" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
