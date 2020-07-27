@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reward" />
       <item value="Stage" />
       <item value="Task Group Info" />
       <item value="Day By Day Activity Info" />
@@ -50,12 +51,11 @@
       <item value="hero Star Cfg" />
       <item value="skill Cfg" />
       <item value="extra" />
-      <item value="column Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4440" />
-        <entry key="ENGLISH" value="4441" />
+        <entry key="CHINESE" value="4441" />
+        <entry key="ENGLISH" value="4442" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
