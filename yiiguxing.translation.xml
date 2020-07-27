@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stage" />
       <item value="appropriate" />
       <item value="alliance Id" />
       <item value="clean Player Data" />
@@ -50,12 +51,11 @@
       <item value="item Update" />
       <item value="resp" />
       <item value="C Rising Star" />
-      <item value="request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4435" />
-        <entry key="ENGLISH" value="4436" />
+        <entry key="CHINESE" value="4436" />
+        <entry key="ENGLISH" value="4437" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
