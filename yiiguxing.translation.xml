@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="over Max" />
       <item value="interim" />
       <item value="subsequently" />
       <item value="Milestone" />
@@ -50,12 +51,11 @@
       <item value="Config Writer" />
       <item value="outer" />
       <item value="forbid" />
-      <item value="is Defined Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4443" />
-        <entry key="ENGLISH" value="4444" />
+        <entry key="CHINESE" value="4444" />
+        <entry key="ENGLISH" value="4445" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
