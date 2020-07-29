@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interim" />
+      <item value="subsequently" />
       <item value="Milestone" />
       <item value="reward" />
       <item value="Stage" />
@@ -49,13 +51,11 @@
       <item value="outer" />
       <item value="forbid" />
       <item value="is Defined Id" />
-      <item value="hero Star Cfg" />
-      <item value="skill Cfg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4442" />
-        <entry key="ENGLISH" value="4442" />
+        <entry key="CHINESE" value="4443" />
+        <entry key="ENGLISH" value="4444" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
