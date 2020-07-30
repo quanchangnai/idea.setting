@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sure" />
       <item value="strip out" />
       <item value="strip" />
       <item value="over Max" />
@@ -50,12 +51,11 @@
       <item value="lack" />
       <item value="dissimilar" />
       <item value="homonym Class Definition" />
-      <item value="Config Writer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4449" />
-        <entry key="ENGLISH" value="4450" />
+        <entry key="CHINESE" value="4450" />
+        <entry key="ENGLISH" value="4451" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
