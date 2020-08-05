@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stage" />
       <item value="Season" />
       <item value="sure" />
       <item value="strip out" />
@@ -13,7 +14,6 @@
       <item value="Stage" />
       <item value="Task Group Info" />
       <item value="Day By Day Activity Info" />
-      <item value="stage" />
       <item value="appropriate" />
       <item value="alliance Id" />
       <item value="clean Player Data" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4451" />
-        <entry key="ENGLISH" value="4452" />
+        <entry key="CHINESE" value="4452" />
+        <entry key="ENGLISH" value="4453" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
