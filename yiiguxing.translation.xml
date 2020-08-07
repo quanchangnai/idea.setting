@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUNDAY" />
+      <item value="MONDAY" />
       <item value="lowest Rank" />
       <item value="Absent" />
       <item value="stage" />
@@ -49,13 +51,11 @@
       <item value="relative" />
       <item value="plunder" />
       <item value="income" />
-      <item value="n Craft" />
-      <item value="queried" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4454" />
-        <entry key="ENGLISH" value="4455" />
+        <entry key="CHINESE" value="4456" />
+        <entry key="ENGLISH" value="4457" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
