@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retention" />
       <item value="CHEST" />
       <item value="SUNDAY" />
       <item value="MONDAY" />
@@ -50,12 +51,11 @@
       <item value="MARCH TRANSPORT RETURN" />
       <item value="dependent" />
       <item value="relative" />
-      <item value="plunder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4457" />
-        <entry key="ENGLISH" value="4458" />
+        <entry key="CHINESE" value="4458" />
+        <entry key="ENGLISH" value="4459" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
