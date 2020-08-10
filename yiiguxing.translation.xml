@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compute If Absent" />
       <item value="charge Times" />
       <item value="Guarantee" />
       <item value="guaranteed" />
@@ -50,12 +51,11 @@
       <item value="header" />
       <item value="container" />
       <item value="delivery" />
-      <item value="breadcrumb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4462" />
-        <entry key="ENGLISH" value="4463" />
+        <entry key="CHINESE" value="4463" />
+        <entry key="ENGLISH" value="4464" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
