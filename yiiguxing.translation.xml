@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PASSIVE" />
+      <item value="ACTIVE" />
+      <item value="Melee" />
+      <item value="pure" />
+      <item value="Contract" />
       <item value="coerce" />
       <item value="Arithmetic" />
       <item value="string image" />
@@ -46,16 +51,11 @@
       <item value="Present" />
       <item value="aside" />
       <item value="section" />
-      <item value="justify" />
-      <item value="show Red Dot" />
-      <item value="times" />
-      <item value="Score" />
-      <item value="Player Activities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4475" />
-        <entry key="ENGLISH" value="4476" />
+        <entry key="CHINESE" value="4478" />
+        <entry key="ENGLISH" value="4479" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
