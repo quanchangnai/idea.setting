@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coerce" />
+      <item value="Arithmetic" />
+      <item value="string image" />
+      <item value="image" />
+      <item value="COMPOSITE" />
       <item value="continuous" />
       <item value="summing Long" />
       <item value="continuous Cost" />
@@ -46,16 +51,11 @@
       <item value="times" />
       <item value="Score" />
       <item value="Player Activities" />
-      <item value="Task Activity Entity" />
-      <item value="Rank Activity Entity" />
-      <item value="logger" />
-      <item value="available" />
-      <item value="Aside Menu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4469" />
-        <entry key="ENGLISH" value="4470" />
+        <entry key="CHINESE" value="4475" />
+        <entry key="ENGLISH" value="4476" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
