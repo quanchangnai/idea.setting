@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="march Speed" />
+      <item value="traits" />
+      <item value="Record Type" />
+      <item value="Troop Type" />
+      <item value="critical" />
       <item value="cost Times" />
       <item value="up Times" />
       <item value="Card Up" />
@@ -46,16 +51,11 @@
       <item value="alliance Id" />
       <item value="clean Player Data" />
       <item value="member Id" />
-      <item value="valid" />
-      <item value="Before" />
-      <item value="get Key" />
-      <item value="fraction" />
-      <item value="exchange All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4483" />
-        <entry key="ENGLISH" value="4484" />
+        <entry key="CHINESE" value="4490" />
+        <entry key="ENGLISH" value="4491" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
