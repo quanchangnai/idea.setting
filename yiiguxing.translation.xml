@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
       <item value="corresponds" />
       <item value="loot box" />
       <item value="Loot Box Log" />
@@ -50,7 +51,6 @@
       <item value="Milestone" />
       <item value="reward" />
       <item value="Stage" />
-      <item value="Task Group Info" />
     </histories>
     <option name="languageScores">
       <map>
