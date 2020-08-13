@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOANCHOR" />
       <item value="region" />
       <item value="corresponds" />
       <item value="loot box" />
@@ -50,7 +51,6 @@
       <item value="subsequently" />
       <item value="Milestone" />
       <item value="reward" />
-      <item value="Stage" />
     </histories>
     <option name="languageScores">
       <map>
@@ -94,7 +94,7 @@
         <entry key="GREEK" value="4" />
         <entry key="HUNGARIAN" value="4" />
         <entry key="ITALIAN" value="9" />
-        <entry key="HINDI" value="2" />
+        <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="7" />
       </map>
