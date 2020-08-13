@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="loot box" />
+      <item value="Loot Box Log" />
       <item value="C Set Card Prob Up Target" />
       <item value="Loot" />
       <item value="march Speed" />
@@ -49,13 +51,11 @@
       <item value="Stage" />
       <item value="Task Group Info" />
       <item value="Day By Day Activity Info" />
-      <item value="appropriate" />
-      <item value="alliance Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4492" />
-        <entry key="ENGLISH" value="4493" />
+        <entry key="CHINESE" value="4494" />
+        <entry key="ENGLISH" value="4495" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
