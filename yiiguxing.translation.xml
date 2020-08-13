@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="up Times" />
       <item value="Card Up" />
       <item value="PASSIVE" />
       <item value="ACTIVE" />
@@ -50,12 +51,11 @@
       <item value="fraction" />
       <item value="exchange All" />
       <item value="Present" />
-      <item value="aside" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4479" />
-        <entry key="ENGLISH" value="4480" />
+        <entry key="CHINESE" value="4481" />
+        <entry key="ENGLISH" value="4482" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
