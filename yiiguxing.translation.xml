@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compilation" />
+      <item value="Compilation Unit" />
       <item value="patch" />
       <item value="minor" />
       <item value="major" />
@@ -49,13 +51,11 @@
       <item value="Season" />
       <item value="sure" />
       <item value="strip out" />
-      <item value="strip" />
-      <item value="over Max" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4497" />
-        <entry key="ENGLISH" value="4498" />
+        <entry key="CHINESE" value="4499" />
+        <entry key="ENGLISH" value="4500" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
