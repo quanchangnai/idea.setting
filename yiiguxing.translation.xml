@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="simulate" />
       <item value="WILD" />
       <item value="PLAYER" />
       <item value="SAVAGE" />
@@ -50,12 +51,11 @@
       <item value="retention" />
       <item value="CHEST" />
       <item value="SUNDAY" />
-      <item value="MONDAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4507" />
-        <entry key="ENGLISH" value="4508" />
+        <entry key="CHINESE" value="4508" />
+        <entry key="ENGLISH" value="4509" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
