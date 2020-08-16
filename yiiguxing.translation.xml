@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="titles" />
       <item value="LETTER" />
       <item value="IDENTIFIER" />
       <item value="DIGIT" />
@@ -50,12 +51,11 @@
       <item value="COMPOSITE" />
       <item value="continuous" />
       <item value="summing Long" />
-      <item value="continuous Cost" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4522" />
-        <entry key="ENGLISH" value="4523" />
+        <entry key="CHINESE" value="4523" />
+        <entry key="ENGLISH" value="4524" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
