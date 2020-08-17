@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALLIANCE TECH" />
+      <item value="ALLIANCE STORE" />
       <item value="expiration Time" />
       <item value="end Time" />
       <item value="titles" />
@@ -49,13 +51,11 @@
       <item value="coerce" />
       <item value="Arithmetic" />
       <item value="string image" />
-      <item value="image" />
-      <item value="COMPOSITE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4526" />
-        <entry key="ENGLISH" value="4527" />
+        <entry key="CHINESE" value="4530" />
+        <entry key="ENGLISH" value="4531" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
@@ -110,6 +110,5 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monospaced" />
     <option name="primaryFontFamily" value="Monospaced" />
-    <option name="translateDocumentation" value="false" />
   </component>
 </application>
