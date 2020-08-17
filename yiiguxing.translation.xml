@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unit" />
       <item value="ALLIANCE TECH" />
       <item value="ALLIANCE STORE" />
       <item value="expiration Time" />
@@ -50,12 +51,11 @@
       <item value="Contract" />
       <item value="coerce" />
       <item value="Arithmetic" />
-      <item value="string image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4530" />
-        <entry key="ENGLISH" value="4531" />
+        <entry key="CHINESE" value="4531" />
+        <entry key="ENGLISH" value="4532" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
