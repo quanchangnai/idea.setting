@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Effective" />
       <item value="peek" />
       <item value="poll" />
       <item value="Retrieves" />
@@ -50,12 +51,11 @@
       <item value="Card Up" />
       <item value="PASSIVE" />
       <item value="ACTIVE" />
-      <item value="Melee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4537" />
-        <entry key="ENGLISH" value="4538" />
+        <entry key="CHINESE" value="4538" />
+        <entry key="ENGLISH" value="4539" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
