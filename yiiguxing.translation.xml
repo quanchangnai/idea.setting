@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bracket Expr" />
       <item value="score Factor" />
       <item value="recon Def" />
       <item value="Reinforce" />
@@ -50,12 +51,11 @@
       <item value="traits" />
       <item value="Record Type" />
       <item value="Troop Type" />
-      <item value="critical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4547" />
-        <entry key="ENGLISH" value="4548" />
+        <entry key="CHINESE" value="4548" />
+        <entry key="ENGLISH" value="4549" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
