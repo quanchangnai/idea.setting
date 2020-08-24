@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Axios" />
       <item value="Bracket Expr" />
       <item value="score Factor" />
       <item value="recon Def" />
@@ -50,7 +51,6 @@
       <item value="march Speed" />
       <item value="traits" />
       <item value="Record Type" />
-      <item value="Troop Type" />
     </histories>
     <option name="languageScores">
       <map>
