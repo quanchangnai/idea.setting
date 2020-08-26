@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Before" />
       <item value="router" />
       <item value="gamemaster" />
       <item value="spread" />
@@ -50,11 +51,10 @@
       <item value="corresponds" />
       <item value="loot box" />
       <item value="Loot Box Log" />
-      <item value="C Set Card Prob Up Target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4552" />
+        <entry key="CHINESE" value="4553" />
         <entry key="ENGLISH" value="4553" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
