@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REPAIRING" />
+      <item value="REPAIR" />
       <item value="worldtrend" />
       <item value="Before" />
       <item value="router" />
@@ -49,13 +51,11 @@
       <item value="Punctuation" />
       <item value="NOANCHOR" />
       <item value="region" />
-      <item value="corresponds" />
-      <item value="loot box" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4553" />
-        <entry key="ENGLISH" value="4554" />
+        <entry key="CHINESE" value="4556" />
+        <entry key="ENGLISH" value="4557" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
