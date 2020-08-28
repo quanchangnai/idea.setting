@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="env Limit" />
       <item value="Resolution" />
       <item value="is Effective" />
       <item value="replenish" />
@@ -50,12 +51,11 @@
       <item value="CARDUP" />
       <item value="Compilation Unit" />
       <item value="patch" />
-      <item value="minor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4560" />
-        <entry key="ENGLISH" value="4561" />
+        <entry key="CHINESE" value="4561" />
+        <entry key="ENGLISH" value="4562" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="6" />
