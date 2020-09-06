@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Framework Detection" displayType="NONE" />
+    <notification groupId="Platform and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="Spring Configuration Check" displayType="NONE" />
+  </component>
+</application>
