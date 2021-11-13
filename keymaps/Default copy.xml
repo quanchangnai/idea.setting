@@ -45,6 +45,10 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
