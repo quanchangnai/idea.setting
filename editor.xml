@@ -13,4 +13,7 @@
     <option name="TOOLTIPS_DELAY_MS" value="1000" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
 </application>
